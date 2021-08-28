@@ -1,0 +1,32 @@
+{% macro render_header() %}
+{% if config.default_language == lang %}
+{% set section = get_section(path="_index.md") %}
+{% else %}
+{% set section = get_section(path="_index." ~ lang ~ ".md") %}
+{% endif %}
+
+<div id="lang-switch">
+  {% set path = current_path | replace(from=lang ~ "/", to="") %}
+  <div class="lang-selected">{{ lang | upper }}</div>
+  <ul class="lang-availabe">
+    <li class="lang-select-container">
+      <a class="lang-select" href="{{ get_url(path=path) }}">English</a>
+    </li>
+    <li class="lang-select-container">
+      <a class="lang-select" href="{{ get_url(path="it" ~ path) }}">Italiano</a>
+    </li>
+  </ul>
+</div>
+
+<a href="{{ section.permalink }}">
+  <div class="logo">
+    {{ config.title }}
+  </div>
+</a>
+
+<nav>
+  {% for page in section.pages %}
+  <a class="nav-item subtitle-text" href="{{ page.permalink }}">{{ page.extra.menu | default(value = page.title) }}</a>
+  {% endfor %}
+</nav>
+{% endmacro render_header %}

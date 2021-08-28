@@ -1,0 +1,35 @@
+.lang-availabe {
+  list-style: none;
+  position: absolute;
+  top: 2rem;
+  left: 0;
+  padding: 0 1rem 0.5rem;
+  background: #fff;
+  box-shadow: 1px 1px 4px -2px;
+  display: none;
+
+  #lang-switch:hover > &, .clicked > & {
+    display: block;
+  }
+}
+
+#lang-switch {
+  cursor: pointer;
+  position: relative;
+  z-index: 1;
+  padding: 1rem;
+}
+
+.lang-selected::after {
+  content: "";
+  margin-left: 5px;
+  display: inline-block;
+  width: 0; 
+  height: 0; 
+  border-left: 0.4rem solid transparent;
+  border-right: 0.4rem solid transparent;
+  border-top: 0.4rem solid;
+  vertical-align: middle;
+  position: relative;
+  top: -1px;
+}
