@@ -37,6 +37,14 @@ p > img {
   height: auto;
 }
 
+.content blockquote {
+  margin-top: 0.5rem;
+
+  & > p {
+    margin-bottom: 1rem;
+  }
+}
+
 header {
   background-color: var(--primary-color);
   color: black;

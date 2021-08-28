@@ -153,6 +153,6 @@ The plan described so far is only one of the possible variations to achieve the 
 
 As Winston Churchill said:
 
-> "Plans are of little importance, but planning is essential."
+> Plans are of little importance, but planning is essential.
 
 Many aspects of Project Terra are closely related to the type of society we are immersed in today and may change in the future, however we believe that the key concepts transcend time and will always remain a good guide for future generations.
