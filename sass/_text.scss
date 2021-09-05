@@ -8,16 +8,22 @@
 
 h1, .title-text {
   font-family: "Fira Sans", sans-serif;
-  font-size: 25px;
+  font-size: 2rem;
   font-weight: 500;
   color: var(--primary-text-color);
 }
 
 h2, .subtitle-text {
   font-family: "Fira Sans", sans-serif;
-  font-size: 20px;
+  font-size: 1.6rem;
   font-weight: 500;
   color: var(--primary-text-color);
+}
+
+h3 {
+  font-family: "Fira Sans", sans-serif;
+  font-size: 1.5rem;
+  font-weight: normal;
 }
 
 .text {

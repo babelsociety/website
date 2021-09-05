@@ -124,8 +124,16 @@ main {
   }
 
   .toc-item-child {
-    padding: 0 30px 5px;
     color: #424242;
+  }
+
+  .toc-children {
+    padding: 0 0 0 1rem;
+    font-size: 0.8rem;
+
+    .subtext {
+      font-size: inherit;
+    }
   }
 
 }
@@ -141,6 +149,8 @@ main {
   position: -o-sticky;
   top: 10px;
   padding: 10px 0;
+  max-height: 80vh;
+  overflow-y: auto;
 }
 
 footer {
