@@ -9,9 +9,9 @@ menu = "Manifest"
 
 Although the universe is incomprehensibly vast, we know only one planet where life has managed to flourish: the Earth.
 
-Nonetheless, many think that it is not that suitable: too many people, too many problems. It would be much better to aim for a colonization of Mars if you want to make your existence truly meaningful.
+Nonetheless, many think that it is not suitable anymore: too many people, too many problems. It would be much better to aim for a colonization of Mars if you want to make your existence truly meaningful!
 
-What we lack is perhaps introspection, a better understanding of ourselves. We are fortunate to exist on one of the best planets in the known universe. Having a life that is often difficult, full of injustices and problems that tend to crush us is not due to where we are, but rather to what kind of society surrounds us. Society that we ourselves have created. Problems that arise from within ourselves.
+What we lack is perhaps introspection, a better understanding of ourselves. We are fortunate to exist on one of the best planets in the known universe. Having a life that is often difficult, full of injustices and problems that tend to crush us is not due to *where* we are, but rather to **what kind** of society surrounds us. Society that we ourselves have created. Problems that arise from within ourselves.
 
 Just as we cannot be comfortable with others until we solve the problems we carry within, we will not be able to fully enjoy all the beauty that surrounds us until we have improved the society we live in.
 
@@ -19,7 +19,7 @@ We can do it.
 
 Babel Society wants to propose a new type of society and a [concrete plan](@/plan/index.md) to achieve it.
 
-We are aware that changing an entire society from one day to the other is not possible, the project aims instead to create a small starting community where it will be possible to test and prove our ideas.
+We are aware that changing an entire society from one day to the other is impossible, the project aims instead to create a small starting community where we test and prove our ideas.
 
 Babel Society doesn't seek a _revolution_, but rather a genuine **evolution**.
 
@@ -33,16 +33,16 @@ Each aspect of Babel Society stems from the following key concepts:
 - Freedom
 - Stability
 
-This Manifest is no way set in stone, it is subject to revision in each and every part, however we believe these key concepts will transcend time and stay always relevant as long as humans will be around.
+This Manifest is in no way set in stone, it is subject to revision in each and every part, however we believe these key concepts will transcend time and stay always relevant as long as humans will be around.
 
 
 ## Collaboration
 
-We believe that collaboration is the most important principle, the basis of every efficient group and endeavor Collaborating means knowing how to play together, joining forces in order to achieve a goal that alone we could never achieve.  
-It means recognizing the value of others, accepting and respecting them; knowing how to stake one's own interests so that others can benefit from them.  
-Collaborating means that everyone can express their opinions without fear of repercussions, favoring dialog until more efficient solutions are found.
+We believe that collaboration is the most important principle, the basis of every efficient group and successful endeavor. Collaboration means knowing how to play together, joining forces in order to achieve a goal that alone we could never achieve.  
+It means recognizing the value of others, accepting and respecting them; to stake one's own interests so that others can benefit from them.  
+Collaboration means that everyone can express their opinions without fear of repercussions, favoring dialog until more efficient solutions are found.
 
-**Collaboration does not apply only between humans, but must be extended to the whole world around us**. We must therefore learn to coexist with other species, to respect and protect the different biomes present in the world.
+**Collaboration does not apply only between humans, but must be extended to the whole world around us**. We must therefore learn to coexist with other species, to respect and protect the different biomes present in the world. We must understand that being in harmony with nature is fundamental for the long-term survival of any species, humans included.
 
 
 ## Authenticity
@@ -60,10 +60,10 @@ If everyone accepted their neighbor, then it goes without saying that there coul
 
 ## Freedom
 
-Freedom is a fundamental concept to be able to fully enjoy our life. There can be no true freedom in a society where there are groups and divisions, much less if there are strict hierarchies. Any hierarchy assumes that there are people who are superior to others. This undermines the freedom of all people considered inferior.  
-For this reason Babel Society wants to limit as much as possible any form of hierarchy within its own society.
+Freedom is a fundamental concept to be able to fully enjoy our life. There can be no true freedom in a society where there are conflicting groups and divisions, much less if there are strict hierarchies. Any hierarchy of power assumes that there are people who are superior to others, which undermines the freedom of those considered inferior.  
+For this reason Babel Society wants to abolish all forms of hierarchy of power within its society.
 
-Freedom means that any person in society is free to associate with whomever they wish, including elements outside the society itself.
+Freedom means that any person in society is free to associate with whomever they wish, including people outside the society itself. It also means we will be free to use our time as we see fit and have a job that we are happy to do.
 
 
 ## Stability
@@ -79,7 +79,7 @@ No matter how many good intentions and qualities we arm ourselves with, perfecti
 
 We strongly believe that a competitive society is not sustainable in the long term, but rather causes many of the social problems we face today.
 
-In a competitive society, the "other" becomes an enemy, someone to beat. Any mean is valid as long as we are ahead of everyone else, as long as we are the winners. This mentality does nothing but generate enemies and divisions, both on a macroscopic level (e.g. wars between States) and personal (e.g. fights between colleagues). The reality is that every competition has only one winner, so if we accept unbridled competition on all fronts, we also accept the fact that everyone is a loser. By the law of large numbers, it is highly likely that both you, dear reader, and me will end up being losers in something. In the competitive sphere, defeats always weigh in, it makes us feel less than others, unsuitable.
+In a competitive society, the "other" becomes an enemy, someone to beat. Any mean is valid as long as we are ahead of everyone else, as long as we are the winners. This mentality does nothing but generate enemies and divisions, both on a macroscopic (e.g. wars between States) and microscopic (e.g. fights between colleagues) level. The reality is that every competition has only one winner, so if we accept unbridled competition on all fronts, we also accept the fact that everyone is a loser. By the law of large numbers, it is highly likely that both you, dear reader, and me will end up being losers in something. In the competitive sphere, defeats is unacceptable and always weigh in, it makes us feel less than others, unsuitable.
 
 Humans are social animals. Our strength has always been in numbers, in the ability to join forces to create something extraordinary. Even the most introverted among us will never disdain the right company, indeed we often seek it.
 
@@ -89,19 +89,19 @@ Where our strengths are accentuated and others can make up for our shortcomings.
 In a collaborative society, classism stops making sense, as do racism, strict hierarchy, gender denigration, etc...
 
 We welcome the fact that not all people are fully aligned with our [key concepts](#key-concepts) and the society proposed by Babel Society. We have no intention of convincing them nor converting them, we just want to live peacefully and be good neighbors.  
-People who like other forms of societies like capitalism, socialism, etc. are free to continue down that road; we value heterogeneity of thinking.
+People who like other forms of societies like capitalism, republics, etc. are free to continue down that road; we value heterogeneity of thinking.
 
-Babel Society aims to unite all the people who today are already in line with our culture, to progress all together towards a better future.
+Babel Society aims to unite all people who today are already in line with our culture, to progress all together towards a better future.
 
 
 ## How to be part of it {#enter}
 
 Any external person who wants to be part of our society will first have to get in touch with members who are already part of it. It will be up to them to present a [project](#projects) in their name in which members explain why the applicant should be part of our society. The applicant must be available to meet other interested members of the society in order to better assess whether it is appropriate to accept the application.  
-If the project is accepted, the person will be admitted on a provisional basis, during which they will be able to benefit from temporary accommodation. Once their eligibility has been demonstrated, the project can be considered concluded and they will become an actual member. Otherwise, it will be sent back to the country of origin.
+If the project is accepted, the person will be admitted on a provisional basis. Once their eligibility has been demonstrated, the project can be considered concluded and they will become an actual member. Otherwise, the candidate is reject and the society will give them all the means needed to go somewhere else.
 
 In the initial phase it is extremely important that all members are united and cohesive, that they strive towards the common goal.  
 As the society acquires strength and autonomy, it will then be easier to accept new members thanks to the greater stability achieved.  
-In any case, the necessary checks should always be made to maintain the right balance.
+In any case, the necessary checks should always be made to maintain the right balance between heterogeneity of thinking and possible disruption of the status quo.
 
 
 ## How to get out
@@ -221,7 +221,7 @@ A project needs the full consent of all members interested in the proposal to be
 Take for example a proposal in which you want to build a dam in order to divert a river to make an area more fertile. Suppose the river passes through a small town, but the flow is interrupted by the dam.
 
 In this context the town people will have a substantial weight in the discussion, as the river could be their primary source of water. The proposal should also benefit them and include an alternative source of water in the project if needed.  
-Another important weight will be the civil engineers, who can evaluate the feasibility of the dam, the geologists to evaluate the environmental impact, but also the farmers who will use the water to grow new products.  
+Another important weight will be given to civil engineers that can evaluate the feasibility of the dam, geologists to evaluate the environmental impact, but also farmers who will use the water to grow new products.  
 In order to build the dam it is essential that all parties are in agreement and that a solution is found that does not harm anyone but rather enriches society as a whole.
 
 Achieving consensus is in perfect harmony with a collaborative society, where the well-being of all is more important than individual interests.
@@ -292,10 +292,12 @@ Finally, the [focus on education](#education) should provide younger generations
 
 Nonetheless, we are aware that there will always be crimes. Humans can be extremely creative when it comes to bypassing the system and causing troubles.
 
-Society will therefore still need police, that is trained personnel able to make all members of society feel safe, to intervene in the event of crimes such as murders, violence, thefts and so on. In order to avoid an escalation of violence, normal police officers will only have tools to subdue individuals.  
-The ultimate goal of these figures will be to find the culprit and ensure that they are taken into custody. Once this is done it will be the turn of a team of psychologists specialized in crimes who, using the evidence collected by the police, will have to understand if they have arrested the right person.  
+Society will therefore still need a form of police, i.e. trained personnel able to make all members of society feel safe, to intervene in the event of crimes such as murders, violence, thefts and so on. In order to avoid an escalation of violence, normal police officers will only have tools to subdue individuals.  
+The ultimate goal of this role is to find the culprit and ensure that they are taken into custody. Once done, it will be the turn of a team of psychologists specialized in crimes who, using the evidence collected by the police, will have to understand if they have arrested the right person.  
 Dialog with the alleged criminal is fundamental. Based on these discussions, the team may request verification of certain facts, gathering of additional evidence, or perhaps seeking support from other colleagues.  
 Once they are sure they have the right person, they will have to assess the seriousness of the crime and assign the most appropriate sentence. If in doubt, they will be able to discuss the situation in a larger group, perhaps seeking the support of a legal expert, or even bring the case to the attention of society as a whole.
+
+The police structure will be much different from today. There will be no hierarchy of power and it will be similar to any other job. There will be less focus on following a predetermined set of rules, on mindless discipline and more on helping people feel safe.
 
 
 ## Rehabilitation System
@@ -564,6 +566,8 @@ This tiered structure will ensure that everyone can understand which profession 
 
 Both the courses achieved and the level in a given profession will be used in the Virtual Forum in order to advise on what projects to review.
 
+It is important to understand that job levels aren't a form of hierarchy of power, but rather a hierarchy of trust. People at a higher level are deemed by society to be more trustworthy and have demonstrated their skills on that particular role, that's why they are honored by entrusting greater responsibilities upon them. However, they will have little to no power over people at lower job levels. They can lead others and define complex solution to complex problems, but they can't impose their will over others. Babel Society desires that all workers, whatever the level, must always use their critical thinking and never blindly follow orders. Inspecting other people solutions will help better understand them, perhaps even improve some solutions and for sure make us more skilled. Babel Society encourages inquiries and deep understanding, "it is how it is" should never be considered as an acceptable answer.
+
 
 ## Means of the trade
 
@@ -572,7 +576,7 @@ Certain jobs require special tools. In this case the society will provide them w
 
 ## Art
 
-Art is at the center of the expression of our human soul. Babel Societys highly values all forms of art, such as sculptors, painters, dancers, acrobats, musicians, etc...
+Art is at the center of the expression of our human soul. Babel Society highly values all forms of art, such as sculptors, painters, dancers, acrobats, musicians, etc...
 
 Artists will be free to do what they do best: whisper to our hearts, inspire and make us dream.
 
