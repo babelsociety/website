@@ -9,7 +9,7 @@ menu = "Manifest"
 
 Although the universe is incomprehensibly vast, we know only one planet where life has managed to flourish: the Earth.
 
-Nonetheless, many think that it is not suitable anymore: too many people, too many problems. It would be much better to aim for a colonization of Mars if you want to make your existence truly meaningful!
+Nonetheless, many think that it is not suitable anymore: too many people, too many problems. Colonize Mars if you want to make your existence truly meaningful!
 
 What we lack is perhaps introspection, a better understanding of ourselves. We are fortunate to exist on one of the best planets in the known universe. Having a life that is often difficult, full of injustices and problems that tend to crush us is not due to *where* we are, but rather to **what kind** of society surrounds us. Society that we ourselves have created. Problems that arise from within ourselves.
 
