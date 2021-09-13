@@ -75,6 +75,42 @@ We shouldn't confuse "stability" with "stasis". A system in stasis assumes that 
 No matter how many good intentions and qualities we arm ourselves with, perfection is not of this world. Mistakes are always on the agenda, which is why it is very important to know how to manage them.
 
 
+# Technology
+
+At the heart of Babel Society is a technological revolution that aims to give as much visibility and power as possible to every member of society.
+
+Each technological component will be created following the philosophy of [Free Open Source Software](https://en.wikipedia.org/wiki/Free_and_open-source_software), which is one of the most successful forms of collaboration. This means that:
+
+- Every detail of the system can be scrutinized by anyone
+- Every part will be usable and modifiable by anyone
+- Everyone can contribute to the improvement of it
+
+Over the years it has been shown that the technologies thus developed tend to be among the safest and most reliable as they are for all to see, and it is therefore more likely that flaws or incorrect behaviors will be identified and corrected.
+
+Technology advancement becomes an ally that can improve our lives rather than making them worse.
+
+All technologies as well as being free will have to be as decentralized as possible. We aim for a distributed infrastructure in which every member holds a piece of the puzzle. This characteristic will make the system highly resilient to external attacks and is in line with the underlying philosophy of the Internet and Babel Society itself.
+
+
+## App
+
+The App is a smartphone application that will also provide a two-factor authentication, verify the person identity and provide access to all other technological tools available.
+
+## Wallet
+
+It's an application used to manage your personal resources and for buying products, well integrated in the App and with the E-commerce. Please have a look at [Consumption](#consumption) for more detailed information.
+
+## E-commerce
+
+Central place where all products available in the society will be stored. Each product will have detailed information in its production, if it is produced by the society itself, if we can buy it in the area nearby us and many more. We expect that most products will be available for delivery.
+
+It will be seamlessly integrated with Wallet.
+
+## Virtual Forum
+
+The Virtual Forum is an online place where people can gather and discuss, share their interests and concerns, but more importantly apply changes to society itself through [projects](#projects). The identity of each person will be clearly displayed to ensure accountability.
+
+
 # Society
 
 We strongly believe that a competitive society is not sustainable in the long term, but rather causes many of the social problems we face today.
@@ -114,35 +150,17 @@ Once accepted, the society will provide the necessary means to the outgoing part
 It will always be possible to rejoin the society, but you will have to go through the process described in [How to be a part of it](#enter).
 
 
-# Technology
+## Decision making
 
-At the heart of Babel Society is a technological revolution that aims to give as much visibility and power as possible to every member of society.
+In Babel Society all decisions are in the hand of its people and therefore there are no central government institutions.
 
-Each technological component will be created following the philosophy of [Free Open Source Software](https://en.wikipedia.org/wiki/Free_and_open-source_software), which is one of the most successful forms of collaboration. This means that:
+Anyone can propose any change to society through [projects](#projects), which will be evaluated and discussed by other members of society. The only way to approve a project is through [consensus](#consensus).
 
-- Every detail of the system can be scrutinized by anyone
-- Every part will be usable and modifiable by anyone
-- Everyone can contribute to the improvement of it
+In such a context, [education](#education) and learning how to properly engage in [fruitful discussions](#fruitful-discussions) is of the utmost importance. This is yet another reason to start small and grow organically.
 
-Over the years it has been shown that the technologies thus developed tend to be among the safest and most reliable as they are for all to see, and it is therefore more likely that flaws or incorrect behaviors will be identified and corrected.
+This distribution of power ensures decisions will benefit all and render corruption unfeasible. Another benefit is that different geographical areas and ethnicities have different needs, and now we have all the tools we need to take care of it.
 
-Technology becomes an ally that can improve our lives rather than making them worse.
-
-In keeping with the type of democracy and society, any technology as well as being free will need to be as decentralized as possible. We aim for a distributed infrastructure in which every member will be able to hold a piece of the puzzle. This characteristic will make the system highly resilient to external attacks and is in line with the underlying philosophy of the Internet.
-
-
-# Democracy
-
-Different forms of democracy have been theorized, the most widespread being [representative democracy](https://en.wikipedia.org/wiki/Representative_democracy), in which the members of the community elect representatives to give them a voice and to whom they entrust the management of the society. The problem with this type of democracy is that the power to legislate and therefore to shape society itself is limited to a minority. The smaller the group, the easier it is to manipulate it.
-
-[Direct democracy](https://en.wikipedia.org/wiki/Direct_democracy) avoids this centralization of power by distributing it to all members of society. This is the model we want to follow.
-
-Babel Society wants to create a Virtual Forum in which each member will be able to make their voice heard, discuss all the problems that afflict society, propose and launch different solutions to then choose and enact the most suitable.
-
-Making decisions by majority has its flaws. Often we lack the necessary knowledge to fully understand certain topics, the world is so rich in information that it is impossible for a single individual to assimilate them all; one more reason to collaborate.
-
-Babel Society wants to carry out a form of [deliberative democracy](https://en.wikipedia.org/wiki/Deliberative_democracy) where discussion will be at the heart of each proposal, in order to improve the initial project and also to create consensus.  
-A project that has already won everyone's approval will be much easier to implement and will facilitate collaboration.
+Babel Society encourages all members to always improve and refine any aspects of it, to inspect, test and analyze other solutions, to approach every matter through critical thinking.
 
 
 ## Participation
@@ -151,58 +169,12 @@ All members of the society can participate in every aspect of it, without limits
 
 Participation will always be voluntary, so that one can freely choose which projects to participate in based on their interests.
 
-It is assumed that each person will tend to participate in those discussions that concern them the most or that they know better, thus optimizing decision time and information flow.
-
-
-## Education
-
-In a direct and deliberative democracy it is essential for society to have a good general education level. Ignorance makes it easy to manipulate the masses and could lead to shortsighted choices that over time could destroy the very fabric of society, as we can now see with the impending ecological catastrophe. 
-
-Education is essential for a society to function properly, but the school system as we all know it is unsuitable. Many people have been traumatized by school, some still have real nightmares about exams and homework. In many cases school raises people who hate studying instead of helping them enjoy it.
-
-The main reason for being unsuitable as a method of instruction is that the school is structured in such a way as to trap the student in well-defined activities in which they don't have much choice. This is in stark contrast with the outside world, where little is established and we have to find our own path.
-
-The educational system proposed by Babel Society is free and takes into account everyone's peculiarities, different attitudes and learning speed. We want to create a system without "classes", age division and grades.  
-Children will start by exploring different topics to understand what they have more aptitude towards and learn basic skills, but the most important part will be to give them the necessary tools to evolve within society itself, such as critical thinking, the importance of [authenticity](#authenticity), of [collaboration](#collaboration), to respect others and what you have. In short, teaching them how to make the most out of the world we live in.  
-It is fundamental to make learning something positive, the best time of their days.  
-Learning should never create a scar but rather foster personal growth.
-
-Subsequent studies will not be decided by fixed degrees, but students will have various courses at their disposal that they can explore **throughout their life**.  
-Small pieces that we can use to build our personal mosaic of knowledge.
-
-These courses will be more similar to the college "subjects". Each course may require the overcoming of others before it and this is how we will gradually advance in knowledge.
-
-Lessons should be interactive, give ideas for discussion and take the time to deepen what the students have learned. We believe that different subjects need different methods to be learned. For example, chemistry and physics will be more interesting if theory is accompanied by experiments to put it into practice. Math can be better interiorized if we give students problems and help them reach the solution. History will have more effect if instead of dwelling only on the general aspect of it, we will take the time to narrate the lives of the key characters of the time, of how people lived, of the substantial differences with the reality we now take for granted. Geography will be better appreciated if students are given the opportunity to visit the studied places. These are just a few ideas, it will be up to teachers and researchers to better understand how to maximize learning.
-
-The free choice of courses will allow everyone to learn at their own pace. Too often the emphasis in schools is on getting a good grade rather than making sure the student has actually learned a concept.  
-Since there will be no homework nor exams, it is up to the teachers to decide whether a student has completed the course.
-
-It is good to point out that the courses will have no age limit, so we could have adults, seniors and teenagers in a single room. Although bizarre by today's standards, this generational mix could instead stimulate interesting discussions, as well as bring the various age groups closer together.
-
-An online lesson archive will be created so that everyone can benefit from the best teachers available to society. Attending lessons in person is the recommended way and the society itself will provide the necessary means for each person to do so. However, remote learning will also be made available to make up for cases in which attending in person is not possible, or is the method preferred by the student.
-
-Proper education is made possible only by competent and passionate teachers who are able to convey their love for the subject.  
-We firmly believe that teachers are the pillars of our future society, for this reason becoming a teacher will not be easy, it will not be enough to know the subject, specific courses for teaching must be completed. The psychological aspect is very important and should not be neglected, especially when dealing with children and adolescents.
-
-In order to ensure that teachers can adequately follow their students, this system assumes a limited number of participants, probably no more than 10 per course. Training a sufficient number of capable and prepared teachers will be the greatest challenge for this system. In the event of a shortage of teachers, priority should be given to children, while others can make up for it through self learning based on the material available.
-
-
-## Fruitful Discussions
-
-In a deliberative democracy, discussions are at the heart of social life. Discussions can arise anywhere, but the best place to bring forward important topics is the Virtual Forum, as writing helps to fix thoughts and gives participants time to reflect on the content.  
-The Virtual Forum is to be used only and exclusively for serious topics that require the attention of society and which may give life to [projects](#projects).
-
-At the base of every fruitful discussion there is the desire of collaboration. One must always keep in mind other members' points of view, which could be opposed to ours. In a fruitful discussion **there are no winners or losers**, what is important is to get to the bottom of the matter.  
-The more people contribute to the discussion, the harder it will be to agree on a solution. In these cases it is essential to find a solution that everyone judges to be right and fair, one that all are willing to carry out. If this does not happen, diatribes on certain topics could arise, which will undermine the relationship between the members of society and could give life to conflicting groups. Finding an agreement is therefore essential for the functioning of a free and harmonious society.
-
-Another important aspect is to discuss the merits of the question, relying as much as possible on ascertainable facts, without taking into account who initiated the discussion. Taking sides out of a sense of friendship (or enmity) is very dangerous and leads to bad decisions that could have serious repercussions on the whole society.
-
-Learning how to discuss fruitfully will perhaps be one of the most difficult challenges for Babel Society, given that most societies today are geared towards discuss-to-win mentality. However, because we will start as a small group that should be already well versed in fruitful discussions, it will be easier to ensure every new member learns this skill and we are confident it will soon become natural. For those wishing to get ahead, we recommend reading [Crucial Conversations](https://www.goodreads.com/book/show/15014.Crucial_Conversations).
+It is assumed that each person will participate in those discussions that concern them the most or that they know better, thus optimizing decision time and information flow.
 
 
 ## Projects
 
-Those who want to make changes to the system can do so by submitting a project in the Virtual Forum.  
+Those who want to make changes to the system can do so by submitting a project in the [Virtual Forum](#virtual-forum).  
 A project is a particular type of discussion in which it is clearly explained what are the reasons that led to the proposal and what actions must be taken to make it happen. A very important detail is that the project will have to identify the members of society on whom the proposed changes will have the greatest impact. The latter will have greater decision-making power on the proposal.
 
 We will continue with a [fruitful discussion](#fruitful-discussions), critical and constructive, analyzing the project in every aspect, trying to improve it as possible, but also to understand if it is actually beneficial to carry it out.
@@ -214,9 +186,9 @@ During the discussion, the skills necessary for the development of the project w
 If accepted, the author of the project will be responsible for it and will have to carry it out, with the help of the whole society. The author may decide to yield ownership to somebody else, but this must be cleared upfront.
 
 
-### Consent
+### Consensus
 
-A project needs the full consent of all members interested in the proposal to be implemented. Obtaining consent is essential to ensure the highest degree of efficiency during the implementation phase, but also to ensure that minorities aren't penalized.
+A project needs the full consent of all members interested in the proposal to be implemented. Reaching a consensus is essential to ensure the highest degree of efficiency during the implementation phase, but also to ensure that minorities aren't penalized.
 
 Take for example a proposal in which you want to build a dam in order to divert a river to make an area more fertile. Suppose the river passes through a small town, but the flow is interrupted by the dam.
 
@@ -229,7 +201,7 @@ Achieving consensus is in perfect harmony with a collaborative society, where th
 
 ### Phases
 
-The project will have to go through several phases before it can be considered as done:
+The project will have to go through several phases before it can be considered done:
 
 - **Proposal**: in this phase the aim is to make the idea known, even a draft may be sufficient as it can be expanded later thanks to the comments received in the meantime. The proposal must attract a sufficient amount of interest in order to initiate a constructive discussion. The minimum limit should be 5 people (author excluded).
 
@@ -259,13 +231,59 @@ The project will have to go through several phases before it can be considered a
 
 A project could be revoked if, during its implementation or just after its conclusion, new elements are discovered that change the overall picture. Going back to the dam example, perhaps the alternative solution to cover the town's water needs is insufficient, or perhaps the environmental impact is more severe than expected. Whatever the reason, any concerned member of the society can file an injunction on the project and, after explaining their reasons in detail, further discussion will take place. This procedure is very similar to proposing a new change, but in case of serious problems it should be much faster. The simplest way is to contact the author of the project and the various members who have previously voted for it.
 
-During the revocation, it is important to identify the needed short term solutions to fix serious flaws. Once the imminent dangers have been resolved, a new project will have to be created in order to address the problems caused in a thorough way, to find appropriate solutions in the long term, as well as to understand why those mistakes were made in the first place and to find, where possible, a way to decrease the chance of them happening again.
+During the revocation, it is important to identify the short term solutions to fix any serious problem. Once the imminent dangers have been resolved, a new project will have to be created in order to address the problems caused in a thorough way, to find appropriate solutions in the long term, as well as to understand why those mistakes were made in the first place and to design, wherever possible, a way to decrease the chance of them happening again.
+
+
+## Fruitful Discussions
+
+Discussions are at the heart of Babel Society. Discussions can arise anywhere, but the best place to bring forward important topics is the [Virtual Forum](#virtual-forum), given that writing helps us fix thoughts and gives participants time to reflect on the content.  
+
+At the base of every fruitful discussion there is the desire of collaboration. One must always keep in mind other members' points of view, which could be opposed to ours. In a fruitful discussion **there are no winners or losers**, what is important is to get to the bottom of the matter.  
+The more people contribute to the discussion, the harder it will be to agree on a solution. In these cases it is essential to find a solution that everyone judges to be right and fair, one that all are willing to carry out. If this does not happen, diatribes on certain topics could arise, which will undermine the relationship between the members of society and could give life to conflicting groups. Finding an agreement is therefore essential for the functioning of a free and harmonious society.
+
+Another important aspect is to discuss the merits of the question, relying as much as possible on ascertainable facts, without taking into account who initiated the discussion. Taking sides out of a sense of friendship (or enmity) is very dangerous and leads to bad decisions that could have serious repercussions on the whole society.
+
+Learning how to discuss fruitfully will perhaps be one of the most difficult challenges for Babel Society, given that most societies today are geared towards discuss-to-win mentality. However, because we will start as a small group that should be already well versed in fruitful discussions, it will be easier to ensure every new member learns this skill and we are confident it will soon become natural. For those wishing to get ahead, we recommend reading [Crucial Conversations](https://www.goodreads.com/book/show/15014.Crucial_Conversations).
+
+
+## Education
+
+Any society will be always as good as its average member, it is therefore fundamental to have a good general education level. Ignorance makes it easy to manipulate the masses and could lead to shortsighted choices that over time could destroy the very fabric of society, as we can now see with the impending ecological catastrophe. 
+
+Education is essential for a society to function properly, but the school system as we all know isn't a suitable solution. Many people have been traumatized by school, some still have real nightmares about exams and homework. In many cases school raises people who hate studying instead of helping them enjoy it.
+
+The main reason for being unsuitable as a method of instruction is that the school is structured in such a way as to trap the student in well-defined activities in which they don't have much choice. This is in stark contrast with the outside world, where little is established and we have to find our own path.
+
+The educational system proposed by Babel Society is free and takes into account everyone's peculiarities, different attitudes and learning speed. We want to create a system without "classes", age division and grades.  
+Children will start by exploring different topics to understand what they have more aptitude towards and learn basic skills, but the most important part will be to give them the necessary tools to evolve within society itself, such as critical thinking, the importance of [authenticity](#authenticity), of [collaboration](#collaboration), to respect others and what you have. In short, teaching them how to make the most out of the world we live in.  
+It is fundamental to make learning something positive, the best time of their days.  
+Learning should never create a scar but rather foster personal growth.
+
+Subsequent studies will not be decided by fixed degrees, but students will have various courses at their disposal that they can explore **throughout their life**.  
+Small pieces that we can use to build our personal mosaic of knowledge.
+
+These courses will be more similar to the college "subjects". Each course may require the overcoming of others before it and this is how we will gradually advance in knowledge.
+
+Lessons should be interactive, spark discussions and take the time to deepen what the students have learned. We believe that different subjects need different methods to be learned. For example, chemistry and physics will be more interesting if theory is accompanied by experiments to put it into practice. Math can be better interiorized if we give students problems and help them reach the solution. History will have more effect if instead of dwelling only on the general aspect of it, we will take the time to narrate the lives of the key characters of the time, of how people lived, of the substantial differences with the reality we now take for granted. Geography will be better appreciated if students are given the opportunity to visit the studied places. These are just a few ideas, it will be up to teachers and researchers to better understand how to maximize learning.
+
+The free choice of courses will allow everyone to learn at their own pace. Too often the emphasis in schools is on getting a good grade rather than making sure the student has actually learned a concept.  
+Since there will be no homework nor exams, it is up to teachers to decide whether a student has completed the course.
+
+It is good to point out that the courses will have no age limit, so we could have adults, seniors and teenagers in a single room. Although bizarre by today's standards, this generational mix could instead stimulate interesting discussions, as well as bring the various age groups closer together.
+
+An online lesson archive will be created so that everyone can benefit from the best teachers available to society. Attending lessons in person is the recommended way and the society itself will provide the necessary means for each person to do so. However, remote learning will also be made available to make up for cases in which attending in person is not possible, or is the method preferred by the student.
+
+Proper education is made possible only by competent and passionate teachers who are able to convey their love for the subject.  
+We firmly believe that teachers are the pillars of our future society, for this reason becoming a teacher will not be easy, it will not be enough to know the subject, specific courses for teaching must be completed. The psychological aspect is very important and should not be neglected, especially when dealing with children and adolescents.
+
+In order to ensure that teachers can adequately follow their students, this system assumes a limited number of participants, probably no more than 10 per course. Training a sufficient number of capable and prepared teachers will be the greatest challenge for this system. In the event of a shortage of teachers, priority should be given to children, while others can make up for it through self learning based on the material available.
+
 
 ## Merits
 
 Anyone who achieves an illustrious result within the society can be awarded with Merits. Merits can be accumulated and last throughout the person's life, however they are not transferable. You may think of Merits as a Nobel Prize.  
 It is good to specify immediately that having zero Merits is normal and there will be no substantial difference between those who have obtained Merits and those who haven't.  
-The only material benefit given by the Merits is higher priority for any [waiting lists](#waiting-lists).
+The only material benefit given by the Merits is higher priority in [waiting lists](#waiting-lists).
 
 It is good to specify that although many Merits designate an illustrious person whose ideas should always be listened to and pondered upon, this does not mean that they are right regardless. Society should always use critical thinking when it comes to making decisions.
 
@@ -469,19 +487,19 @@ All resources made available to the individual will be distributed in personal a
 
 Resources will not be transferable between accounts; this measure is needed to help prevent crimes such as illegal drugs traffic.
 
-Through a multi-platform application (from here on App), it will be possible to view the resources available in your account at any time. The App can also help in the management of resources itself, warning us in case we are consuming too many resources.
+Through the [Wallet](#wallet) it will be possible to view the resources available in your account at any time. The application will help in the managing resources and warn us in case we are consuming too many resources.
 
-Instead of having a single entry such as "money", the App will show everything that is currently produced and accessible by each member, for example: wheat, milk, electricity, etc...  
-The App will give access to an e-commerce where it will be possible to purchase products. Each product will consume a certain amount of resources, taking into account both the necessary raw materials, but also the production and transportation process. For example, to produce bread we will consume wheat, flour, drinking water, but also wood for the oven. The asset must be packaged and then transported, so these resources will also be considered in the final cost of the product. **Pollution is a very important detail that must be included in the system as a resource**. This will help educate people to choose goods in a more sustainable way.  
-Keeping an eye on all these details for the purchase of every single product is unsustainable for us humans, so the App will show how much we can buy of a particular product. Returning to the example of bread, the App will show us that, based on the resources in our account, we can still buy 100 pieces.  
+Instead of having a single entry such as "money", the Wallet will show everything that is currently produced and accessible by each member, for example: wheat, milk, electricity, etc...  
+Another important application is the [E-commerce](#e-commerce) where we can purchase products online. Each product will consume a certain amount of resources, taking into account both the necessary raw materials, but also the production and transportation process. For example, to produce bread we will consume wheat, flour, drinking water, but also wood for the oven. The asset must be packaged and then transported, so these resources will also be considered in the final cost of the product. **Pollution is a very important detail that must be included in the system as a resource**. This will help educate people to choose goods in a more sustainable way.  
+Keeping an eye on all these details for the purchase of every single product is unsustainable for us humans, so the application will show how much we can buy of a particular product. Returning to the example of bread, in the E-commerce we'll see that based on the resources in our account, we can still buy 100 pieces.  
 Note the change of perspective. Instead of knowing how much "it costs", we will immediately know how much "we can afford", so in this case a higher number is better. This will make it much easier to decide whether to buy a product.
 
-Buying goods in regular stores will work the same way. Just bring your device close to the stand with the product to have access to the detailed sheet, purchasable quantity and the possibility of adding it to the virtual cart. Once the shopping has been completed, simply confirm the purchase of the goods on the App. This system should be familiar to all those who have used at least once the "fast shopping" systems already available in various supermarkets.  
+Buying goods in regular stores will work the same way. Just bring your device close to the stand with the product to have access to the detailed sheet, purchasable quantity and the possibility of adding it to the virtual cart. Once the shopping has been completed, simply confirm the purchase of the goods on the Wallet. This system should be familiar to all those who have used at least once the "fast shopping" systems already available in various supermarkets.  
 The purchase option will only be present if the device recognizes that we are within a particular store. This detail is essential to understand the effectiveness of the various distribution centers.
 
-In restaurants and bars, the entire menu will be available via the QR Code present at the table, so you can order and pay directly from the App.
+In restaurants and bars, the entire menu will be available via the QR Code present at the table, so you can order and pay directly from the Wallet.
 
-Whenever possible, the products should be purchased directly from the producer. The producer will initiate a transaction through the App, which the buyer will then confirm from their device. Babel Society wants to structure the various residential centers so that it is possible to buy perishable goods directly from producers as much as possible.
+Whenever possible, the products should be purchased directly from the producer. The producer will initiate a transaction through the E-commerce, which the buyer will then confirm from their device. Babel Society wants to structure the various residential centers so that it is possible to buy perishable goods directly from producers as much as possible.
 
 
 ### Expensive Goods
