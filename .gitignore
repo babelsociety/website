@@ -1,1 +1,4 @@
 public/
+api/vendor/
+api/logs/
+.tmp/

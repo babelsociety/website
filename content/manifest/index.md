@@ -750,3 +750,9 @@ The computer system gives us easy access to the total number of people present a
 Unexpected pregnancy will be subject to a [rehabilitation program](#rehabilitation-programs) to better understand the importance of resources and protected sex. Obviously the pregnancy can be carried out without any repercussions. Abortion will also be an option and it will be up to the woman to decide, perhaps counseled by an expert.
 
 Parenting is one of the most complex of all activities, that's why it will be very important for each new parent to periodically undertake [courses](#education) to better understand how they can support their child.
+
+# Join us!
+
+Thank you for having read the full manifest. If these ideas resonated with you, let's get in touch by filling out the following form.
+
+{{ join() }}

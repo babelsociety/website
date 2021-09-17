@@ -1,0 +1,64 @@
+<form id="join" class="form" action="/api/join" method="POST">
+    <p class="description">
+    Please understand that the following form is no way binding. You are only <strong>sharing your interest</strong> in being part and/or support Babel Society.
+    </p>
+
+    <label class="field">
+        <span>First name</span>
+        <input type="text" name="firstName" required>
+    </label>
+
+    <label class="field">
+        <span>Last name</span>
+        <input type="text" name="lastName" required>
+    </label>
+
+    <label class="field">
+        <span>E-Mail</span>
+        <input type="email" name="email" required>
+    </label>
+
+    <label class="field">
+        <span>Where are you from?</span>
+        <input type="text" name="location">
+    </label>
+
+    <label class="field">
+        <span>Present yourself</span>
+        <textarea name="description"></textarea>
+    </label>
+
+    <label class="field">
+        <span>How would you like to contribute?</span>
+        <textarea name="contribution"></textarea>
+    </label>
+
+    <label class="field field-checkbox">
+        <input type="checkbox" name="toc" required>
+        <div>
+            <span>I confirm and allow BabelSociety.org to contact me at the specified e-mail address</span>
+            <p>
+            BabelSociety.org will not share any information provided thorugh this form with any third-party services, unless explicitly stated.
+            </p>
+        </div>
+    </label>
+
+    <label class="field field-checkbox">
+        <input type="checkbox" name="newsletter">
+        <div>
+            <span>Subscribe to newsletter</span>
+            <p>
+            Please be aware that we use <a href="https://mailchimp.com/" target="_blank">Mailchimp</a> to send our newsletters, hence your email be shared with them.
+            </p>
+        </div>
+    </label>
+
+
+    <div class="g-recaptcha" data-sitekey="6LdRQnEcAAAAAAyy7TNzbkosoSQrIWUwV8IYebZq"></div>
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+    <div class="msg-block msg-error hide"></div>
+    <div class="msg-block msg-success hide">Thank you for your support, we will reach out to you soon!</div>
+</form>
+
+<script src="https://www.recaptcha.net/recaptcha/api.js" async defer></script>

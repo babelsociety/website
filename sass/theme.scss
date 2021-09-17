@@ -2,6 +2,8 @@
 @import "_text.scss";
 @import "_markdown.scss";
 @import "_variables.scss";
+@import "_messages.scss";
+@import "_form.scss";
 
 body {
   padding: 0;
@@ -182,10 +184,6 @@ footer {
     justify-content: center;
   }
 
-  #lang-switch {
-    order: 1;
-  }
-
   .logo {
     font-size: 28px;
     margin: 10px;
@@ -216,5 +214,4 @@ footer {
   .explore-more, .toc {
     display: none;
   }
-
 }
