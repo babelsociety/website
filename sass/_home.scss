@@ -1,0 +1,51 @@
+.home-banner {
+  text-align: center;
+  font-size: 1.5rem;
+  margin-bottom: 3rem;
+
+  .big {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 2rem;
+    line-height: 1.2;
+  }
+
+  .call-to-action {
+    font-size: 1.8rem;
+    margin-top: 3rem;
+  }
+}
+
+#newsletter {
+  text-align: center;
+  margin-top: 3rem;
+
+  small {
+    margin-top: 0.5rem;
+  }
+
+  span {
+    margin-bottom: 0.8rem;
+  }
+
+  .g-recaptcha {
+    display: inline-block;
+  }
+
+  .btn-primary {
+    margin-top: 0;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    padding: 0.73rem;
+    vertical-align: top;
+  }
+}
+
+.stay-together {
+  display: flex;
+
+  input {
+    flex-shrink: 1;
+    min-width: 5rem;
+  }
+}

@@ -1,0 +1,29 @@
+<div class="home-banner">
+  <p class="big">Let's build a society we can be proud of!</p>
+
+  <p>A society without systemic poverty</p>
+  <p>Where people have a sense of community</p>
+  <p>And everyone has the needs to live a satisfied life</p>
+  <p class="call-to-action">Read the <a href="/manifest/">Manifest</a> to discover what's possible</p>
+</div>
+
+<form action="/api/subscribe" method="POST" id="newsletter">
+  <div class="field">
+    <span>Subscribe to the newsletter to stay always up to date</span>
+    <div class="hide-on-success">
+      <div class="stay-together">
+        <input type="email" required placeholder="E-Mail">
+        <button class="btn btn-primary">Subscribe</button>
+      </div>
+
+      <small>We use <a target="_blank" href="https://mailchimp.com/">Mailchimp</a> to send out our newsletter.<br> 
+        By subscribing you accept their Term and Conditions and us sharing your e-mail with this service</small>
+
+      <div class="g-recaptcha" data-sitekey="6LdRQnEcAAAAAAyy7TNzbkosoSQrIWUwV8IYebZq"></div>
+    </div>
+  </div>
+  <div class="msg-block msg-error hide"></div>
+  <div class="msg-block msg-success hide">Thank you for subscribing! You will receive a confirmation e-mail soon</div>
+</form>
+
+<script src="https://www.recaptcha.net/recaptcha/api.js" async defer></script>

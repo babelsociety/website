@@ -28,6 +28,18 @@ class Response {
         return !empty($this->data);
     }
 
+    public static function created(): Response {
+        return new Response(HttpStatus::CREATED);
+    }
+
+    public static function methodNotAllowed(): Response {
+        return new Response(HttpStatus::METHOD_NOT_ALLOWED);
+    }
+
+    public static function notAcceptable(): Response {
+        return new Response(HttpStatus::NOT_ACCEPTABLE);
+    }
+
     public static function error(string $cause): Response {
         return new Response(HttpStatus::VALIDATION_ERROR, ['error' => $cause]);
     }

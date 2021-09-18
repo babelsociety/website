@@ -5,31 +5,37 @@
 
     <label class="field">
         <span>First name</span>
+        <small>Required</small>
         <input type="text" name="firstName" required>
     </label>
 
     <label class="field">
         <span>Last name</span>
+        <small>Required</small>
         <input type="text" name="lastName" required>
     </label>
 
     <label class="field">
         <span>E-Mail</span>
+        <small>Required</small>
         <input type="email" name="email" required>
     </label>
 
     <label class="field">
         <span>Where are you from?</span>
+        <small>Optional</small>
         <input type="text" name="location">
     </label>
 
     <label class="field">
         <span>Present yourself</span>
+        <small>Optional</small>
         <textarea name="description"></textarea>
     </label>
 
     <label class="field">
         <span>How would you like to contribute?</span>
+        <small>Optional</small>
         <textarea name="contribution"></textarea>
     </label>
 
@@ -48,15 +54,18 @@
         <div>
             <span>Subscribe to newsletter</span>
             <p>
-            Please be aware that we use <a href="https://mailchimp.com/" target="_blank">Mailchimp</a> to send our newsletters, hence your email be shared with them.
+            Please be aware that we use <a href="https://mailchimp.com/" target="_blank">Mailchimp</a> to send our newsletters, hence your e-mail will be shared with them.
             </p>
         </div>
     </label>
 
 
-    <div class="g-recaptcha" data-sitekey="6LdRQnEcAAAAAAyy7TNzbkosoSQrIWUwV8IYebZq"></div>
+    <div class="hide-on-success">
+      <div class="g-recaptcha" data-sitekey="6LdRQnEcAAAAAAyy7TNzbkosoSQrIWUwV8IYebZq"></div>
 
-    <button type="submit" class="btn btn-primary">Submit</button>
+      <button type="submit" class="btn btn-primary">Submit</button>
+    </div>
+
     <div class="msg-block msg-error hide"></div>
     <div class="msg-block msg-success hide">Thank you for your support, we will reach out to you soon!</div>
 </form>

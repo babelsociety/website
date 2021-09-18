@@ -18,7 +18,7 @@ The text is pretty small and we can analyze it in detail. You can find it in [Ge
 
 > Now the whole world had one language and a common speech.
 
-We are in an ideal situation where everybody can understand each others, there are no nations, no tribes and no divisions. Some experts of the Bible often say that all words matter, but here we can see a redundancy between "one language" and "a common speech". Some say that another translation of "וּדְבָרִים" can be "and things", hence this *could* be interpreted as "they shared things".
+We are in an ideal situation where everybody can understand each other, there are no nations, no tribes and no divisions. Some experts of the Bible often say that all words matter, but here we can see a redundancy between "one language" and "a common speech". Some say that another translation of "וּדְבָרִים" can be "and things", hence this *could* be interpreted as "they shared things".
 
 > As people moved eastward, they found a plain in Shinar and settled there.  
 > They said to each other, "Come, let's make bricks and bake them thoroughly." They used brick instead of stone, and tar for mortar.  
@@ -33,7 +33,7 @@ They fear a new flood and therefore want to build a tower to resist it. This is 
 > The LORD said, "If as one people speaking the same language they have begun to do this, then nothing they plan to do will be impossible for them.  
 > Come, let us go down and confuse their language so they will not understand each other."
 
-This is the interesting part. God itself recognizes that when people unite and collaborate with each others they can achieve marvelous things. It seems God was concerned by it and so decided to confuse their language, to divide them once more.
+This is the interesting part. God itself recognizes that when people unite and collaborate with each other they can achieve marvelous things. It seems God was concerned by it and so decided to confuse their language, to divide them once more.
 
 > So the LORD scattered them from there over all the earth, and they stopped building the city.  
 > That is why it was called Babel — because there the LORD confused the language of the whole world. From there the LORD scattered them over the face of the whole earth.
@@ -42,7 +42,7 @@ In Genesis 9 it is said that God asked them to make a name *and* to repopulate t
 
 You may understand now that this myth is an etiology, i.e. a myth meant to explain a phenomenon, in this case why there are so many languages in the world. As we see it, it has little to do with hubris, but rather tells us that thousands of years ago people already understood that only through collaboration we can achieve a much better society. But then they also had to stigmatize it.
 
-It is interesting to notice that God didn't have to forcefully destroy the tower, confusing the languages and preventing people from fully understanding each others was enough to stop it and scatter them through.
+It is interesting to notice that God didn't have to forcefully destroy the tower, confusing the languages and preventing people from fully understanding each other was enough to stop it and scatter them through.
 
 
 ## Conclusions

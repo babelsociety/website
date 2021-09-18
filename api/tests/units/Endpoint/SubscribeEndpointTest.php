@@ -4,7 +4,7 @@ namespace Units\BabelSociety\Endpoint;
 use PHPUnit\Framework\TestCase;
 use PHPUnit\Framework\MockObject\MockObject;
 
-use BabelSociety\Endpoint\JoinEndpoint;
+use BabelSociety\Endpoint\SubscribeEndpoint;
 
 use BabelSociety\ContactRepository;
 use BabelSociety\HttpStatus;
@@ -12,16 +12,7 @@ use BabelSociety\Newsletter;
 use BabelSociety\Recaptcha;
 use BabelSociety\Response;
 
-class JoinEndpointTest extends TestCase {
-    /** @var MockObject|ContactRepository **/
-    private $repo;
-
-    public function setUp(): void {
-        parent::setUp();
-
-        $this->repo = $this->createMock(ContactRepository::class);
-    }
-
+class SubscribeEndpointTest extends TestCase {
     public function testReturnsErrorOnWrongHttpMethod(): void {
         $this->assertEquals(
             Response::methodNotAllowed(),
@@ -36,47 +27,11 @@ class JoinEndpointTest extends TestCase {
         );
     }
 
-    public function testReturnsErrorOnMissingTermsAndCond(): void {
-        $this->assertValidationError(
-            ['toc' => false],
-            'Terms and Condition'
-        );
-    }
-
     public function testReturnsErrorOnWrongCaptcha(): void {
         $this->assertValidationError(
             ['g-recaptcha-response' => 'wrong'],
             'reCAPTCHA'
         );
-    }
-
-    /**
-     * @dataProvider dataProviderInvalidName
-     */
-    public function testReturnsErrorOnInvalidFirstName(string $name): void {
-        $this->assertValidationError(
-            ['firstName' => $name],
-            'First name'
-        );
-    }
-
-    /**
-     * @dataProvider dataProviderInvalidName
-     */
-    public function testReturnsErrorOnInvalidLastName(string $name): void {
-        $this->assertValidationError(
-            ['lastName' => $name],
-            'Last name'
-        );
-    }
-
-    public function dataProviderInvalidName(): array {
-        return [
-            'Empty' => [''],
-            'All blanks' => ['  '],
-            'Starts with blanks' => [' test'],
-            'Ends with blanks' => ['test '],
-        ];
     }
 
     /**
@@ -101,34 +56,19 @@ class JoinEndpointTest extends TestCase {
         ];
     }
 
-    public function testMinimalRequestWillSucceed(): void {
-        $this->mockAlreadyExists(true);
-
+    public function testCorrectRequestWillSucceed(): void {
         $this->assertEquals(
-            new Response(HttpStatus::CREATED),
+            Response::created(),
             $this->execRequest([
-                'toc' => true,
                 'g-recaptcha-response' => 'correct',
-                'firstName' => 'Test',
-                'lastName' => 'Er',
                 'email' => 'test@email.com',
             ])
         );
     }
 
-    private function mockAlreadyExists(bool $state): void {
-        $this->repo
-            ->method('exists')
-            ->willReturn($state);
-
-    }
-
     private function assertValidationError(array $override, string $expected): void {
         $req = array_merge([
-            'toc' => true,
             'g-recaptcha-response' => 'correct',
-            'firstName' => 'Test',
-            'lastName' => 'Er',
             'email' => 'test@email.com',
         ], $override);
 
@@ -147,7 +87,7 @@ class JoinEndpointTest extends TestCase {
         return $this->endpoint()->invoke('POST', json_encode($req));
     }
 
-    private function endpoint(): JoinEndpoint {
+    private function endpoint(): SubscribeEndpoint {
         $captcha = $this
             ->getMockBuilder(Recaptcha::class)
             ->disableOriginalConstructor()
@@ -160,8 +100,7 @@ class JoinEndpointTest extends TestCase {
                 return $resp === 'correct';
             });
 
-        return new JoinEndpoint(
-            $this->repo,
+        return new SubscribeEndpoint(
             $this->createMock(Newsletter::class),
             $captcha
         );

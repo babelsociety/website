@@ -7,6 +7,17 @@ use BabelSociety\Result\OkResult;
 
 class Parser {
     /**
+     * @return Result<Response, array>
+     */
+    public function parseJson(string $raw): Result {
+        $json = json_decode($raw, true);
+
+        return ($json === null)
+            ? new ErrResult(Response::notAcceptable())
+            : new OkResult($json); 
+    }
+
+    /**
      * @return Result<Response, string>
      */
     public function reqField(string $fieldName, array $source, string $field): Result {

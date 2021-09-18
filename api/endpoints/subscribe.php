@@ -1,8 +1,8 @@
 <?php
 require(__DIR__ . '/../vendor/autoload.php');
 
-use BabelSociety\Endpoint\JoinEndpoint;
+use BabelSociety\Endpoint\SubscribeEndpoint;
 
 executeEndpoint(function() {
-    return JoinEndpoint::create();
+    return SubscribeEndpoint::create();
 });

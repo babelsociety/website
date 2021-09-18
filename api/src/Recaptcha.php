@@ -22,6 +22,16 @@ class Recaptcha {
         return new Recaptcha($config['secret'], $config['hostname']);
     }
 
+    public function verifyRequest(array $req): ?Response {
+        $failedCaptcha = empty($req['g-recaptcha-response']) 
+            || !$this->verify($req['g-recaptcha-response']);
+
+
+        return ($failedCaptcha)
+            ? Response::error('Invalid reCAPTCHA, please verify it again')
+            : null;
+    }
+
     public function verify(string $response): bool {
         $client = new Client();
 

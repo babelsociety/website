@@ -1,24 +1,25 @@
-setupJoinForm()
+setupFormById('join')
+setupFormById('newsletter')
 
-function setupJoinForm() {
-  const joinForm = document.getElementById('join')
-  if (joinForm == null)
+function setupFormById(id) {
+  const form = document.getElementById(id)
+  if (form == null)
     return
 
   let enabled = true;
 
   enableForm = (state) => {
     enabled = state
-    joinForm.querySelector('.btn-primary').disabled = !state
+    form.querySelector('.btn-primary').disabled = !state
   }
 
   success = () => {
-    joinForm.querySelector('.btn-primary').classList.add('hide')
-    joinForm.querySelector('.msg-success').classList.remove('hide')
+    form.querySelector('.hide-on-success').classList.add('hide')
+    form.querySelector('.msg-success').classList.remove('hide')
   }
 
   failure = (err) => {
-    const errMsg = joinForm.querySelector('.msg-error')
+    const errMsg = form.querySelector('.msg-error')
 
     errMsg.textContent = err
     errMsg.classList.remove('hide')
@@ -28,16 +29,16 @@ function setupJoinForm() {
     enableForm(true)
   }
 
-  joinForm.addEventListener('submit', (e) => {
+  form.addEventListener('submit', (e) => {
     e.preventDefault()
 
     if (!enabled)
       return
 
     enableForm(false)
-    joinForm.querySelector('.msg-block').classList.add('hide')
+    form.querySelector('.msg-block').classList.add('hide')
 
-    submitForm(joinForm).then(success, failure)
+    submitForm(form).then(success, failure)
   })
 }
 

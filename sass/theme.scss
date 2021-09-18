@@ -4,6 +4,7 @@
 @import "_variables.scss";
 @import "_messages.scss";
 @import "_form.scss";
+@import "_home.scss";
 
 body {
   padding: 0;
@@ -55,6 +56,10 @@ header {
   justify-content: space-between;
 }
 
+.hide {
+  display: none !important;
+}
+
 .logo {
   font-family: "Alfa Slab One", serif;
   font-size: 32px;
@@ -100,6 +105,8 @@ header {
 main {
   display: flex;
   padding: 50px 100px;
+  justify-content: center;
+  min-height: 70vh;
 
   .toc {
     max-width: 260px;

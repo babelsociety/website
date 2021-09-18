@@ -15,7 +15,7 @@ interface Result {
      * @param $f (Ok) => ?Err
      * @return Result<Err, Ok>
      */
-    public function chain(callbale $f): Result;
+    public function chain(callable $f): Result;
 
     /**
      * This function expects a Result<T, Ok> and fold the Ok value into a T

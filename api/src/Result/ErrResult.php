@@ -20,7 +20,7 @@ class ErrResult implements Result {
         return $this;
     }
 
-    public function chain(callbale $f): Result {
+    public function chain(callable $f): Result {
         return $this;
     }
 

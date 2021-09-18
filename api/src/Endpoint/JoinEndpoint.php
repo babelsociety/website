@@ -3,15 +3,13 @@ namespace BabelSociety\Endpoint;
 
 use BabelSociety\Contact;
 use BabelSociety\ContactRepository;
-use BabelSociety\HttpStatus;
 use BabelSociety\Newsletter;
 use BabelSociety\Parser;
 use BabelSociety\Recaptcha;
 use BabelSociety\Response;
-use BabelSociety\Result\ErrResult;
 use BabelSociety\Result\Result;
 
-class JoinEndpoint {
+class JoinEndpoint implements Endpoint {
     /** @var ContactRepository */
     private $repository;
 
@@ -44,7 +42,7 @@ class JoinEndpoint {
     }
 
     public function invoke(string $httpMethod, string $rawRequest): Response {
-        return chain($httpMethod === 'POST', new Response(HttpStatus::METHOD_NOT_ALLOWED))
+        return chain($httpMethod === 'POST', Response::methodNotAllowed())
             ->then(function () use ($rawRequest) {
                 return $this->parseRequest($rawRequest);
             })
@@ -57,7 +55,7 @@ class JoinEndpoint {
                 if ($contact->wantsNewsletter())
                     $this->newsletter->subscribe($contact->getEmail());
 
-                return new Response(HttpStatus::CREATED);
+                return Response::created();
             });
     }
 
@@ -65,45 +63,41 @@ class JoinEndpoint {
      * @return Result<Response, Contact>
      */
     private function parseRequest(string $raw): Result {
-        $json = json_decode($raw, true);
+        return $this
+            ->parser->parseJson($raw)
+            ->chain(function (array $req) {
+                return empty($req['toc'])
+                    ? Response::error('You must accept the Terms and Condition')
+                    : null;
+            })
+            ->chain(function (array $req) {
+                return $this->captcha->verifyRequest($req);
+            })
+            ->then(function (array $req) {
+                return resultAll([
+                    'first' => $this->parser->reqField('First name', $req, 'firstName'),
+                    'last' => $this->parser->reqField('Last name', $req, 'lastName'),
+                    'email' => $this->parseEmail($req),
+                    'loc' => $this->parser->optField('Location', $req, 'location'),
+                    'desc' => $this->parser->optField('Presentation', $req, 'description'),
+                    'cntr' => $this->parser->optField('Contribution', $req, 'contribution'),
+                    'news' => $this->parser->optFieldBool('Newsletter', $req, 'newsletter'),
+                ], function (array $r) {
+                    return new Contact(
+                        $r['first'], $r['last'], $r['email'],
+                        $r['loc'], $r['desc'], $r['cntr'],
+                        $r['news']
+                    );
+                });
+            });
+    }
 
-        if ($json === null)
-            return new ErrResult(
-                new Response(HttpStatus::NOT_ACCEPTABLE)
-            );
-
-        if (empty($json['toc']))
-            return new ErrResult(
-                Response::error('You must accept the Terms and Condition')
-            );
-
-
-        $failedCaptcha = empty($json['g-recaptcha-response']) 
-            || !$this->captcha->verify($json['g-recaptcha-response']);
-
-        if ($failedCaptcha)
-            return new ErrResult(
-                Response::error('Invalid reCAPTCHA, please verify it again')
-            );
-
-        return resultAll([
-            'first' => $this->parser->reqField('First name', $json, 'firstName'),
-            'last' => $this->parser->reqField('Last name', $json, 'lastName'),
-            'email' => $this->parser
-                            ->reqField('E-Mail', $json, 'email')
-                            ->then(function (string $raw) {
-                                return $this->parser->email($raw);
-                            }),
-            'loc' => $this->parser->optField('Location', $json, 'location'),
-            'desc' => $this->parser->optField('Presentation', $json, 'description'),
-            'cntr' => $this->parser->optField('Contribution', $json, 'contribution'),
-            'news' => $this->parser->optFieldBool('Newsletter', $json, 'newsletter'),
-        ], function (array $r) {
-            return new Contact(
-                $r['first'], $r['last'], $r['email'],
-                $r['loc'], $r['desc'], $r['cntr'],
-                $r['news']
-            );
-        });
+    private function parseEmail(array $req): Result {
+        return $this
+            ->parser
+            ->reqField('E-Mail', $req, 'email')
+            ->then(function (string $raw) {
+                return $this->parser->email($raw);
+            });
     }
 }

@@ -20,7 +20,7 @@ class OkResult implements Result {
         return $f($this->value);
     }
 
-    public function chain(callbale $f): Result {
+    public function chain(callable $f): Result {
         $error = $f($this->value);
 
         return $error === null ? $this : new ErrResult($error);
