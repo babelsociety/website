@@ -753,6 +753,6 @@ Parenting is one of the most complex of all activities, that's why it will be ve
 
 # Join us!
 
-Thank you for having read the full manifest. If these ideas resonated with you, let's get in touch by filling out the following form.
+Thank you for having read the full manifest. If these ideas resonated with you and would like to get in touch, feel free to fill the form.
 
 {{ join() }}
