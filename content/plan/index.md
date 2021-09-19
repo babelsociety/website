@@ -13,19 +13,20 @@ Babel Society does not want to be a cloud in the air, but rather a society capab
 
 If you want to find out more about Babel Society ideology, we invite you to read the [Manifest](@/manifest/index.md).
 
-A fundamental feature of Babel Society is decentralization, this affect both plan execution and decision-making power. What follows is a plan that anyone can draw inspiration from to achieve the common goal of a better society. Indeed, we hope that more projects will be carried out over time and in various parts of the world; as long as there is someone who believes in the [key concepts](@/manifest/index.md#key-concepts) of Babel Society, the change will take place.
+A fundamental feature of Babel Society is decentralization, this affect both plan execution and decision-making power. What follows is a plan that anyone can draw inspiration from to achieve the common goal of a better society. Indeed, we hope that more projects will be carried out over time and in various parts of the world; as long as there is someone who believes in Babel Society [key concepts](@/manifest/index.md#key-concepts), the change will take place.
 
-Each new project will be able to rely on the experience of others, as well as on any infrastructure and support already established, thus increasing the chances of success.  
+Each new project will be able to rely on the experience of others, as well as on all infrastructure and support already established, thus increasing the chances of success.  
 We do not recommend starting several projects in the same country at the same time, it would be more appropriate to collaborate so as to have more resources and talents available.
 
 
 # Peaceful Foundations
+
 Babel Society aims to promote a peaceful and long-term change. History teaches us that any revolution based on violence has never lasted over time, sooner or later the strong powers returned to reign, albeit under different guises.  
 Violence only breeds more violence.
 
-It may happen that they will try to oppress the project by force, but it is important to resist the urge to retaliate and carry out the plan in a peaceful manner. If we can respond to violence with **active pacifism**, public opinion will be on our side. We will show that we are different, that what we profess resides in our deeds. Let's make our voices heard as much as possible and public opinion will not be able to ignore what happened, but rather will act as a sounding board.
+It may happen that they will try to oppress the project by force, but it is important to resist the urge to retaliate and carry out the plan in a peaceful manner. If we can respond to violence with **active pacifism**, public opinion will be on our side. We will show that we are different, that what we profess resides in our deeds. Let's make our voices heard as much as possible and public opinion will not be able to ignore what happened, but rather will act as a sounding board. The means must align to our final goal.
 
-They could also try to tarnish the project through scandals and falsehoods. It is important to be completely transparent in every decision. If decisions are made through in-person meetings, it will be good to record and publish them uncut. Perhaps invite the most skepticals to preside over the meetings themselves.  
+They could also try to tarnish the project through scandals and falsehoods. It is important to be completely transparent in every decision. If decisions are made through in-person meetings, it will be good to record and publish them uncut. Perhaps invite the most skeptics to preside over the meetings themselves.  
 People always tend to be wary of what they do not understand, of what's different; it is part of our nature and is a feature that has allowed our species to adapt and survive the most hostile environments. Therefore **it is essential that the society remains open and always willing to dialogue with external people**.  
 In this way, even those who are not part of it will be able to understand it, form their own opinion and will be able to better cope with disinformation.
 

@@ -34,7 +34,7 @@ class Mailchimp {
 
         $this->client->lists->setListMember($this->listId, $hash, [
             'email_address' => $email,
-            'status_if_new' => 'pending',
+            'status_if_new' => 'subscribed',
             'language' => 'en',
         ]);
     }
