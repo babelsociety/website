@@ -11,6 +11,9 @@ body {
   margin: 0;
   box-sizing: border-box;
   background-color: var(--secondary-color);
+  min-height: 100vh;
+  display: flex;
+  flex-flow: column;
 }
 
 h1,h2,h3,h4,h5,h6 {
@@ -54,6 +57,7 @@ header {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  flex-grow: 0;
 }
 
 .hide {
@@ -75,7 +79,7 @@ header {
 }
 
 .nav-item {
-  margin: 0 10px;
+  margin: 0 0.5rem;
   text-decoration: none;
   font-size: 18px;
   font-weight: bold;
@@ -84,6 +88,16 @@ header {
     color: #000;
     text-decoration: underline;
   }
+
+  & > img {
+    height: 1.7rem;
+    margin-top: -0.2rem;
+    vertical-align: middle;
+  }
+}
+
+.nav-icon {
+  margin: 0 0.2rem;
 }
 
 .hero {
@@ -106,7 +120,7 @@ main {
   display: flex;
   padding: 50px 100px;
   justify-content: center;
-  min-height: 70vh;
+  flex-grow: 1;
 
   .toc {
     max-width: 260px;
@@ -169,6 +183,7 @@ footer {
   align-items: center;
   background-color: #202020;
   color: #fcfcfc;
+  flex-grow: 0;
 
   a {
     color: #fcfcfc;
