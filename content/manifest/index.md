@@ -133,7 +133,7 @@ Babel Society aims to unite all people who today are already in line with our cu
 ## How to be part of it {#enter}
 
 Any external person who wants to be part of our society will first have to get in touch with members who are already part of it. It will be up to them to present a [project](#projects) in their name in which members explain why the applicant should be part of our society. The applicant must be available to meet other interested members of the society in order to better assess whether it is appropriate to accept the application.  
-If the project is accepted, the person will be admitted on a provisional basis. Once their eligibility has been demonstrated, the project can be considered concluded and they will become an actual member. Otherwise, the candidate is reject and the society will give them all the means needed to go somewhere else.
+If the project is accepted, the person will be admitted on a provisional basis. Once their eligibility has been demonstrated, the project can be considered concluded and they will become an actual member. Otherwise, the candidate will lose their status as a member of the society and will be treated as a normal tourist. In case the rejected candidate decide to go back to wherever they came from, the society must support them financially as much as they can.
 
 In the initial phase it is extremely important that all members are united and cohesive, that they strive towards the common goal.  
 As the society acquires strength and autonomy, it will then be easier to accept new members thanks to the greater stability achieved.  
@@ -233,6 +233,14 @@ A project could be revoked if, during its implementation or just after its concl
 
 During the revocation, it is important to identify the short term solutions to fix any serious problem. Once the imminent dangers have been resolved, a new project will have to be created in order to address the problems caused in a thorough way, to find appropriate solutions in the long term, as well as to understand why those mistakes were made in the first place and to design, wherever possible, a way to decrease the chance of them happening again.
 
+### Priority
+
+In case there is a lack of resources necessary to start a project that has already been approved, it will be put on a list, however the priority in the list will be determined through member voting, so that the most relevant problems will be tackled first. Please note that this is different from normal [waiting lists](#waiting-lists) due to the vote system, there is also no limit on how much a project can be delayed. Each member can vote for only one project in the list, but they can change their vote and support a different project at any time. The lists should be split by geographical area to avoid penalizing areas with low population density, also different areas will have different priorities.
+
+It may happen that multiple areas will require the same resources, in this case we will discuss what project should be tackled first and materialize the decision by using a global list.
+
+This system may seem complex, but the technology behind is pretty straightforward and will help us to make the right decisions.
+
 
 ## Fruitful Discussions
 
@@ -283,9 +291,9 @@ In order to ensure that teachers can adequately follow their students, this syst
 
 Anyone who achieves an illustrious result within the society can be awarded with Merits. Merits can be accumulated and last throughout the person's life, however they are not transferable. You may think of Merits as a Nobel Prize.  
 It is good to specify immediately that having zero Merits is normal and there will be no substantial difference between those who have obtained Merits and those who haven't.  
-The only material benefit given by the Merits is higher priority in [waiting lists](#waiting-lists).
+The only material benefit given by the Merits is higher priority in some [waiting lists](#waiting-lists).
 
-It is good to specify that although many Merits designate an illustrious person whose ideas should always be listened to and pondered upon, this does not mean that they are right regardless. Society should always use critical thinking when it comes to making decisions.
+It is good to specify that although many Merits designate an illustrious person whose ideas should always be listened to and pondered upon, this does not mean that they are right regardless. **Society should always use critical thinking when it comes to making decisions**, no matter whom those ideas belong to.
 
 Obtaining merits will not be easy, as they can only be given after achieving a feat that a large part of society considers important and significant. In order to bestow merits, we need to open a [project](#projects) which outlines the feat achieved and why it is significant; the author cannot be the recipient of the Merits. In order to be accepted, these projects must reach and be voted on by a good portion of the population. The higher it is, the more Merits will be bestowed. What follows is a hypothetical outline:
 
@@ -297,12 +305,12 @@ Obtaining merits will not be easy, as they can only be given after achieving a f
 
 It goes from itself that researchers will be the category with the greatest chance of obtaining Merits, as their job is precisely to find ways to greatly improve certain aspects of our society.
 
-In the case of necessary jobs that nobody wants to do, the society could also decide to assign Merits based on the amount of hours worked, perhaps in quantities influenced by [job level](#job-levels). They have put themselves at the service of the community and therefore it is right that society recognizes their value.
+The society could also decide to assign Merits based on the amount of hours worked on jobs that nobody usually wants to do, perhaps in quantities proportional to the [job level](#job-levels). They have put themselves at the service of the community and therefore it is right that society recognizes their value.
 
 
 ## Crimes
 
-Project Terra wants to organize a society in which it is hard to commit crimes.  
+Babel Society wants to organize a society in which it is hard to commit crimes.  
 For example, by disconnecting the [consumption of goods](#consumption) from the [work done](#work), all those crimes mainly caused by hunger and discontent are eliminated. There will be no reason for a person to rely on criminal organizations just because they have to support their family. Criminal activities such as drugs dealing and smuggling would be much more complex to manage because [there will be no money to fuel them](#economics).  
 Thefts are expected to decrease significantly as everyone has access to the same items.  
 By creating a society where we can all be [authentic](#authenticity), hate crimes should drastically decrease too. This effect should be amplified by [collaboration](#collaboration), as it will create a sense of conviviality that will make us less inclined to selfishness.  
@@ -320,7 +328,7 @@ The police structure will be much different from today. There will be no hierarc
 
 ## Rehabilitation System
 
-Project Terra does not believe in punishments bordering on torture or death penalty. Collaborating also means not leaving behind those who find it difficult to adapt, respecting them as humans and living beings.  
+Babel Society does not believe in punishments bordering on torture or death penalty. Collaborating also means not leaving behind those who find it difficult to adapt, respecting them as humans and living beings.  
 Treating the disturbing people as if they were monsters only increases their hatred towards society.  
 After the rehabilitation process, we want these people to be able to be just members of society, correct what led them to commit the crime, give them the opportunity to contribute to the well-being of all and to fulfill themselves. After all, no one is perfect and we can all make a mistake.
 
@@ -645,7 +653,7 @@ The exemption is to be considered optional, we would be able to join back the wo
 ## Waiting Lists
 
 We may find ourselves in a situation where the demand for a particular good or service is higher than the society can produce. Part of the problem is solved through the [budgeting system](#expensive-goods), but the problem remains for requesting substantial resources for research or starting a business.  
-To overcome this problem, priority waiting lists will be established based on [Merits](#merits) and possibly other factors. For example, in the event of a pandemic, priority will be given to treating the most affected groups.
+To overcome this problem, priority waiting lists will be established based on some factors and possibly [Merits](#merits). For example, in the event of a pandemic, priority will be given to treating the most affected groups.
 
 By priority waiting lists we mean a system in which the first one to enqueue will be served, then the second and so on, until the list is exhausted; however, people with higher priority will be placed closer to the top of the list than they normally would. This system must be calibrated in such a way that all those enqueued will have their turn within a reasonable delay.
 
