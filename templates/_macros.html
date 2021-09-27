@@ -14,6 +14,12 @@
   {% for page in section.pages %}
   <a class="nav-item subtitle-text" href="{{ page.permalink }}">{{ page.extra.menu | default(value = page.title) }}</a>
   {% endfor %}
+ 
+  {% for subPath in section.subsections %}
+  {% set sub = get_section(path=subPath) %}
+  <a class="nav-item subtitle-text" href="{{ sub.permalink }}">{{ sub.extra.menu | default(value = sub.title) }}</a>
+  {% endfor %}
+
   <a class="nav-item nav-icon" target="_blank" href="https://github.com/babelsociety/website"><img src="{{ get_url(path="github.svg") }}" alt="github"></a>
   <a class="nav-item nav-icon" target="_blank" href="https://reddit.com/r/babelsociety"><img src="{{ get_url(path="reddit.svg") }}" alt="reddit"></a>
 </nav>
