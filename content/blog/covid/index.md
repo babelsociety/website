@@ -1,8 +1,9 @@
 +++
 weight = 0
 
-title = "The Covid-19 Endemic"
+title = "What we should learn from Covid-19"
 description = "How it made clear the inherent flaws of a capitalistic society"
+date = 2021-09-28
 +++
 
 Between October and November 2019 a new dangerous virus infected the first human victim, and by March 11, 2020 it was [officially declared a global pandemic](https://www.who.int/director-general/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020). It took Covid-19 less than 6 months to eat the world.
@@ -31,7 +32,7 @@ Let that sink for a moment.
 
 Is this really a news, though? The history of capitalistic societies is full of such atrocities. Every day we can see the staggering difference between the poor and the rich. Western Countries in the past had the audacity of calling their own society as "developed" and went on a quest to let the other "undeveloped" Countries mimic their own absurdities.
 
-The Covid-19 pandemic showed us the aftermath of such development. It showed us how much this globalized world is divided, how much we are morally isolated and weak. We can reach everyone and be everywhere thanks to our technology, yet we are more alone today than ever. We have lost the sense of community, our sense of kinship. We have been uprooted.
+The Covid-19 pandemic showed us the aftermath of such development. It demonstrated how much this globalized world is divided, how much we are morally isolated and weak. We can reach everyone and be everywhere thanks to our technology, yet we are more alone today than ever. We have lost the sense of community, our sense of kinship. We have been uprooted.
 
 The upside of it is that there is still hope and as usual many people tried their best to help others, they organized and cared to those in need. In the end spontaneous organization proved more effective than some official governments.
 
