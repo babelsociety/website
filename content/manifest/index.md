@@ -318,12 +318,12 @@ Finally, the [focus on education](#education) should provide younger generations
 
 Nonetheless, we are aware that there will always be crimes. Humans can be extremely creative when it comes to bypassing the system and causing troubles.
 
-Society will therefore still need a form of police, i.e. trained personnel able to make all members of society feel safe, to intervene in the event of crimes such as murders, violence, thefts and so on. In order to avoid an escalation of violence, normal police officers will only have tools to subdue individuals.  
-The ultimate goal of this role is to find the culprit and ensure that they are taken into custody. Once done, it will be the turn of a team of psychologists specialized in crimes who, using the evidence collected by the police, will have to understand if they have arrested the right person.  
+Society will still need guards, i.e. trained people able to make all members of society feel safe, to intervene to prevent violent crimes such as murders, thefts and so on. In order to avoid an escalation of violence, normal guards should only have tools to subdue individuals.  
+Another important job will be detectives: their goal is to find the culprit and ensure that they are taken into custody. Once done, it will be the turn of a team of psychologists specialized in crimes who, using the evidence collected by guards and detectives, will have to understand if they have arrested the right person.  
 Dialog with the alleged criminal is fundamental. Based on these discussions, the team may request verification of certain facts, gathering of additional evidence, or perhaps seeking support from other colleagues.  
 Once they are sure they have the right person, they will have to assess the seriousness of the crime and assign the most appropriate sentence. If in doubt, they will be able to discuss the situation in a larger group, perhaps seeking the support of a legal expert, or even bring the case to the attention of society as a whole.
 
-The police structure will be much different from today. There will be no hierarchy of power and it will be similar to any other job. There will be less focus on following a predetermined set of rules, on mindless discipline and more on helping people feel safe.
+Guards will be much different from the police structure we have today. There will be no hierarchy of power and no uniforms, as for any other job. There will be less focus on following a predetermined set of rules, and no mindless discipline, but rather the training will emphasize helping society feel safe. Guards will not have any special power over other people, each member of the society can act as a guard if they deem it necessary. It would be good for every capable person to at least go over the basic guard training. In the end, we should all look out for each other.
 
 
 ## Rehabilitation System
