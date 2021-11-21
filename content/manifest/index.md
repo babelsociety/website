@@ -287,25 +287,25 @@ We firmly believe that teachers are the pillars of our future society, for this 
 In order to ensure that teachers can adequately follow their students, this system assumes a limited number of participants, probably no more than 10 per course. Training a sufficient number of capable and prepared teachers will be the greatest challenge for this system. In the event of a shortage of teachers, priority should be given to children, while others can make up for it through self learning based on the material available.
 
 
-## Merits
+## Awards
 
-Anyone who achieves an illustrious result within the society can be awarded with Merits. Merits can be accumulated and last throughout the person's life, however they are not transferable. You may think of Merits as a Nobel Prize.  
-It is good to specify immediately that having zero Merits is normal and there will be no substantial difference between those who have obtained Merits and those who haven't.  
-The only material benefit given by the Merits is higher priority in some [waiting lists](#waiting-lists).
+Anyone who achieves an illustrious result within the society can be awarded with Awards. Awards can be accumulated, however they are not transferable. You may think of Awards as a Nobel Prize.  
+There will be no substantial difference between those who have obtained Awards and those who haven't, indeed it will be normal to have none.  
+The only material benefit given by Awards is higher priority in some [waiting lists](#waiting-lists).
 
-It is good to specify that although many Merits designate an illustrious person whose ideas should always be listened to and pondered upon, this does not mean that they are right regardless. **Society should always use critical thinking when it comes to making decisions**, no matter whom those ideas belong to.
+It is good to specify that although many Awards designate an illustrious person whose ideas should always be listened to and pondered upon, this does not mean that they are right regardless. **Society should always use critical thinking when it comes to making decisions**, no matter whom those ideas belong to.
 
-Obtaining merits will not be easy, as they can only be given after achieving a feat that a large part of society considers important and significant. In order to bestow merits, we need to open a [project](#projects) which outlines the feat achieved and why it is significant; the author cannot be the recipient of the Merits. In order to be accepted, these projects must reach and be voted on by a good portion of the population. The higher it is, the more Merits will be bestowed. What follows is a hypothetical outline:
+Obtaining awards will not be easy, as they can only be given after achieving a feat that a large part of society considers important and significant. In order to bestow awards, we need to open a [project](#projects) which outlines the feat achieved and why it is significant; the author cannot be the recipient of the Awards. In order to be accepted, these projects must reach and be voted on by a good portion of the population. The higher it is, the more Awards will be bestowed. What follows is a hypothetical outline:
 
-- at least 25% of the population, 1 Merit
-- at least 40% of the population, 2 Merits
-- at least 60% of the population, 5 Merits
-- at least 80% of the population, 8 Merits
-- at least 90% of the population, 10 Merits
+- at least 25% of the population, 1 Award
+- at least 40% of the population, 2 Awards
+- at least 60% of the population, 5 Awards
+- at least 80% of the population, 8 Awards
+- at least 90% of the population, 10 Awards
 
-It goes from itself that researchers will be the category with the greatest chance of obtaining Merits, as their job is precisely to find ways to greatly improve certain aspects of our society.
+It goes from itself that researchers will be the category with the greatest chance of obtaining Awards, as their job is precisely to find ways to greatly improve certain aspects of our society.
 
-The society could also decide to assign Merits based on the amount of hours worked on jobs that nobody usually wants to do, perhaps in quantities proportional to the [job level](#job-levels). They have put themselves at the service of the community and therefore it is right that society recognizes their value.
+The society could also decide to assign Awards for every year worked on jobs that nobody usually wants to do, perhaps in quantities proportional to the [job level](#job-levels). They have put themselves at the service of the community and therefore it is right that society recognizes their value.
 
 
 ## Crimes
@@ -355,7 +355,7 @@ If you persevere in committing minor offenses, the case will get much more serio
 
 ### Major offenses
 
-Major offenses are always punished with [imprisonment](#imprisonment). If the malefactor also has [Merits](#merits), it could be decided to eliminate a part of them and even reset them in the most extreme cases.
+Major offenses are always punished with [imprisonment](#imprisonment). If the malefactor also has [Awards](#awards), it could be decided to eliminate a part of them and even reset them in the most extreme cases.
 
 Some examples of major offenses are murder, theft of a massive amount of assets, omission by a manufacturer, pollution, neglecting maintenance of important structures (e.g. bridges), as well as causing a violent group reaction, especially hate crimes.
 
@@ -623,7 +623,7 @@ Other jobs, such as harvesting the fields, should be done with the help of the w
 
 All of these changes are easily applied in a small, likely-minded society that grows in a sustainable way.
 
-Other jobs should be encouraged through social responsibility, perhaps rotating from time to time and conferring [Merits](#merits) based on the number of hours performed.
+Other jobs should be encouraged through social responsibility, perhaps rotating from time to time and conferring [Awards](#awards) based on the number of hours performed.
 
 However, the long-term solution is automation. Babel Society will focus heavily on research in order to eliminate those chores that nobody wants to do, especially those that are repetitive or are considered dangerous and high-risk.
 
@@ -653,7 +653,7 @@ The exemption is to be considered optional, we would be able to join back the wo
 ## Waiting Lists
 
 We may find ourselves in a situation where the demand for a particular good or service is higher than the society can produce. Part of the problem is solved through the [budgeting system](#expensive-goods), but the problem remains for requesting substantial resources for research or starting a business.  
-To overcome this problem, priority waiting lists will be established based on some factors and possibly [Merits](#merits). For example, in the event of a pandemic, priority will be given to treating the most affected groups.
+To overcome this problem, priority waiting lists will be established based on some factors and possibly [Awards](#awards). For example, in the event of a pandemic, priority will be given to treating the most affected groups.
 
 By priority waiting lists we mean a system in which the first one to enqueue will be served, then the second and so on, until the list is exhausted; however, people with higher priority will be placed closer to the top of the list than they normally would. This system must be calibrated in such a way that all those enqueued will have their turn within a reasonable delay.
 
