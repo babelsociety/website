@@ -1,9 +1,9 @@
 +++
-weight = 1
+weight = 0
 
 title = "The Root Cause of Poverty"
 description = "The other face of extreme wealth"
-date = 2021-11-21
+date = 2021-12-12
 +++
 
 When discussing poverty, many think about the so-called third world Countries, but it is everywhere, including the top richest Countries such as United States of America and China.
