@@ -287,27 +287,6 @@ We firmly believe that teachers are the pillars of our future society, for this 
 In order to ensure that teachers can adequately follow their students, this system assumes a limited number of participants, probably no more than 10 per course. Training a sufficient number of capable and prepared teachers will be the greatest challenge for this system. In the event of a shortage of teachers, priority should be given to children, while others can make up for it through self learning based on the material available.
 
 
-## Awards
-
-Anyone who achieves an illustrious result within the society can be awarded with Awards. Awards can be accumulated, however they are not transferable. You may think of Awards as a Nobel Prize.  
-There will be no substantial difference between those who have obtained Awards and those who haven't, indeed it will be normal to have none.  
-The only material benefit given by Awards is higher priority in some [waiting lists](#waiting-lists).
-
-It is good to specify that although many Awards designate an illustrious person whose ideas should always be listened to and pondered upon, this does not mean that they are right regardless. **Society should always use critical thinking when it comes to making decisions**, no matter whom those ideas belong to.
-
-Obtaining awards will not be easy, as they can only be given after achieving a feat that a large part of society considers important and significant. In order to bestow awards, we need to open a [project](#projects) which outlines the feat achieved and why it is significant; the author cannot be the recipient of the Awards. In order to be accepted, these projects must reach and be voted on by a good portion of the population. The higher it is, the more Awards will be bestowed. What follows is a hypothetical outline:
-
-- at least 25% of the population, 1 Award
-- at least 40% of the population, 2 Awards
-- at least 60% of the population, 5 Awards
-- at least 80% of the population, 8 Awards
-- at least 90% of the population, 10 Awards
-
-It goes from itself that researchers will be the category with the greatest chance of obtaining Awards, as their job is precisely to find ways to greatly improve certain aspects of our society.
-
-The society could also decide to assign Awards for every year worked on jobs that nobody usually wants to do, perhaps in quantities proportional to the [job level](#job-levels). They have put themselves at the service of the community and therefore it is right that society recognizes their value.
-
-
 ## Crimes
 
 Babel Society wants to organize a society in which it is hard to commit crimes.  
@@ -355,9 +334,7 @@ If you persevere in committing minor offenses, the case will get much more serio
 
 ### Major offenses
 
-Major offenses are always punished with [imprisonment](#imprisonment). If the malefactor also has [Awards](#awards), it could be decided to eliminate a part of them and even reset them in the most extreme cases.
-
-Some examples of major offenses are murder, theft of a massive amount of assets, omission by a manufacturer, pollution, neglecting maintenance of important structures (e.g. bridges), as well as causing a violent group reaction, especially hate crimes.
+Major offenses are always punished with [imprisonment](#imprisonment). Some examples of major offenses are murder, theft of massive amount of assets, omission by a manufacturer, pollution, neglecting maintenance of important structures (e.g. bridges), as well as causing a violent group reaction, especially hate crimes.
 
 
 ### Imprisonment
@@ -612,20 +589,23 @@ Being an artist will have the same structure as any other jobs, including levels
 ## Humble and tiring jobs
 
 If we can all do the job we like best, who will do the humblest and most tiring jobs?
-The short-term answer is "everyone". Many of the jobs that today we find tiring can often be eliminated.
 
-For example, everyone should learn how to clean their home, as well as the many common facilities. In public toilets there should be a sanitization system available to be applied before use, so that we leave it cleaner that we found it.  
+The short-term answer is "everyone". Many of the jobs that today we find tiring can often be eliminated by organizing properly.
+
+For example, everyone should learn how to clean their home, as well as the many common facilities. In public toilets there should be a sanitization system available to be applied before use, so that we leave it cleaner than we found it.  
 Thanks to this collective effort, we will no longer need janitors, or at least that type of work will become much easier.
 
-Restaurants could also be structured in a way that let customers bring food to the table once it is ready.
+Restaurants could also be structured in a way that let customers bring food to their table once it is ready, as it often happens in fast-food chains.
 
-Other jobs, such as harvesting the fields, should be done with the help of the whole society. These activities often help us remain humble and give a sense of conviviality; they could become moments of celebration where we can share the fruits of the earth. Hard work done all together is much easier and lighter.
+Certain jobs can be made more communal, such as harvesting the fields, and should be done with the help of the whole society. These activities help us remain humble and give a sense of conviviality; for many centuries these were moments of celebration where people shared the fruits of the earth. Hard labor done all together is much easier and lighter.
+
+Overall it would be important to encourage cooperation through social responsibility, and we could employ gamefication strategies to further incentivize it. For example, we could setup an achievement system as those available in all major gaming platform, which should not give any benefit other than its achievement and social recognition.
+
+Hazardous jobs such as miners are already heavily regulated to ensure the least amount of risk and to increase safety, however these measures are often discarded by capitalists because it is more profitable in that way. This way of thinking has no space in Babel Society. Given that there is no profit to be made and that laborers have full control over their jobs, it will be natural to employ all the best precaution to ensure even dangerous jobs are done in a safe manner.
 
 All of these changes are easily applied in a small, likely-minded society that grows in a sustainable way.
 
-Other jobs should be encouraged through social responsibility, perhaps rotating from time to time and conferring [Awards](#awards) based on the number of hours performed.
-
-However, the long-term solution is automation. Babel Society will focus heavily on research in order to eliminate those chores that nobody wants to do, especially those that are repetitive or are considered dangerous and high-risk.
+The long-term solution is automation. Babel Society will focus heavily on research in order to eliminate those chores that nobody wants to do, especially those that are repetitive or are considered dangerous and high-risk. For example, there is already a robot capable of cleaning up toilets.
 
 
 ## Research
@@ -643,17 +623,12 @@ It goes without saying that much of the research will never bear any fruits, but
 
 ## Retirement
 
-It will be possible for all members to retire once they are 60 years old, i.e. they will be exempt from having to participate in any productive activity.
-
-In special cases, such as due to medical conditions, you may be able to retire early. In this case, we must file a [project](#projects) in order to document what happened and allow everyone to carry out the necessary checks.
-
-The exemption is to be considered optional, we would be able to join back the workforce whenever we want.
-
+It will be possible for all members to retire once they are 60 years old, i.e. they will be exempt from having to participate in any productive activity.  In special cases, such as due to medical conditions, you may be able to retire early. In this case, we must file a [project](#projects) in order to document what happened and allow everyone to carry out the necessary checks.  The exemption is to be considered optional, we would be able to join back the workforce whenever we want.  
 
 ## Waiting Lists
 
 We may find ourselves in a situation where the demand for a particular good or service is higher than the society can produce. Part of the problem is solved through the [budgeting system](#expensive-goods), but the problem remains for requesting substantial resources for research or starting a business.  
-To overcome this problem, priority waiting lists will be established based on some factors and possibly [Awards](#awards). For example, in the event of a pandemic, priority will be given to treating the most affected groups.
+To overcome this problem, priority waiting lists will be established based on some factors. For example, in the event of a pandemic, priority should be given to treating the most affected groups.
 
 By priority waiting lists we mean a system in which the first one to enqueue will be served, then the second and so on, until the list is exhausted; however, people with higher priority will be placed closer to the top of the list than they normally would. This system must be calibrated in such a way that all those enqueued will have their turn within a reasonable delay.
 
