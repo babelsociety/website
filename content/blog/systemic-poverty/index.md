@@ -28,7 +28,7 @@ All the causes mentioned so far do have an impact on poverty, but they cannot be
 
 The real problem is the **socio-economical structure** that allows **high wealth inequality**. This is the root cause of poverty.
 
-According to [a report published by Oxfam](https://policy-practice.oxfam.org/resources/an-economy-for-the-99-its-time-to-build-a-human-economy-that-benefits-everyone-620170/) in 2017, the top 8 wealthiest men in the world collectively possessed as much wealth as the bottom 50% (roughly 3.6 billions people). Such an extreme wealth inequality is direct consequence of a society based on unchecked capitalism, which is endemic in our world.
+According to [a report published by Oxfam](https://policy-practice.oxfam.org/resources/an-economy-for-the-99-its-time-to-build-a-human-economy-that-benefits-everyone-620170/) in 2017, the top 8 wealthiest men in the world collectively possessed as much wealth as the bottom 50% (roughly 3.6 billions people). Such an extreme wealth inequality is direct consequence of a society based on capitalism, which is endemic in our world.
 
 In today society poverty is a required element, it is part of the system by design. As soon as we accept that in our society it can exist a person whose wealth is far greater than most people, then there must be poverty.
 
@@ -40,13 +40,13 @@ Poverty is functional to any society that is based on a strict hierarchy of powe
 
 The bottom layer is an easy escape goat when the top needs to divert blame. You worked harder and longer but you are slowly and steadily headed into poverty? *Obviously* it's not *our fault* if we are squeezing every penny out of you, those poor people who are ok doing your work for less money are the *real culprits*!
 
-It may seems ironic, but just stop for a moment and think about the major political discussions of the last years; left or right wing doesn't really matter. Very often, *way too often*, those at fault are the less fortunate. This should ring a bell, but we are so much used to it that now it is part of our normality.
+It may seems ironic, but just stop for a moment and think about the major political discussions of the last years, left or right wing doesn't really matter. Very often, *way too often*, those at fault are the less fortunate. This should ring a bell, but we are so much used to it that now it is part of our normality.
 
-Even unemployment it is often considered by capitalistic economists as a necessary evil. They define a natural rate of unemployment that must be always present, otherwise employers will be forced to increase wages which in turn will raise inflation. And yet, unemployed people are always stigmatized by society, declared as leeches.
+Even unemployment it is often considered by capitalistic economists as a necessary evil. They define a natural rate of unemployment that must be always present, otherwise employers will be forced to increase wages which in turn will raise inflation. And yet, unemployed people are always stigmatized by society, declared as lazy and leeches.
 
 This is the kind of paradoxical society we are leaving in. We live in a world where we must have a job to avoid poverty, yet we perfectly know that by design some will be left out. We live in a world that constantly talks about abolishing poverty, while perfectly knowing that we will never do it with the current socio-economic structure.
 
-All of these characteristics aren't natural. We decided to make a system based on these principles, and we did while conscious that certain people will have more than they will ever need, while others will be condemned to a life of misery. We did it to ensure there will always be people on top who can exploit and rule over those at the bottom. These are remnants of aristocracy.
+All of these characteristics aren't natural. We decided to make a system based on these principles, and we did while conscious that certain people will have more than they will ever need, while others will be condemned to a life of misery. We did it to ensure there will always be people on top who can exploit and rule over those at the bottom. Be it meritocracy or aristocracy, the will to rule over others still remains.
 
 But it doesn't have to be this way.
 
