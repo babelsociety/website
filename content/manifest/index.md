@@ -75,41 +75,6 @@ We shouldn't confuse "stability" with "stasis". A system in stasis assumes that 
 No matter how many good intentions and qualities we arm ourselves with, perfection is not of this world. Mistakes are always on the agenda, which is why it is very important to know how to manage them.
 
 
-# Technology
-
-At the heart of Babel Society is a technological revolution that aims to give as much visibility and power as possible to every member of society.
-
-Each technological component will be created following the philosophy of [Free Open Source Software](https://en.wikipedia.org/wiki/Free_and_open-source_software), which is one of the most successful forms of collaboration. This means that:
-
-- Every detail of the system can be scrutinized by anyone
-- Every part will be usable and modifiable by anyone
-- Everyone can contribute to the improvement of it
-
-Over the years it has been shown that the technologies thus developed tend to be among the safest and most reliable as they are for all to see, and it is therefore more likely that flaws or incorrect behaviors will be identified and corrected.
-
-Technology advancement becomes an ally that can improve our lives rather than making them worse.
-
-All technologies as well as being free will have to be as decentralized as possible. We aim for a distributed infrastructure in which every member holds a piece of the puzzle. This characteristic will make the system highly resilient to external attacks and is in line with the underlying philosophy of the Internet and Babel Society itself.
-
-
-## App
-
-The App is a smartphone application that will also provide a two-factor authentication, verify the person identity and provide access to all other technological tools available.
-
-## Wallet
-
-It's an application used to manage your personal resources and for buying products, well integrated in the App and with the E-commerce. Please have a look at [Consumption](#consumption) for more detailed information.
-
-## E-commerce
-
-Central place where all products available in the society will be stored. Each product will have detailed information in its production, if it is produced by the society itself, if we can buy it in the area nearby us and many more. We expect that most products will be available for delivery.
-
-It will be seamlessly integrated with Wallet.
-
-## Virtual Forum
-
-The Virtual Forum is an online place where people can gather and discuss, share their interests and concerns, but more importantly apply changes to society itself through [projects](#projects). The identity of each person will be clearly displayed to ensure accountability.
-
 
 # Society
 
@@ -154,7 +119,7 @@ It will always be possible to rejoin the society, but you will have to go throug
 
 In Babel Society all decisions are in the hand of its people and therefore there are no central government institutions.
 
-Anyone can propose any change to society through [projects](#projects), which will be evaluated and discussed by other members of society. The only way to approve a project is through [consensus](#consensus).
+Anyone can propose any change to society through [projects](#projects), which will be evaluated and discussed by other members of society. The only way to approve a project is through [consensus](#local-consensus).
 
 In such a context, [education](#education) and learning how to properly engage in [fruitful discussions](#fruitful-discussions) is of the utmost importance. This is yet another reason to start small and grow organically.
 
@@ -183,20 +148,24 @@ The discussion must at least last a month, to give everyone the opportunity to p
 The method of approval will change according to the extent and impact area of the change: the greater the entity, the greater the amount of assent and critical thoughts it will have to gather.  
 During the discussion, the skills necessary for the development of the project will have to be identified and possibly include which members will help in the implementation.
 
+When reviewing a project, unless there is a fundamental issue or something that could harm the whole society, we should be open-minded and accepting new solutions. We expect most discussions will be around how to improve the project rather than denying it.
+
 If accepted, the author of the project will be responsible for it and will have to carry it out, with the help of the whole society. The author may decide to yield ownership to somebody else, but this must be cleared upfront.
 
 
-### Consensus
+### Local Consensus
 
 A project needs the full consent of all members interested in the proposal to be implemented. Reaching a consensus is essential to ensure the highest degree of efficiency during the implementation phase, but also to ensure that minorities aren't penalized.
 
-Take for example a proposal in which you want to build a dam in order to divert a river to make an area more fertile. Suppose the river passes through a small town, but the flow is interrupted by the dam.
+We strive for local consensus rather than global. Most decisions will only affect a small portion of the whole community, therefore only those people should take part in the decision.
+
+Take for example a project to build a dam to divert a river to make an area more fertile. Suppose the river go through a small town, but the flow is interrupted by the dam.
 
 In this context the town people will have a substantial weight in the discussion, as the river could be their primary source of water. The proposal should also benefit them and include an alternative source of water in the project if needed.  
 Another important weight will be given to civil engineers that can evaluate the feasibility of the dam, geologists to evaluate the environmental impact, but also farmers who will use the water to grow new products.  
 In order to build the dam it is essential that all parties are in agreement and that a solution is found that does not harm anyone but rather enriches society as a whole.
 
-Achieving consensus is in perfect harmony with a collaborative society, where the well-being of all is more important than individual interests.
+Achieving consensus is in perfect harmony with a collaborative society, where the well-being of all is valued.
 
 
 ### Phases
@@ -253,6 +222,14 @@ Another important aspect is to discuss the merits of the question, relying as mu
 
 Learning how to discuss fruitfully will perhaps be one of the most difficult challenges for Babel Society, given that most societies today are geared towards discuss-to-win mentality. However, because we will start as a small group that should be already well versed in fruitful discussions, it will be easier to ensure every new member learns this skill and we are confident it will soon become natural. For those wishing to get ahead, we recommend reading [Crucial Conversations](https://www.goodreads.com/book/show/15014.Crucial_Conversations).
 
+## Conflicts resolution
+
+In a large group of people it would be inevitable to incur in conflicts. The main way to resolve conflicts would be through fruitful discussion, we strive to find the best solution that could satisfy all of us.
+
+There is still a chance discussion will escalate and no solution is found. In this case we should reach out to a mediator: a person capable of navigating tough discussions. Mediators have no decision power, their role is to apply diplomacy to further dig into the problem, and help conflicting parties find a solution that would satisfy them.
+
+In case the conflict arise from how to solve a certain problem, the best way to overcome it may be to prototype all solutions available and see which one gives the best outcomes. As per our key concepts, we strive for [authenticity](#authenticity), and so we should accept that different solutions may be preferred by different groups.
+
 
 ## Education
 
@@ -289,52 +266,52 @@ In order to ensure that teachers can adequately follow their students, this syst
 
 ## Crimes
 
-Babel Society wants to organize a society in which it is hard to commit crimes.  
-For example, by disconnecting the [consumption of goods](#consumption) from the [work done](#work), all those crimes mainly caused by hunger and discontent are eliminated. There will be no reason for a person to rely on criminal organizations just because they have to support their family. Criminal activities such as drugs dealing and smuggling would be much more complex to manage because [there will be no money to fuel them](#economics).  
+Babel Society wants to remove all causes that can bring one person to commit a crime.
+For example, by disconnecting [access to goods](#consumption) from [work done](#work), all those crimes caused by hunger and discontent are eliminated. There will be no reason for a person to rely on criminal organizations just because they have to support their family. Criminal activities such as drugs dealing and smuggling would be much more complex to manage [without money to fuel them](#economics).  
 Thefts are expected to decrease significantly as everyone has access to the same items.  
 By creating a society where we can all be [authentic](#authenticity), hate crimes should drastically decrease too. This effect should be amplified by [collaboration](#collaboration), as it will create a sense of conviviality that will make us less inclined to selfishness.  
 Finally, the [focus on education](#education) should provide younger generations the tools to enjoy life rather than destroy it.
 
-Nonetheless, we are aware that there will always be crimes. Humans can be extremely creative when it comes to bypassing the system and causing troubles.
+Nonetheless, we are aware that there will always be crimes. Humans can be extremely creative when it comes to causing troubles.
 
-Society will still need guards, i.e. trained people able to make all members of society feel safe, to intervene to prevent violent crimes such as murders, thefts and so on. In order to avoid an escalation of violence, normal guards should only have tools to subdue individuals.  
-Another important job will be detectives: their goal is to find the culprit and ensure that they are taken into custody. Once done, it will be the turn of a team of psychologists specialized in crimes who, using the evidence collected by guards and detectives, will have to understand if they have arrested the right person.  
-Dialog with the alleged criminal is fundamental. Based on these discussions, the team may request verification of certain facts, gathering of additional evidence, or perhaps seeking support from other colleagues.  
-Once they are sure they have the right person, they will have to assess the seriousness of the crime and assign the most appropriate sentence. If in doubt, they will be able to discuss the situation in a larger group, perhaps seeking the support of a legal expert, or even bring the case to the attention of society as a whole.
+Society will still need guards: trained people able to make all members of society feel safe, to intervene to prevent violent crimes such as murders. In order to avoid an escalation of violence, normal guards should only have tools to subdue individuals. Their main goal is to prevent further violence rather than causing even more.  
 
-Guards will be much different from the police structure we have today. There will be no hierarchy of power and no uniforms, as for any other job. There will be less focus on following a predetermined set of rules, and no mindless discipline, but rather the training will emphasize helping society feel safe. Guards will not have any special power over other people, each member of the society can act as a guard if they deem it necessary. It would be good for every capable person to at least go over the basic guard training. In the end, we should all look out for each other.
+Guards will be much different from the police structure we have today. There will be no hierarchy of power and no uniforms. There will be less focus on following a predetermined set of rules, and no mindless discipline, but rather the training will emphasize helping society feel safe. Guards will not have any special power over people, each member of the society can act as a guard if deemed necessary. It would be good for every capable person to at least go over the basic guard training. In the end, we should all look out for each other.
 
+Another important job will be detectives: their goal is to find the culprit and ensure that they are taken into custody. Once caught, it will be up to a team of psychologists specialized in crimes who, using the evidence collected by guards and detectives, will have to understand if they have arrested the right person.
+
+Dialog with the alleged criminal is fundamental, based on which the team may request verification of certain facts, gathering of additional evidence, or perhaps seeking support from other colleagues.
+
+Once they are sure they have the right person, they will have to assess the seriousness of the crime and decide on how to handle it. If some people where wronged, they should be counseled to understand what would be the best retribution. If in doubt, they should discuss the crime in a larger group, perhaps seeking support of mediators.
 
 ## Rehabilitation System
 
-Babel Society does not believe in punishments bordering on torture or death penalty. Collaborating also means not leaving behind those who find it difficult to adapt, respecting them as humans and living beings.  
-Treating the disturbing people as if they were monsters only increases their hatred towards society.  
-After the rehabilitation process, we want these people to be able to be just members of society, correct what led them to commit the crime, give them the opportunity to contribute to the well-being of all and to fulfill themselves. After all, no one is perfect and we can all make a mistake.
+Babel Society does not believe in punishments bordering on torture or death penalty. Collaboration means we will not leave behind those who find it difficult to adapt, respecting them as humans and living beings.  
+Treating the troublemakers as if they were monsters only increases their hatred towards society.  
+The main goal of the rehabilitation process is to correct what led them to commit their crime, give them the opportunity to contribute to the well-being of all and to fulfill themselves. After all, no one is perfect and we can all make a mistake.
 
-Understanding why they did what they did can also be a moment of introspection for the society as a whole, to understand if we failed in some aspect of it.
-
-This system is largely inspired by the [Halden Prison](https://en.wikipedia.org/wiki/Halden_Prison). 
+Understanding why they did what they did can also be a moment of introspection for the society as a whole, to understand if we failed them in some way. **It is important to stay open-minded and humble, perhaps these are symptoms that a change in the system is required, rather than a change in the individual**.
 
 
 ### Rehabilitation programs
 
 Every time a crime is committed it will be followed by a rehabilitation program.  
-The program involves discussion with a psychologist specialized in rehabilitation who aims to understand what were the causes that led the person to commit the crime. Once identified, a training course for rehabilitation purposes will be agreed with the person. The psychologist will follow the person throughout the process, to ensure maximum effectiveness and agree on any changes to the program based on the person's progress.  
-Rehabilitation will include a mix of specific courses, more [generic courses](#education) and possibly also jobs to participate in.
+The program involves counseling with a psychologist specialized in rehabilitation who aims to understand what were the causes that led to the crime. Once identified, a training course for rehabilitation purposes will be agreed with the person. The psychologist will follow the person throughout the process, to ensure maximum effectiveness and reassess the program based on the person's progress.  
+Rehabilitation will include a mix of dedicated courses, more [generic courses](#education) and possibly also jobs to partake in.
 
-For example, suppose we have a tendency to waste food, to the point where we no longer have resources available to feed us. In this case the system will immediately assign you to a rehabilitation program. Let's suppose that thanks to the psychologist we understand that we waste resources due to a lack of discipline, poor diet and not knowing how to cook. In this case we will be directed to a course for effective resource management, a course for proper nutrition and one to learn how to cook.
+For example, suppose we have a tendency to waste food, to the point where we no longer have resources available to feed us. In this case the system will immediately assign us to a rehabilitation program. Let's suppose that thanks to the psychologist we understand that we waste resources due to a lack of discipline, poor diet and not knowing how to cook. In this case we may be directed to a course for effective resource management, a course for proper nutrition and one to learn how to cook.
 
 
 ### Minor offenses
 
-Minor offenses (also known as petty crimes) are usually regulated in a precise manner by the legislative system and have a recommended rehabilitation program. Some examples could be littering the environment, damaging common goods, excessive and systematic waste of resources, theft of small objects and not participating in any production activity for an excessive period of time.
+Minor offenses (also known as petty crimes) are usually regulated in a precise manner and have a recommended rehabilitation program. Some examples could be littering the environment, damaging common goods, excessive and systematic waste of resources, theft of small objects and not participating in any production activity for an excessive period of time.
 
 If you persevere in committing minor offenses, the case will get much more serious until it becomes a [major offense](#major-offenses).
 
 
 ### Major offenses
 
-Major offenses are always punished with [imprisonment](#imprisonment). Some examples of major offenses are murder, theft of massive amount of assets, omission by a manufacturer, pollution, neglecting maintenance of important structures (e.g. bridges), as well as causing a violent group reaction, especially hate crimes.
+Major offenses are punished with [imprisonment](#imprisonment). Some examples of major offenses are murder, theft of massive amount of assets, omission by a manufacturer, pollution, neglecting maintenance of important structures (e.g. bridges), as well as causing a violent group reaction, especially hate crimes.
 
 
 ### Imprisonment
@@ -342,15 +319,15 @@ Major offenses are always punished with [imprisonment](#imprisonment). Some exam
 The greatest punishment that can be cast is the restriction of freedom.  
 During this period, the inmate will be guaranteed living conditions similar to those they would have outside. We reiterate that the punishment is freedom deprivation, not torture.
 
-On the basis of the crime committed and the motivation identified by the team of psychologists, a rehabilitation program will be established, at the end of which the inmate will be able to become an active member of society. If the inmate is not deemed harmful for other members of society, it would be good to organize mixed courses in which people from outside the imprisonment facility are also present. In this way the inmates maintain a semblance of normality and this will facilitate their reintegration.
+On the basis of the crime committed and the motivation identified by the team of psychologists, a rehabilitation program will be established, at the end of which the inmate will be able to become an active member of society once again. If the inmate is not deemed harmful for others, it would be good to organize mixed courses where people from outside the imprisonment facility are also present. In this way the inmates maintain a semblance of normality which will facilitate their reintegration.
 
-During the rehabilitation period, inmates will be engaged in the care of prisons, carrying out tasks such as cooking, laundry, cleaning, etc... Whenever possible, some could be directed towards relevant jobs to make them productive and stimulate them to a healthier lifestyle. Leisure activities will be limited to what is possible within the structures.
+During the rehabilitation period, inmates will be engaged in the care of the facility, carrying out tasks such as cooking, laundry, cleaning, etc... Whenever possible, some could be directed towards relevant jobs to make them productive and stimulate them to a healthier lifestyle. Leisure activities will be limited to what is possible within the structures. Once they advance in the process, they may be allowed to temporary go out for recreational activities.
 
 Although lacking in freedom, they always remain members of society and therefore will have full access to the Virtual Forum and discussions.  
 Access to the Virtual Forum can be useful for reporting cases of mistreatment, violence and other behaviors that are not in line with the values of our society.  
-Inmates will have access to external phone calls and visits, as well as to the Internet, albeit monitored and limited.
+Inmates will have access to external phone calls and visits, as well as to the Internet, albeit the latter may be limited.
 
-All the [resources used](#economics) within the facility will be consumed by the inmates' accounts. This will allow prisoners to collaborate in deciding how to best use the available resources; the dialog must be mediated by specialized personnel if necessary.
+All the [resources used](#economics) within the facility will be consumed from the inmates' accounts. This will allow them to collaborate in deciding how to best use the available resources; the dialog must be mediated by specialized personnel if necessary.
 
 Once you have successfully passed the established program, you return to freedom without any other penalties whatsoever.  
 In the case of violent crimes, such as murder and especially if premeditated, the team of psychologists who followed the inmate during the rehabilitation will determine the conclusion of the program.
@@ -358,7 +335,7 @@ In the case of violent crimes, such as murder and especially if premeditated, th
 
 ### Appeal
 
-If an inmate is firmly convinced that they have been unjustly incarcerated, they can appeal by presenting a [project](#projects) explaining their side to the story. This option is only valid for long sentences.  
+If an inmate is firmly convinced that they have been unjustly incarcerated, they can appeal by presenting a [project](#projects) explaining their side of the story. This option is only valid for long sentences.  
 Such projects must be taken very seriously and the society should be responsive to appeals.
 
 Even the most competent of us can make mistakes in judgment, so it is possible to convict an innocent.
@@ -378,14 +355,19 @@ We must emphasize that in this case too we must guarantee them a fair quality of
 The greatest achievement as a society would be to find a role for them, give them a goal, make them useful and fulfilled.
 
 
-## Legal system
+## Rule system
 
-The society will have at its disposal a totally digital system of laws which is always accessible by everyone.  
-It is very important that laws are clear, written in such a way that every member of society can understand them. We imagine the set of laws as the society manual, a text we can always refer to discover every side and possibility made available by our system.
+Society is regulated by a system of rules. A rule is something all members agree it's good to follow. Some rules may suggest a rehabilitation process for those who break it.
 
-Like every other aspect of our society, the set of laws can be modified in every part through [projects](#projects).
+Rule's definition must be simple to understand and should include a reason why it is good to follow it. We do not want to codify our whole life into a strict set of rules, but rather have a basic understanding of what make us good member of our society, have some direction on what we deem unacceptable.
 
-It is important to understand how a law has evolved over time, which is why it must be managed through a [Version Control System](https://en.wikipedia.org/wiki/Version_control), in order to have a clear view of what changed, when, by whom and as a result of which project.
+No rules is set in stone, every member of society can open a [project](#projects) to introduce, change or abolish it.
+
+Different areas may have different rules.
+
+We understand that it's virtually impossible to define all wrongdoings in a precise manner, furthermore context can greatly change the outcome of the retribution. That's why rules are considered as a moral compass: society will be the ultimate judge on needed retribution, hence breaking a rule can bring no retribution, while one can still be punished even though no rule was broken.
+
+We trust people to handle issues in the most just way possible.
 
 
 ## Euthanasia
@@ -733,6 +715,41 @@ The computer system gives us easy access to the total number of people present a
 Unexpected pregnancy will be subject to a [rehabilitation program](#rehabilitation-programs) to better understand the importance of resources and protected sex. Obviously the pregnancy can be carried out without any repercussions. Abortion will also be an option and it will be up to the woman to decide, perhaps counseled by an expert.
 
 Parenting is one of the most complex of all activities, that's why it will be very important for each new parent to periodically undertake [courses](#education) to better understand how they can support their child.
+
+# Technology
+
+At the heart of Babel Society is a technological revolution that aims to give as much visibility and power as possible to every member of society.
+
+Each technological component will be created following the philosophy of [Free Open Source Software](https://en.wikipedia.org/wiki/Free_and_open-source_software), which is one of the most successful forms of collaboration. This means that:
+
+- Every detail of the system can be scrutinized by anyone
+- Every part will be usable and modifiable by anyone
+- Everyone can contribute to the improvement of it
+
+Over the years it has been shown that the technologies thus developed tend to be among the safest and most reliable as they are for all to see, and it is therefore more likely that flaws or incorrect behaviors will be identified and corrected.
+
+Technology advancement becomes an ally that can improve our lives rather than making them worse.
+
+All technologies as well as being free will have to be as decentralized as possible. We aim for a distributed infrastructure in which every member holds a piece of the puzzle. This characteristic will make the system highly resilient to external attacks and is in line with the underlying philosophy of the Internet and Babel Society itself.
+
+
+## App
+
+The App is a smartphone application that will also provide a two-factor authentication, verify the person identity and provide access to all other technological tools available.
+
+## Wallet
+
+It's an application used to manage your personal resources and for buying products, well integrated in the App and with the E-commerce. Please have a look at [Consumption](#consumption) for more detailed information.
+
+## E-commerce
+
+Central place where all products available in the society will be stored. Each product will have detailed information in its production, if it is produced by the society itself, if we can buy it in the area nearby us and many more. We expect that most products will be available for delivery.
+
+It will be seamlessly integrated with Wallet.
+
+## Virtual Forum
+
+The Virtual Forum is an online place where people can gather and discuss, share their interests and concerns, but more importantly apply changes to society itself through [projects](#projects). The identity of each person will be clearly displayed to ensure accountability.
 
 # Join us!
 
