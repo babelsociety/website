@@ -38,8 +38,3 @@ content/manifest/index.it.md
 ```
 
 Notice that we have added the language code `.it` just before the `.md` extension.
-
-
-## API
-
-This part is written in PHP, currently its only purpose is to get in touch with people and gather subscriptions.
