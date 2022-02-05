@@ -1,5 +1,5 @@
 +++
-weight = 1
+weight = 2
 
 title = "What we should learn from Covid-19"
 description = "How it made clear the inherent flaws of a capitalistic society"
