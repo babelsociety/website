@@ -108,19 +108,51 @@ This issue isn't limited to only physical goods, think for example about the maj
 
 We humans have a great record when it comes to exploit things, including ourselves. It is only natural that when our quality of life is at stake, people will nudge and push, trying to find the best way to exploit markets.
 
-Indeed, we made a whole field of study and a life of work out of this sentiment: marketing & advertisement.
+There are many way of doing it, we will go through the more evident ones.
 
-Scalping is a way to manipulate the market to artificially limit the supply for a given product.
+### Demand manipulation
+
+Advertisement is practically a way to manipulate buyers in preferring your product rather than another equivalent.
+
+Consumerism is another way to push buyers into over-consumption of products. Through a degeneration of advertisement, now sellers try to instill in buyers an artificial need for their product, trying to effectively trick them into buying it. Originally, consumerism meant that buyers should drive production through expressing their needs, by "voting with their wallet", but this degenerated quite quickly.  
+It isn't limited to ads, but it infiltrates our very own culture. For example, a classic cliché is for women to have many shoes and bags, many more that they need. This is often portrait as something good in films or other cultural events, until it becomes *natural* to have so many bags. Same did the tobacco industry with cigarette, portraying smoking as something "cool", something every "true man" uses.
+
+Fashion is a face of consumerism. It manipulates buyers through our innate sense of community. We *need* to be part of a group, we *need* to feel socially included, hence they leverage these innate sentiments in buyers to let them buy specific products even though they don't need them. A classic cliché is for women to have way too many shoes and bags. They don't need as many, only sellers profits out of it.
+
+Branding works similarly to fashion, but a strong one will also tap into loyalty and trust, allowing them to sell products at higher price than normal, distorting the law of supply and demand, raking in more profits than otherwise. Another subtle consequence of branding, is that people now have an innate distrust of brands they don't recognize, making it harder for new seller to enter the market.
+
+The term "influencer" should ring an alarm bell, their job is to literally influence (read: trick you) into buying a product and they don't even hide it. 
+
+Misinformation do play a big role in manipulating buyers. Tobacco industry once again comes to mind, and how much they underplayed the bad effects of nicotine and cigarettes. Another less known example is lead contamination, which was kept under the rug by big corporations through corruption of renowned scientists; today we are aware of it thanks to the great efforts of [Clair Cameron Patterson's campaign against lead poisoning](https://en.wikipedia.org/wiki/Clair_Cameron_Patterson#Campaign_against_lead_poisoning).
+
+### Supply manipulation
+
+Scalping is a way to manipulate the market to artificially limit the supply of a given product.
 
 This very often happens with tickets for concerts or other entertainments, where a group of people buy tickets en mass as soon as they are available, possibly exhausting availability. After a while, they will put tickets on sale for a much higher price, netting a quick and nice profit.
 
 This isn't limited to tickets though, we have seen this happening in the house market, but also cars and any other kind of limited edition goods.
 
-From the economic point of view, this is a sound strategy, for the original seller this is even better given that it will increase their profit and move the burden of selling the goods on the scalpers.
+From the economic point of view, this is a sound strategy: the original seller will cash in profits and move the burden on the scalpers, which also have a high chance of profits.
 
-However, from a buyer perspective it can be very frustrating. The high prices sometimes cannot be afforded, or people will have to fasten the belt to be able to afford them.
+However, from a buyer perspective it can be quite frustrating. The high prices sometimes cannot be afforded, or people will have to fasten their belts. It is a socially immoral practice, but economically sound.
 
-Scalping is the powerful preying upon the weak, which should be deemed immoral in a good society.
+A way how powerful countries influence global supply of certain goods is by imposing austerity on weaker nations through debts, preventing them from subsidizing production of goods. On the other hand, these same powerful countries will subsidize their own economy, giving their sellers a sharp advantage in terms of price and thus win a bigger share in the global market. This is just an example of how markets can be manipulated through regulations.
+
+### Financial manipulation
+
+The whole finance market is one of the most unstable and prone to manipulation that let their perpetrator rake in extreme profits in a relatively short amount of time.
+
+The stock market increase mostly due to speculation rather than creation of real value. We should always remember the [Wall Street Crash of 1929](https://en.wikipedia.org/wiki/Wall_Street_Crash_of_1929) and the [Financial crisis of 2008](https://en.wikipedia.org/wiki/Financial_crisis_of_2007%E2%80%932008).
+
+Many of those manipulation are also used in the more recent crypto-currency market, such as the "pump & dump": a wealthy, big and organized group of buyers start buying lots of crypto and generate transactions to artificially increase the coin value (pump); once the price is high enough, it will attract more naïve people and allow the initial buyers to sell their cryptos for a big profit (dump). Those people who buy high may even be tricked to believe they are part of the "pump", while in all effect being victim of the dump.
+
+When "[pump & dump](https://en.wikipedia.org/wiki/Pump_and_dump)" is combined with "[short selling](https://en.wikipedia.org/wiki/Short_%28finance%29)" we have the "[short squeeze](https://en.wikipedia.org/wiki/Short_squeeze)", which recently caused quite some trouble to hedge-funds during the [Gamestop short squeeze](https://en.wikipedia.org/wiki/GameStop_short_squeeze).
+
+These are just two of the simplest examples, financial manipulations are increasingly sophisticated and can look as legit businesses until they explode.
+
+Finance piggyback on top of all other markets, hence the worst part is that once it bursts, it will have a cascading effect on the whole economy and have serious repercussions even on those people that weren't directly involved.
+
 
 ## Hinder Progress
 
@@ -154,4 +186,12 @@ That's why in a society heavily built around markets, such as capitalism, progre
 
 ## Value Extraction
 
+One of the golden rule of every market is "buy low, sell high" and this is the key to success. This logic predates stock markets and even capitalism, being in used at the dawn of markets.
 
+The logic is self-explanatory: use an advantage that allows you to buy at low price, then sell to people at a weaker position for a higher price, raking in some nice profits. With "advantage" we mean it in the broad sense: it can be high capital that allow you to do something others cannot afford (eg: refine ore into metal), power bestowed by a role (eg: a shareholder negotiating a better price for another of their venture), or due to a trade secret (eg: silk production). As you can see, it can involve further processing of the initial product, hence you don't have to sell it in the original form. The weaker people are all those excluded by your advantage, who are therefore dependent on the more advantaged to provide that service.
+
+Through their advantage they are effectively cutting out competition and extracting value from those who can't have access to it. A common example is waged labor: workers are employed by those with greater capital, but they will not benefit from the full fruits of their labor, otherwise the capital owner, whose only advantage is to have more capital, will not be able to make their own profit.
+
+
+
+# Decentralised Collaborative Economy
