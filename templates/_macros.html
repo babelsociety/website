@@ -1,9 +1,5 @@
 {% macro render_header() %}
-{% if config.default_language == lang %}
 {% set section = get_section(path="_index.md") %}
-{% else %}
-{% set section = get_section(path="_index." ~ lang ~ ".md") %}
-{% endif %}
 <a href="{{ section.permalink }}">
   <div class="logo">
     {{ config.title }}
