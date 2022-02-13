@@ -1,10 +1,11 @@
 +++
-title = "The Manifest"
+title = "Manifesto"
 description = "Describe how we envision the future society to work"
 weight = 0
+aliases = ["manifest"]
 
 [extra]
-menu = "Manifest"
+menu = "Manifesto"
 +++
 
 Although the universe is incomprehensibly vast, we know only one planet where life has managed to flourish: the Earth.
@@ -24,16 +25,16 @@ We are aware that changing an entire society from one day to the other is imposs
 Babel Society doesn't seek a _revolution_, but rather a genuine **evolution**.
 
 
-# Key Concepts
+# Core Values
 
-Each aspect of Babel Society stems from the following key concepts:
+Each aspect of Babel Society stems from the following core values:
 
 - Collaboration
 - Authenticity
 - Freedom
 - Stability
 
-This Manifest is in no way set in stone, it is subject to revision in each and every part, however we believe these key concepts will transcend time and stay always relevant as long as humans will be around.
+This Manifesto is in no way set in stone, it is subject to revision in each and every part, however we believe these core values will transcend time and stay always relevant as long as humans will be around.
 
 
 ## Collaboration
@@ -89,7 +90,7 @@ Where our strengths are accentuated and others can make up for our shortcomings.
 
 In a collaborative society, classism stops making sense, as do racism, strict hierarchy, gender denigration, etc...
 
-We welcome the fact that not all people are fully aligned with our [key concepts](#key-concepts) and the society proposed by Babel Society. We have no intention of convincing them nor converting them, we just want to live peacefully and be good neighbors.  
+We welcome the fact that not all people are fully aligned with our [core values](#core-values) and the society proposed by Babel Society. We have no intention of convincing them nor converting them, we just want to live peacefully and be good neighbors.  
 People who like other forms of societies like capitalism, republics, etc. are free to continue down that road; we value heterogeneity of thinking.
 
 Babel Society aims to unite all people who today are already in line with our culture, to progress all together towards a better future.
@@ -228,7 +229,7 @@ In a large group of people it would be inevitable to incur in conflicts. The mai
 
 There is still a chance discussion will escalate and no solution is found. In this case we should reach out to a mediator: a person capable of navigating tough discussions. Mediators have no decision power, their role is to apply diplomacy to further dig into the problem, and help conflicting parties find a solution that would satisfy them.
 
-In case the conflict arise from how to solve a certain problem, the best way to overcome it may be to prototype all solutions available and see which one gives the best outcomes. As per our key concepts, we strive for [authenticity](#authenticity), and so we should accept that different solutions may be preferred by different groups.
+In case the conflict arise from how to solve a certain problem, the best way to overcome it may be to prototype all solutions available and see which one gives the best outcomes. As per our core values, we strive for [authenticity](#authenticity), and so we should accept that different solutions may be preferred by different groups.
 
 
 ## Education

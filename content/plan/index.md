@@ -1,6 +1,6 @@
 +++
 title = "A Plan"
-description = "Possible plan on how to achieve what described in the Manifest"
+description = "Possible plan on how to achieve what described in the Manifesto"
 weight = 1
 
 [extra]
@@ -11,9 +11,9 @@ As capitalism teaches us, an idea without a good execution is worthless. To have
 
 Babel Society does not want to be a cloud in the air, but rather a society capable of planting strong and lasting roots.
 
-If you want to find out more about Babel Society ideology, we invite you to read the [Manifest](@/manifest/index.md).
+If you want to find out more about Babel Society ideology, we invite you to read the [Manifesto](@/manifesto/index.md).
 
-A fundamental feature of Babel Society is decentralization, this affect both plan execution and decision-making power. What follows is a plan that anyone can draw inspiration from to achieve the common goal of a better society. Indeed, we hope that more projects will be carried out over time and in various parts of the world; as long as there is someone who believes in Babel Society [key concepts](@/manifest/index.md#key-concepts), the change will take place.
+A fundamental feature of Babel Society is decentralization, this affect both plan execution and decision-making power. What follows is a plan that anyone can draw inspiration from to achieve the common goal of a better society. Indeed, we hope that more projects will be carried out over time and in various parts of the world; as long as there is someone who believes in Babel Society's [core values](@/manifesto/index.md#core-values), the change will take place.
 
 Each new project will be able to rely on the experience of others, as well as on all infrastructure and support already established, thus increasing the chances of success.  
 We do not recommend starting several projects in the same country at the same time, it would be more appropriate to collaborate so as to have more resources and talents available.
@@ -89,7 +89,7 @@ The Seed needs a constant source of income to grow. We recommend setting up a wo
 
 What the firm will do depends on the talents and resources available to the Seed. It is important that only the members of the society participate in the enterprise and that all earnings are shared equally as established by Babel Society. In this first moment, the life of the project will be closely linked to that of the company, therefore it is important we build a solid business that can guarantee the livelihood of the society over time.
 
-It goes without saying that the enterprise must be in line with the [key concepts](@/manifest/index.md#key-concepts) of Babel Society, first and foremost collaboration and the protection of biomes.
+It goes without saying that the enterprise must be in line with Babel Society's [core values](@/manifesto/index.md#core-values), such as collaboration and the protection of biomes.
 
 The Seed is supposed to be made up of a small number of people, so at this stage it should be quite easy to get organized even without having the online platform available. It remains important to document and publish all decisions on the distribution and use of resources, as well as to maintain a dialogue with all supporters and potential future members. Transparency is a must.
 
@@ -100,7 +100,7 @@ What is suggested here is only a possibility, we encourage you to experiment wit
 
 Once the sustenance of the Seed is guaranteed, the growth phase can begin. The society will open up to new members and at this point it should be clear what talents are most needed to achieve autonomy.
 
-If it is not yet present, it will be necessary to create an online platform according to the [Manifest](@/manifest/index.md), which we recall must be based on the concepts of [Free Open Source Software](https://en.wikipedia.org/wiki/Free_and_open-source_software).
+If it is not yet present, it will be necessary to create an online platform according to the [Manifesto](@/manifesto/index.md), which we recall must be based on the concepts of [Free Open Source Software](https://en.wikipedia.org/wiki/Free_and_open-source_software).
 
 It will be essential to find a plot of arable land and maybe even other land where we can start building a real community.
 
@@ -131,11 +131,11 @@ The more autonomous the society becomes, the stronger and more resilient it will
 
 # Refinement
 
-This is the stage where all the knots come to the comb. We expect the [Manifest](@/manifest/index.md) to be implemented gradually throughout the life of the society, but in case something is still missing, now is the time to implement it.
+This is the stage where all the knots come to the comb. We expect the [Manifesto](@/manifesto/index.md) to be implemented gradually throughout the life of the society, but in case something is still missing, now is the time to implement it.
 
 Even in this phase, the society will have to continue to strengthen and grow, but it will be better to focus efforts on optimizing internal processes to make them more efficient and guarantee a better quality of life.
 
-In case it has not yet been done, now is the best time to increase the budget available for [Travels](@/manifest/index.md#travels).
+In case it has not yet been done, now is the best time to increase the budget available for [Travels](@/manifesto/index.md#travels).
 
 
 # Independence
@@ -150,10 +150,10 @@ It is good to admit that, if we are lucky, it may take a couple of generations b
 
 # Conclusion
 
-The plan described so far is only one of the possible variations to achieve the result set by Babel Society. We should not consider each stage as being strictly sequential, but rather we remain flexible in its implementation, the most important aspect is to always keep in mind the [key concepts](@/manifest/index.md#key-concepts).
+The plan described so far is only one of the possible variations to achieve the result set by Babel Society. Stages are not strictly sequential, but rather we remain flexible in both its implementation and nature. The most important aspect is to always keep in mind our [core values](@/manifesto/index.md#core-values).
 
-As Winston Churchill said:
+Many aspects of Babel Society are closely related to the type of society we are immersed in today and may change in the future, however we believe that core values transcend time and will always remain a good guide for future generations.
 
-> Plans are of little importance, but planning is essential.
+Core values shouldn't only guide the final result we want to achieve, but more importantly the means we use to achieve it. As [Errico Malatesta](https://en.wikipedia.org/wiki/Errico_Malatesta) put it:
 
-Many aspects of Project Terra are closely related to the type of society we are immersed in today and may change in the future, however we believe that the key concepts transcend time and will always remain a good guide for future generations.
+> it is not enough to desire something; if one really wants it, adequate means must be used to secure it. [...] if we ignore the choice of means we would achieve other ends, possibly diametrically opposed to those we aspire to, and this would be the obvious and inevitable consequence of our choice of means. Whoever sets out on the highroad and takes a wrong turn does not go where he intends to go but where the road leads him. 
