@@ -215,7 +215,7 @@ Even [Friedrich Hayek](https://en.wikipedia.org/wiki/Friedrich_Hayek), known eco
 
 # An alternative: Babel Economy
 
-We have already discussed at length how Babel Economy looks like in the article "[In Depth: Babel Economy](@/blog/in-depth-babel-economy/index.md)".
+We have already discussed at length how Babel Economy looks like in the article "[In Depth: Babel Economy](@/blog/in-depth-economy/index.md)".
 
 As a quick reminder, Babel Economy is strictly decentralized and does use markets to distribute products, however there is no money and consumption is free under certain limits based on each product and environment constraints.
 
