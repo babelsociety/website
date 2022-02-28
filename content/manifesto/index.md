@@ -29,22 +29,27 @@ Babel Society doesn't seek a _revolution_, but rather a genuine **evolution**.
 
 Each aspect of Babel Society stems from the following core values:
 
+- Freedom
 - Collaboration
 - Authenticity
-- Freedom
 - Stability
 
 This Manifesto is in no way set in stone, it is subject to revision in each and every part, however we believe these core values will transcend time and stay always relevant as long as humans will be around.
 
+## Freedom
+
+Freedom is a fundamental concept to be able to fully enjoy our life. There can be no true freedom in a society where there are conflicting groups and divisions, much less if there are strict hierarchies. Any hierarchy of power assumes that there are people who are superior to others, which undermines the freedom of those considered inferior.  
+For this reason Babel wants to abolish all forms of hierarchy of power within its society.
+
+True freedom means that any person in society is free to associate with whomever they wish, including people outside the society itself. It also means we'll be free to use our time as we see fit and have a job that we are happy to do.
 
 ## Collaboration
 
-We believe that collaboration is the most important principle, the basis of every efficient group and successful endeavor. Collaboration means knowing how to play together, joining forces in order to achieve a goal that alone we could never achieve.  
+We believe that collaboration is the most important principle to live in groups, the foundation of every successful endeavor. Collaboration means knowing how to play together, joining forces in order to achieve a goal that alone we could never achieve.  
 It means recognizing the value of others, accepting and respecting them; to stake one's own interests so that others can benefit from them.  
-Collaboration means that everyone can express their opinions without fear of repercussions, favoring dialog until more efficient solutions are found.
+Collaboration means that everyone can express their own opinions without fear of repercussions, enhancing dialog until more efficient solutions are found.
 
 **Collaboration does not apply only between humans, but must be extended to the whole world around us**. We must therefore learn to coexist with other species, to respect and protect the different biomes present in the world. We must understand that being in harmony with nature is fundamental for the long-term survival of any species, humans included.
-
 
 ## Authenticity
 
@@ -57,15 +62,6 @@ Being able to be authentic means above all to feel accepted and to accept oursel
 If everyone accepted their neighbor, then it goes without saying that there could be no hatred and prejudices related to race, to a physical peculiarity, to religion and so on. A hate-free society is a much more efficient and positive society.
 
 **We want everyone to feel normal about being themselves**.
-
-
-## Freedom
-
-Freedom is a fundamental concept to be able to fully enjoy our life. There can be no true freedom in a society where there are conflicting groups and divisions, much less if there are strict hierarchies. Any hierarchy of power assumes that there are people who are superior to others, which undermines the freedom of those considered inferior.  
-For this reason Babel Society wants to abolish all forms of hierarchy of power within its society.
-
-Freedom means that any person in society is free to associate with whomever they wish, including people outside the society itself. It also means we will be free to use our time as we see fit and have a job that we are happy to do.
-
 
 ## Stability
 
@@ -392,309 +388,82 @@ In cases where the person is mentally defective and not self-sufficient, it will
 
 # Economics
 
-The definition we prefer is the one from French economist and politician Raymond Barre:
+Economy is a fundamental aspect of every society, but way too often we bend our society in favor of economy. History showed us many times that vast amount of people have been killed to save the wealth of the few.
 
-> _Economics is the science of managing scarce resources_. It examines the forms taken by human behavior in the management of these resources; analyzes and explains the ways in which an individual or a society allocates _limited means to the satisfaction of multiple and unlimited needs_.
+Babel invert the trend, and instead we let economy serve society, to improve the well-being of all rather than the few.
 
-History has shown that money isn't a suitable tool for resource management, as it disconnects resource availability from consumption and gives us a false sense of infinite growth; this is no longer sustainable globally.
+We derive it from the core values of our society, freedom and collaboration in particular.
 
-Thanks to technology it is now possible to trace all the resources produced and consumed by society.  We want to create a decentralized computer system, free, accessible and usable by all.
+The freedom aspect dictates that every person should be able to explore life according to their will.
 
-Once the produced resources are known, the system will fairly distribute them to all members of society, with no regards to their profession. It will be up to each person to decide how and when to spend the given resources.
+Collaboration teaches us that together we can achieve what alone would be impossible.  Even the greatest invention of all time would never be without the help of those who came before, those who supported and inspired the inventor.
 
-However, the assigned resources will be available for a limited time. The accounts will be periodically rebalanced: the remaining resources will be added to those produced and redistributed fairly.
+Another guiding principle is that we want an economic system that help us **prevent** social issues, such as corruption, exploitation of the weak, etc...
 
+Taking all in consideration, our main design decision is: **an individual's quality of life is strictly bound to society's quality of life**.
 
-## Fair distribution
+This means that by improving our life we automatically improve other people's life too, creating a virtuous cycle.
 
-It is good to dwell on the concept of fair distribution. Keep in mind that the planet's resources, although abundant, are limited in quantity. On the other hand, human desires tend to be infinite, which is why consumerism has led to such massive and catastrophic imbalance and waste of resources.  
-The system proposed aligns infinite desires with the actual supply. 
+The practical implication is that **all is free and available to all**. There would be no strict limitation in consumption, while production would be in direct control of everyone involved.
 
-We then consider that each person has different needs and desires. For example, some people are gluten intolerant, so there is no point in giving them gluten products. Others may live in particularly hilly areas, so using a bicycle is not congenial.
+Imagine a world where you don't have to struggle to cover your basic needs, but rather everyone collaborate and enjoy the best quality of life. A world where labor is pleasurable and through which we can express the full might of our ambition, or simply find our place in society.
 
-A fair distribution does not mean that everyone will have the exact same amount of each resource, but rather all they need to live the best possible life they want with respect to available resources.
+This system best express freedom and collaboration in every aspect, able to care for all the different kind of human soul, from the most artistic to the most logical and precise.
 
-We will start with an equal share, but quotas can change through [projects](#projects), due to medical assessment or due to balancing of the system.  
-To ensure a fair share to everybody, it is important to track both production and actual consumption of each individual. By entering these data into a computer system, analyzing them according to the most modern statistical and artificial intelligence processes, it will be possible over time to create increasingly precise models that will help the society decide which production of goods to enhance and how to best distribute the available resources.
+Technology will help us make it efficient: we **track** everything is produced and consumed; thanks to these data, available to all, producers can **adapt** their production line in the best way they see fit.
 
-This system is in line with the concept of a collaborative society, as everyone collaborates in order to have the best possible life together.
+We expect this system to yield **unparalleled innovation**, but this is a positive side effect.
 
-However, we are aware that the human soul can be as altruistic as it is selfish, therefore any systematic and excessive waste will be monitored and corrected through the [rehabilitation system](#rehabilitation-system).
+We aren't interested in an economy that maximize production while destroying human lives. Quite the contrary, **our goal is to maximize quality of life at the highest level**.
 
-
-## Privacy
-For this system to function correctly, the data on production, availability and consumption of resources of individual members must be readable by everyone. Imagining today that all these data are at everyone's mercy may be frightening, but in a collaborative society this problem does not stand.
-
-In the market society a person's quality of life strictly depends on their ability to sell a certain product on the market (goods, services and work). Hence, marketing: the activity of understanding and influencing the masses in order to sell a product. The more personal data they have about a person, the more accurate the profile will be and easier it will be to influence them.  
-In a nutshell, **the privacy issue is largely due to the society we are in**.
-
-Thanks to a fair resource distribution that is disconnected from what the person is capable of producing, **we have effectively eliminated the need to manipulate the masses**. In other words, we have made the members of society _people_ rather than _consumers_.  
-In this new society, there is no reason to misuse this information.
-
-Another problem linked to privacy could be the advent of an authoritarian regime that tends to violently persecute certain groups. Babel Society organizes society in such a way as to significantly limit that this could happen, however the risk can never be completely canceled. It's worth mentioning that today such a risk is much more accentuated, as we can see from the raise of political consensus by nazism and fascism sympathizers around the world.
-
-
-## Sustainability
-
-Remember that "collaboration" is not limited to the human sphere, but extends to nature itself. Being in tune with natural cycles is essential for our survival, as evidenced by the increasingly frequent natural disasters caused by the imbalance introduced by humans.
-
-History teaches us that a management of scarce resources that doesn't consider a sustainable cycle of production and consumption is a short-sighted and self-destructive one.
-
-This is why creating a [Circular Economy](https://en.wikipedia.org/wiki/Circular_economy) is extremely important. All goods and services produced within Babel Society must be designed taking into consideration their entire life cycle, with particular attention to: the ecological sustainability of the entire production line; the possibility of repairing it and recovering materials once it falls into disuse.
-
-It is good to specify that it is not enough to create quality and lasting goods, the recovery of materials is crucial. Think about how much garbage and hazardous waste is produced by technological advancement, by new iterations of high-tech products, such as a new smartphone, television, etc... 
-
-The distribution of new products must be balanced by its sustainability. Rather than mass-producing every single innovation, it would be more appropriate to focus on research and limit mass distribution to significant improvements. We believe that there is very little value in switching to a more powerful smartphone if you then keep using it in the same way as the previous one. On the other hand, the generational leap from mobile phones to smartphones has been significant and has brought a concrete improvement to everyone's life.
-
-An added benefit of focusing more on research and innovation rather than mass-production is that we will have better products in less time, with less resources.
-
-
-## Consumption
-
-All resources made available to the individual will be distributed in personal accounts. You can imagine these accounts as a bank account. These resources will be for the exclusive use of the individual and they can freely decide how and when to use them. Although there is a periodic balancing of the accounts, it will never create a case in which resources disappear from the account. This is important to ensure a better plan of your expenses.
-
-Resources will not be transferable between accounts; this measure is needed to help prevent crimes such as illegal drugs traffic.
-
-Through the [Wallet](#wallet) it will be possible to view the resources available in your account at any time. The application will help in the managing resources and warn us in case we are consuming too many resources.
-
-Instead of having a single entry such as "money", the Wallet will show everything that is currently produced and accessible by each member, for example: wheat, milk, electricity, etc...  
-Another important application is the [E-commerce](#e-commerce) where we can purchase products online. Each product will consume a certain amount of resources, taking into account both the necessary raw materials, but also the production and transportation process. For example, to produce bread we will consume wheat, flour, drinking water, but also wood for the oven. The asset must be packaged and then transported, so these resources will also be considered in the final cost of the product. **Pollution is a very important detail that must be included in the system as a resource**. This will help educate people to choose goods in a more sustainable way.  
-Keeping an eye on all these details for the purchase of every single product is unsustainable for us humans, so the application will show how much we can buy of a particular product. Returning to the example of bread, in the E-commerce we'll see that based on the resources in our account, we can still buy 100 pieces.  
-Note the change of perspective. Instead of knowing how much "it costs", we will immediately know how much "we can afford", so in this case a higher number is better. This will make it much easier to decide whether to buy a product.
-
-Buying goods in regular stores will work the same way. Just bring your device close to the stand with the product to have access to the detailed sheet, purchasable quantity and the possibility of adding it to the virtual cart. Once the shopping has been completed, simply confirm the purchase of the goods on the Wallet. This system should be familiar to all those who have used at least once the "fast shopping" systems already available in various supermarkets.  
-The purchase option will only be present if the device recognizes that we are within a particular store. This detail is essential to understand the effectiveness of the various distribution centers.
-
-In restaurants and bars, the entire menu will be available via the QR Code present at the table, so you can order and pay directly from the Wallet.
-
-Whenever possible, the products should be purchased directly from the producer. The producer will initiate a transaction through the E-commerce, which the buyer will then confirm from their device. Babel Society wants to structure the various residential centers so that it is possible to buy perishable goods directly from producers as much as possible.
-
-
-### Expensive Goods
-
-An expensive good may require a quantity of resources that we would not normally have access to. Let's imagine that 1.2 kg of lithium is needed to make an electric car, but normally the production of lithium is such that each member receives only 100 grams every month.  
-Considering that accounts are periodically rebalanced, we will never have enough resources to buy the car.
-
-The solution is to budget. In our App we will be able to budget the car and decide how many resources we want to allocate at the end of each month as a payment. Suppose that we don't need lithium for anything else, we could decide to save 100% of it. Once blocked, these resources will be considered as "consumed", so they can no longer be used in any other way or redistributed. In around a year we will reach the quota of 1.2 kg of lithium, and we will finally be able to obtain the good so much desired.
-
-Budgeting helps also with production planning, given that we already know how many people are interested in a product and can forecast when they will pay it out.
-
-In order to avoid excessive blocking of resources, there will be the limit that a resource can be blocked by only one budget. This means that if I want to budget another product that needs lithium, I would not be able to do so as this resource is already in use by the car.
-
-This system may seem similar to buying a product in installments, but the substantial difference is that all the resources necessary for its realization will be available. When we buy something in installments, we get the product immediately, with the promise of paying what is owed in the future. It is a game of odds, as it is not certain that in the future we will have enough resources to pay for it. This constraint can also create stress, as one is obliged to pay; another negative effect of installments is that we have the impression of being able to live above our own means, causing more and more debt and very easily ruining our life.  
-The reason why resources are blocked on the last day of the month is precisely to ensure their availability. Skipping a month or adding less than expected to the budget will not be a problem, the only negative effect is to lengthen the time a bit.
-
-
-### Foreign products
-
-By foreign products we mean all goods and services that are made by companies outside our society.  
-These products must be requested through a [project](#projects) which specifies who the manufacturer is and why we want to obtain it. At this stage, all those interested in the product can make their voices heard. If there is a lot of demand, a member can be designated to contact the manufacturer directly and buy in large quantities at factory price.  
-We will also have to estimate the resources needed for the production of it and the expected pollution. As the product is created by a third party, the estimation doesn't have to be precise, but it remains important to understand what kind of impact our purchases have on the environment.
-
-The e-commerce system must provide the possibility of making individual purchases on external systems, however these purchases must be confirmed and motivated by the aforementioned project. A project can only be linked to one purchase. In the event that the asset is for personal use, the resources will be deducted from the accounts of the interested people.
-
-The project must also indicate whether you intend to purchase the product one or more times. For periodic purchases, the product must be added to the e-commerce system to be on a par with any other asset. It is always good to highlight on the platform which are foreign products and which are produced in the society, moreover it should be avoided that an external product competes with an internal one. If the native product is not considered up to par with a similar foreign product, the whole society should make an effort to bridge the quality gap.
-
-
-## Production
-
-We will always need to consume some other resource for producing a certain product. All resources belong to the society, therefore it will be necessary to propose a project to gather the necessary material.  
-These proposals will have to describe in detail the production process, how the society will benefit from it and possibly include any research associated with it. Important details to highlight will be the quantity of resources required, both periodically and one-off, the expected degree of pollution, the quantity of product generated, the durability of the product itself, expected life, how many resources would be possible to recycle and expected consumer base.  
-In case of a new product or production process, we should always start with a minimum quantity as theory and practice often diverge.
-
-The "Proposal" phase of the [project](#projects) is particularly important since it will be the time to make the product known and understand if it has traction in the society or not, as well as to better know future users. For example, if all stakeholders are in the same geographic area, it will be better to produce as close as possible to simplify transport. If only a handful of users are particularly interested, perhaps a manual production system will suffice, thus lowering the initial resources investment and make the project more attractive.
-
-The project will be considered concluded once the preparations necessary to start production have been completed and after at least one batch of products have been successfully delivered.
-
-It is important to consider that the required resources will be deducted from the total available before being distributed to all members. Resources are precious and limited. This process serves to ensure that only products worthy of being made will have an impact on resources.
-
-Each production process also needs workers. There will be a section of the Virtual Forum where you can post job advertisements for your project.
-
-In the event that less than expected is produced, the concession of resources could be blocked and an investigation will be opened in order to understand where the problem lies and if, in the face of the new production level, it still makes sense to continue this business. This limitation does not apply to activities which by nature may have fluctuating production, such as agriculture.
-
-
-## Work
-
-Work will be a very different concept when compared to the market societies.
-
-All members of the society will always receive the same amount of resources, regardless of the type of work performed. The only requirement is to be committed to something fruitful.
-
-Babel Society recognizes that the ultimate goal of humans is not work itself, but to create, explore, grow and enjoy the life that has been given to us.
-
-Therefore, each person will be free to choose the profession that best suits their peculiarities and attitudes. **There will be no better or more profitable job than the other**.
-
-Producers will often need help in order to run their business and it will be up to each member of society to contribute. However, the relationship between "employer" and "worker" will disappear. There will be no binding contract, no working schedule nor set amount of hours that must be respected. That said, it is good to agree on the amount of hours available on average to better organize.
-
-Helping in production is extremely important, the more we produce, the more society will benefit from the greater abundance. However, Babel Society does not want to create a society that produces for the sole purpose of producing. **Our aim is to produce the right amount of products in order to guarantee everyone a comfortable and meaningful life**.
-
-Each person can also carry out more activities, the important thing is that they do it out of desire and not out of necessity.
-
-
-## Job levels
-
-Many jobs need certain skills in order to be carried out at their best. Let's think for example of the surgeon, who needs a deep knowledge of the human body, a steady hand, but will also be subject to much higher responsibilities than the norm.  
-In order to access these jobs we will need to train staff. The [educational system](#education) already provides courses open to all, which will then be integrated with experience on the field.
-
-Most jobs will be divided into levels. Each level will require greater skills, autonomy and responsibility.  
-To access the first level it will be enough to follow the aforementioned courses, but to reach a higher position we will have to find a tutor at a higher level, possibly more than one.  
-The tutor will supervise the work we do and give us advice on what we need to work on to move forward.  
-When they judge us ready, they can propose our promotion. This will be followed by a trial period for the next level, always under our tutor supervision, who will be partly responsible for what we do. How we perform in this new role should be documented and will be used in the next phase.  
-Once the trial period is over, our tutor will file a [project](#projects) for our promotion. A group of already qualified people will review our work and decide if it is appropriate to promote us or not. Those who vote against promotion will have to give adequate reasons and can become the new tutor in turn.
-
-There will be no limit on the amount of people at each level, but we encourage making the distinction between levels meaningful. 
-
-As an example, let's examine the profession of the surgeon once more. To access the first level we will need advanced knowledge of the human body, perhaps specialized in a specific area. We will also need theoretical knowledge of the various techniques to operate, of instruments, etc...  
-The first level will consist in assisting surgeons in the operating room and carrying out simple tasks, such as preparing the patient or passing the right instrument. At this level we will practically be spectators. We will also have to practice mock surgery to get confidence with the process and tools.  
-The next level could involve simple and routine surgeries, but in this case they would be carried out with the assistance of an already competent surgeon, usually a tutor. Once you have acquired sufficient experience, we will start working alone, and then gradually move on to increasingly complex surgeries as we reach subsequent levels.
-
-If we realize that we are not suitable for the profession undertaken, we can always change and try something else.  
-This tiered structure will ensure that everyone can understand which profession is best suited to their abilities, as well as to grow and bring out the maximum potential in each one.
-
-Both the courses achieved and the level in a given profession will be used in the Virtual Forum in order to advise on what projects to review.
-
-It is important to understand that job levels aren't a form of hierarchy of power, but rather a hierarchy of trust. People at a higher level are deemed by society to be more trustworthy and have demonstrated their skills on that particular role, that's why they are honored by entrusting greater responsibilities upon them. However, they will have little to no power over people at lower job levels. They can lead others and define complex solution to complex problems, but they can't impose their will over others. Babel Society desires that all workers, whatever the level, must always use their critical thinking and never blindly follow orders. Inspecting other people solutions will help better understand them, perhaps even improve some solutions and for sure make us more skilled. Babel Society encourages inquiries and deep understanding, "it is how it is" should never be considered as an acceptable answer.
-
-
-## Means of the trade
-
-Certain jobs require special tools. In this case the society will provide them when appropriate. These instruments are to be considered on loan, they must be maintained with extreme care and respect. If you stop doing that job, all tools must be given back so that others can use them.
-
-
-## Art
-
-Art is at the center of the expression of our human soul. Babel Society highly values all forms of art, such as sculptors, painters, dancers, acrobats, musicians, etc...
-
-Artists will be free to do what they do best: whisper to our hearts, inspire and make us dream.
-
-Being an artist will have the same structure as any other jobs, including levels. Once the society will be big enough, we would advise to establish the so-called [Journeyman years](https://en.wikipedia.org/wiki/Journeyman_years) to foster creativity.
-
-
-## Humble and tiring jobs
-
-If we can all do the job we like best, who will do the humblest and most tiring jobs?
-
-The short-term answer is "everyone". Many of the jobs that today we find tiring can often be eliminated by organizing properly.
-
-For example, everyone should learn how to clean their home, as well as the many common facilities. In public toilets there should be a sanitization system available to be applied before use, so that we leave it cleaner than we found it.  
-Thanks to this collective effort, we will no longer need janitors, or at least that type of work will become much easier.
-
-Restaurants could also be structured in a way that let customers bring food to their table once it is ready, as it often happens in fast-food chains.
-
-Certain jobs can be made more communal, such as harvesting the fields, and should be done with the help of the whole society. These activities help us remain humble and give a sense of conviviality; for many centuries these were moments of celebration where people shared the fruits of the earth. Hard labor done all together is much easier and lighter.
-
-Overall it would be important to encourage cooperation through social responsibility, and we could employ gamefication strategies to further incentivize it. For example, we could setup an achievement system as those available in all major gaming platform, which should not give any benefit other than its achievement and social recognition.
-
-Hazardous jobs such as miners are already heavily regulated to ensure the least amount of risk and to increase safety, however these measures are often discarded by capitalists because it is more profitable in that way. This way of thinking has no space in Babel Society. Given that there is no profit to be made and that laborers have full control over their jobs, it will be natural to employ all the best precaution to ensure even dangerous jobs are done in a safe manner.
-
-All of these changes are easily applied in a small, likely-minded society that grows in a sustainable way.
-
-The long-term solution is automation. Babel Society will focus heavily on research in order to eliminate those chores that nobody wants to do, especially those that are repetitive or are considered dangerous and high-risk. For example, there is already a robot capable of cleaning up toilets.
-
-
-## Research
-
-In a society where working is not necessary to survive, technological advancement becomes even more important as it will contribute to the improvement of everyone's life.
-
-Both physical and virtual research centers will be developed in which all people can exchange information freely. Research is the field that more than any other will benefit from high collaboration. Very often particular inventions and discoveries are kept under strict control through patents and so on, which limit their application as well as their advancement. Thanks to the collaborative environment, everyone will be able to take advantage of the best discoveries much quicker.
-
-Research often requires huge funds before leading to any result, but this will no longer be a problem: just present a [project](#projects) explaining the final goal of it and the amount of resources needed. In this case the project will remain in the "Implementation" phase until the research is completed.
-
-We should facilitate any attempt at research, but it is always important to keep an eye on the amount of resources required. A very important aspect is how ethical the research is: cruel experiments on living beings should be avoided as much as possible.
-
-It goes without saying that much of the research will never bear any fruits, but this is an intrinsic risk in the activity carried out and one we gladly accept. Failure is not a problem and can happen to even the most brilliant researcher, however it is better to realize it and communicate it to save important resources.
-
-
-## Retirement
-
-It will be possible for all members to retire once they are 60 years old, i.e. they will be exempt from having to participate in any productive activity.  In special cases, such as due to medical conditions, you may be able to retire early. In this case, we must file a [project](#projects) in order to document what happened and allow everyone to carry out the necessary checks.  The exemption is to be considered optional, we would be able to join back the workforce whenever we want.  
-
-## Waiting Lists
-
-We may find ourselves in a situation where the demand for a particular good or service is higher than the society can produce. Part of the problem is solved through the [budgeting system](#expensive-goods), but the problem remains for requesting substantial resources for research or starting a business.  
-To overcome this problem, priority waiting lists will be established based on some factors. For example, in the event of a pandemic, priority should be given to treating the most affected groups.
-
-By priority waiting lists we mean a system in which the first one to enqueue will be served, then the second and so on, until the list is exhausted; however, people with higher priority will be placed closer to the top of the list than they normally would. This system must be calibrated in such a way that all those enqueued will have their turn within a reasonable delay.
-
-The system must ensure that everyone has the opportunity to access the required services, thus each waiting list will have a limit of how much a turn can be delayed.
-
-## Foreign Organizations
-
-Foreign organizations can only do business with society as a whole. All terms of any contracts must be presented by the company through [projects](#projects) using an ad-hoc account. As usual, any proceeds from such agreements will be considered as part of our resources and [fairly distributed to all members](#fair-distribution).  
-Foreign organizations should never have in concession fundamental services, such as water, to ensure the autonomy and survival of our society.
-
-Any foreign company that wants to operate on our territory will be required to respect all the rules of the society, including maximum transparency. They must give access and provide the necessary documentation on what happens in our territory.  
-Pollution will not be tolerated. There should always be a clause in the contract that cancels it in case of pollution and burdens the organization to remedy the damage done.
-
-If the organization needs personnel to carry out their functions in our territory, they will be required to hire at least 70% of personnel from our society. This should ensure the legitimacy of the business and that it is in line with our principles.
-
-The assets necessary for the conduct of the business, such as buildings and machinery, will be provided by our society, but collaboration with the organization staff is not excluded if special construction techniques are required or to speed up the process. The project must also specify how many resources these assets will consume and a fee could be requested to the organization itself. Whatever the external contribution, all assets will remain property of the society.
-
-
-## Tourism
-
-Tourism will be an excellent source of foreign currency, but also a vector of change, a way to show the world the quality of our society. All tourists will be welcome, from any country and region of the world.
-
-Considering that all consumption is based on an online system, tourists will be required to register at the entrance and purchase standard resource packs that can be used throughout the trip.
-
-Like everybody else, they will be required to respect the environment: littering and other acts of incivility will be subject to very high sanctions. 
-
-
-## Production growth
-
-The quantity of goods produced will determine the quality of life of each member of our society. We are confident that the focus on [collaboration](#collaboration), [education](#education) and [research](#research) will be able to trigger a virtuous cycle capable of achieving unprecedented levels of production and profit. Let's think, for example, of all the benefits that a highly automated system could guarantee.
-
-We remain aware that theory and reality often diverge, for example having to reach a consensus in each [project](#projects) objectively takes more time when compared to a structure in which decisions are centralized; in this regard, monarchy is faster and it is no coincidence that companies resemble a feudal model.  
-Nonetheless, **values such as greater collaboration and freedom are more important to us than faster production growth**.  
-We also accept the fact that no member of society will ever reach a level of opulence comparable to the top 1% in market society; but this is by design.
-
-It is good to remember that the purpose of Babel Society isn't to create a highly productive system, but rather a society in which everyone has all they need to achieve their own happiness.  
-Happiness is a state of the mind, often stimulated by succeeding in our intentions, by finishing something we are proud of or satisfied with, in perfect line with our crafty nature. Once the basic needs are guaranteed, happiness has very little to do with how many and what kind of goods we have.
-
+[In Depth: Babel Economy](@/blog/in-depth-economy/index.md) discuss more in detail Babel economic system.
 
 # Personal sphere
 
 
 ## Competition
 
-Although our society places great emphasis on collective collaboration, on a personal level some healthy competition never hurts and certainly shouldn't be stigmatized. Both competition and collaboration are part of our human nature, therefore it is good to have ways to exercise this characteristic in a healthy way.  
-One way will be through sports and martial arts, but also other kinds of competitions, such as musical ones, videogames tournaments, etc...
+Although our society places great emphasis on collaboration, on a personal level some healthy competition never hurts and certainly shouldn't be stigmatized. Both competition and collaboration are part of our human nature, therefore it will naturally manifest itself in society.  
+
+When working on a problem it is inevitable for people to come up with all sorts of solutions. Instead of insisting in using just one, after a thorough screening, would be better to give a try to as many as possible. This natural competition helps us further evolve our understanding of the problem and to better solve the issue.
+
+Competition is also important in all competitions, such as musical ones, videogames tournaments, martial arts, sports, etc...
 
 We hope that a healthy and positive competition will always be established, in which our rivals are respected and seen as companions on a journey, perhaps as a goal to reach and overcome. Why not, they might become our best friends.
 
 
-## Private property
+## Personal ownership
 
-It is widely demonstrated that humans need stability in order to function at their best and live a peaceful life. Private ownership, i.e. being able to benefit from a particular asset in an exclusive and unlimited way, helps us increase this sense of stability and our planning skills.
+It is widely demonstrated that humans need stability in order to function at their best and live a peaceful life. Personal ownership, i.e. being able to benefit from a particular product in an exclusive and unlimited way, helps us increase this sense of stability and our planning skills.
 
-Any assets we buy through the resources granted by the society will be considered to all intents and purposes private property.
-
+We own all products granted by society.
 
 ## Recreational Activities
 
-Recreational activities are just as important as productive ones for a healthy and balanced life. Each person should have enough time to spend with their family, especially with their children. This is why we always recommend balancing your days between productive and recreational activities.  
+Recreational activities are just as important as productive ones for a healthy and balanced life. Each person should have enough time to spend with their family, especially with their children. This is why we always recommend balancing your days between productive and recreational activities.
+
 We emphasize that productivity, although very important for the proper functioning of society, must never be at the expense of one's personal life.
 
 Several studies have shown that to be fully productive and enjoy greater creativity, rest and idleness are essential. A good book that links productivity to rest is "[The Power of Full Engagement](https://www.goodreads.com/book/show/68985.The_Power_of_Full_Engagement)" by James E. Loher and Tony Schwartz.  
-In fact, the moment in which our brain is able to work best is when we are in complete idleness, in which there is no other distraction but ourselves and it becomes easier to analyze our life, our problems, especially those within.
+In fact, our brain works best when we are in complete idleness; when there is no other distraction but ourselves, it becomes easier to analyze our life, our problems, to improve our psychological balance.
 
-Idleness, while useful, is certainly not one of the most social recreational activities; we hope that society will organize itself in such a way to provide ample opportunities for recreation.
+Idleness, while useful, is certainly not one of the most social recreational activities; we have no doubt society will organize itself in such a way to provide ample recreational opportunities.
 
 
 ## Sexual identity
 
-In full respect of everyone's [freedom](#freedom) and [authenticity](#authenticity), we respect and promote exploring and understanding oneself and one's sexual identity.  
-The different sexual identities will all enjoy the same rights, including being able to have a family and children.
+In full respect of everyone's [freedom](#freedom) and [authenticity](#authenticity), we respect and promote exploring and understanding oneself and one's sexual identity.
 
-A very important aspect will also be sexual education, which we believe should be carried out already in early adolescence to help them better understand all the changes in their body and manage the cravings related to the sexual sphere in a healthy way.
+Discrimination have no place in Babel, sexual identity is no different.
+
+A very important aspect is emphasis in sexual education, which should be carried out already at an early age, and no later than early adolescence, to help them better understand all the changes in their body and manage the sexual sphere in a healthy way.
 
 
 ## Spirituality and Religion
 
-Spirituality and freedom of religion is very important for self-realization and therefore all beliefs are admitted. We consider spirituality as strictly personal. Religious organizations will not have any particular treatment and all its members will have to fully respect the decisions of the society, as well as be an active member of it.
+Spirituality and freedom of religion is very important for self-realization and therefore all beliefs are admitted. We consider spirituality as strictly personal. Religious organizations will not have any particular treatment and all its members will have to fully respect and be an active member of society.
 
 Peaceful coexistence and collaboration between members of different beliefs is fundamental. We remind ourselves that to build any type of structure we need the consent of everyone, therefore creating tensions and divisions will only lead to discontent and make our life harder.
-
-Any external religious organization will be considered as a [foreign organization](#foreign-organizations).
 
 
 ## Travels
@@ -703,50 +472,38 @@ Getting in touch with different cultures is extremely important to broaden our v
 
 It will be beneficial to set up organized travels, especially in countries where the language barrier could lead to problems, or in those having more stringent access regulations. That's said, each member must be given free choice on how to organize the trip as they see fit.
 
-At first, the possibility of travel will likely be subject to [waiting lists](#waiting-lists), where those who have made fewer trips should have higher priority. During the distribution of resources it is always good to invest in this aspect.
+At first, the possibility of travel will likely be subject to [waiting lists](@/blog/in-depth-economy/index.md#waiting-lists), where those who have made fewer trips should have higher priority. During the distribution of resources it is always good to invest in this aspect.
 
-
-## Children
-The world we live in is vast and abundant in resources, but nothing is infinite. It is important to understand that greater the society size and greater the production processes must be to ensure that everyone can live a dignified life.
-
-That's why we must be conscientious in having children.
-
-The computer system gives us easy access to the total number of people present and also to the average age of each member, so a system could be set up to regulate birthrate based on a [waiting list](#waiting-lists). 
-
-Unexpected pregnancy will be subject to a [rehabilitation program](#rehabilitation-programs) to better understand the importance of resources and protected sex. Obviously the pregnancy can be carried out without any repercussions. Abortion will also be an option and it will be up to the woman to decide, perhaps counseled by an expert.
-
-Parenting is one of the most complex of all activities, that's why it will be very important for each new parent to periodically undertake [courses](#education) to better understand how they can support their child.
 
 # Technology
 
 At the heart of Babel Society is a technological revolution that aims to give as much visibility and power as possible to every member of society.
 
-Each technological component will be created following the philosophy of [Free Open Source Software](https://en.wikipedia.org/wiki/Free_and_open-source_software), which is one of the most successful forms of collaboration. This means that:
+Each technological component is created following the philosophy of [Free Open Source Software](https://en.wikipedia.org/wiki/Free_and_open-source_software), which is one of the most successful forms of collaboration. This means that:
 
 - Every detail of the system can be scrutinized by anyone
-- Every part will be usable and modifiable by anyone
-- Everyone can contribute to the improvement of it
+- Every part is usable and modifiable by anyone
+- Everyone can help improve it
 
-Over the years it has been shown that the technologies thus developed tend to be among the safest and most reliable as they are for all to see, and it is therefore more likely that flaws or incorrect behaviors will be identified and corrected.
+Over the years it has been shown that the technologies thus developed tend to be among the safest and most reliable because it is more likely that flaws or incorrect behaviors are identified and corrected.
 
 Technology advancement becomes an ally that can improve our lives rather than making them worse.
 
-All technologies as well as being free will have to be as decentralized as possible. We aim for a distributed infrastructure in which every member holds a piece of the puzzle. This characteristic will make the system highly resilient to external attacks and is in line with the underlying philosophy of the Internet and Babel Society itself.
+All technologies as well as being free will have to be as decentralized as possible. We aim for a distributed infrastructure in which every member holds a piece of the puzzle.
 
+Decentralization is what makes a system highly resilient to external attacks and is in line with the underlying philosophy of the Internet and Babel itself.
 
 ## App
 
 The App is a smartphone application that will also provide a two-factor authentication, verify the person identity and provide access to all other technological tools available.
 
-## Wallet
+## Tracker
 
-It's an application used to manage your personal resources and for buying products, well integrated in the App and with the E-commerce. Please have a look at [Consumption](#consumption) for more detailed information.
+It's an application used to keep track of how much we consumed and of our [soft limits](@/blog/in-depth-economy/index.md#soft-limits), well integrated in the App and with the E-commerce.
 
 ## E-commerce
 
-Central place where all products available in the society will be stored. Each product will have detailed information in its production, if it is produced by the society itself, if we can buy it in the area nearby us and many more. We expect that most products will be available for delivery.
-
-It will be seamlessly integrated with Wallet.
+Central place where all products available in the society are stored. Each product page have detailed information on its production, where we can buy it, and much more. We expect most products to be available for delivery.
 
 ## Virtual Forum
 

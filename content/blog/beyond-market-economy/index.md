@@ -9,25 +9,26 @@ draft = true
 
 In this article we want to better understand what Market Economy is, why we need an alternative and how it could look like.
 
-We aim for a broad audience, hence we will try to explain all terms in a simple way, even though sometimes it doesn't abide to a more strict economic definition.
+We aim for a broad audience, hence we will try to explain all terms in a simple way, even though sometimes it doesn't abide to a strict economic definition.
 
 # What is Market Economy?
 
-A Market Economy is an economy that distributes good and services through a market. 
+A Market Economy is a category of economic models where products are distributed through markets. 
 
 A market is composed by priced products, buyers and sellers.
 
-For now, we will define price as the monetary value you need to buy a product.
+For sake of simplicity, we define "price" as the monetary value accepted in exchange for a product.
 
 A product is anything that can be exchanged for money, such as goods, services and labor.
 
-A buyer is a person or a group of people that want to exchange money for a product sold in the market. They can freely decide what products to buy, their only limitation is the amount of money available.
+A buyer is a person or a group of people that want to exchange money for a product sold in a market. They can freely decide what products to buy, their only limitation is the amount of money available.
 
 A seller is a person or a group of people whose goal is to sell a product on the market for a profit. They can freely decide how to acquire the product and what to sell, but they are limited by the capital available and their environment.
 
 Any person participating in a market economy will act as a seller when they acquire money, and as a buyer when they consume money.
 
-Profit is when a seller exchange a product for more money they used to acquire it. Suppose that to produce 1kg of apples I spend $0.70, then if I sell it for $1.00, I'll net a profit of $0.30, that I can now use to buy something else.  
+Profit is when a seller exchange a product for more money they used to acquire it. Suppose that to produce 1kg of apples I spend $0.70, then if I sell it for $1.00, I'll net a profit of $0.30, that I can now use to buy something else.
+
 The profit aspect is very important, given that this is the only way in markets to let money flow and the keep the economy working.
 
 In theory sellers can decided by themselves at what price sell their products, however higher the price, less people will buy it.
@@ -41,17 +42,20 @@ Supply is how much of a given product is available on the market.
 The law of supply and demand is pretty intuitive and states that when many people want the same product (high demand), then sellers can afford to sell at higher price.  
 Vice versa, when there are more products than needed (high supply), sellers will have to low price to be able to sell it.
 
-Both demand and supply are influenced by many factors in real life. Imagine for example that a drought hit a coffee plantation, which will decrease the amount of available coffee and therefore raise prices. That's why prices in markets change through time.
+Both demand and supply are influenced by many factors in real life. Imagine for example that a drought hit a coffee plantation, it will decrease the amount of available coffee and therefore raise prices. That's why prices in markets change through time.
 
-Still, why should a seller low prices? It's because there is another competition going on, the one between sellers. A healthy market **needs** many competing sellers over the same product to ensure a fair price.
+Still, why should a seller low prices? It's because there is another competition going on, the one between sellers. **A healthy market needs many competing sellers** over the same product to ensure a fair price.
 
 Market share in today economy is a big factor for profits. Given a product, the market share is how much a seller sold of it in proportion to the total amount. For example, if in total the market sold 100kg of apples, and a single seller managed to sell 30kg, then their market share would be 30%.
 
-There are many factors that influence market share, economic often focus on price. Given two equivalent product, a smart buyer will buy the cheaper one, hence a lower price will give sellers a bigger piece of the pie. It may seems counter-intuitive, but the logic is that I can try to sell apples at 1$/kg, but then only sell 20kg and gain $20, or I can lower the price at 0.90$/kg, which will allow me to sell 30kg and gain $27, $7 more than before.
+There are many factors that influence market share, economics often focus on price. Given two equivalent products, a smart buyer will buy the cheaper one, hence a lower price help sellers conquer a bigger piece of the pie. It may seems counter-intuitive, but the logic is that I can try to sell apples at 1$/kg, but then only sell 20kg and gain $20, or I can lower the price to 0.90$/kg, which allow me to sell 30kg and gain $27, $7 more than before.
 
 A third component a seller have to be aware of is the State and its regulations, such as regulations in the food industry that guarantees a certain level of security to buyers.
 
-This brings us to the degree of freedom in a market. Higher the amount of regulations imposed by the State, less is the freedom. A free market is when there are no regulations at all and both sellers and buyers are the sole responsible for their actions in the market. This means that if a sellers goes bankrupt, the whole burden should be on them.  
+This brings us to the degree of freedom in a market. Higher the amount of regulations imposed by the State, less is the freedom.
+
+A free market is when there are no regulations at all and both sellers and buyers are the sole responsible for their actions in the market. This means that if a seller goes bankrupt, the whole burden should be on them.
+
 The opposite extreme is a fully-regulated market where the State is in full control of sales and production, such as the military.
 
 A market economy is composed by many different markets with various degree of freedom. Think for example how different regulations applies to the labor market (more regulations) and the financial one (more freedom).
@@ -64,19 +68,21 @@ Now that we have a good understanding of what Market Economy is, we can explore 
 
 ## Killing competition
 
-In a Market Economy one of our main objective is to kill competition, and if we manage to do so we will be in a position of monopoly, which is the most profitable outcome in a Market Economy.
+In a Market Economy one of our main objective is to kill competition, and if we manage to do so we will be in a position of monopoly, which is **the most profitable outcome in Market Economy**.
 
 We have a monopoly when the market have only one single seller for a given product, meaning that their market share is 100%.
 
-Remember that to keep prices under control, markets need a healthy competition between many sellers. Once such competition is removed, the single seller has free reign over the market. This gets even worse when they provide very important products, such as medicines, water and energy.
+Remember that to keep prices under control, markets need a healthy competition between many sellers. Once such competition is removed, the single seller has free reign over the market. This gets even worse when they provide very important products, such as medicines, water or energy.
 
-Big sellers can band together and form a de-facto monopoly through mergers, acquisitions or by forming a cartel. They don't even need 100% market share, as long as it is big enough. A common tactic is to push prices artificially low to the point they can even incur a small loss, which will push smaller sellers out of market given that they cannot compete anymore. Now that they have full control, they can raise prices and or low the quality of their products.
+Big sellers can band together and form a oligopoly through mergers, acquisitions or by forming a cartel. An oligopoly isn't much different than a monopoly, given that the market is again controlled by a small group.
+
+They don't even need 100% market share, as long as it is big enough. A common tactic is to push prices artificially low to the point they can even incur a small loss, which will push smaller sellers out of market because they cannot compete anymore. Now that they have full control, they can raise prices and/or low the quality of their products to greatly increase profits.
 
 One infamous example is the [Phoebus Cartel](https://en.wikipedia.org/wiki/Phoebus_cartel).
 
 Monopolies tend to be strictly regulated in many countries, however big businesses often find loopholes or ignore it until they are busted. See [Amazon hit with record US$1.3 billion fine for abuse of supply chain monopoly](https://techhq.com/2021/12/amazon-hit-with-record-us1-3-billion-fine-for-abuse-of-supply-chain-monopoly/) for a quick example.
 
-This issue is particularly important because it reflects the limits of fierce competition. Even in an environment as strictly competitive as markets, **those who actually win the game**, raking the greatest profits, **do so through collaboration rather than competition**.
+This issue is particularly important because it reflects the limits of fierce competition. Even in an environment as strictly competitive as markets, **those who actually win the game**, raking in the greatest profits, **do so through collaboration rather than competition**.
 
 Given the chance, every business will have the tendency to band up with others because by doing so they solidify their power in the market and can greatly increase their profits.
 
@@ -84,56 +90,61 @@ Given the chance, every business will have the tendency to band up with others b
 
 We deem as successful a business that is capable of conquering a big market share and produce hefty profits for its owners.
 
-This economic success doesn't equate to a business that is morally just, nor even ethical. Indeed, there are many economically successful businesses that are unethical and infamous for their exploitative malpractices.
+This economic success doesn't equate to a business that is morally just, nor even ethical. Indeed, many economically successful businesses are also unethical and infamous for their exploitative malpractices.
 
 Another classic example is the hedge-fund manager who earn hundreds times more than a teacher. We could debate on which job provide greater benefits to society, but we should all agree that the value provided by the manager will never be hundreds times more than the teacher.
 
-Markets are simple tools that are bound to economic and that's it. Price in a market isn't synonym of societal value, only of market value, but we often conflate the two.
+Markets are simple tools limited to the economic realm and that's it. Price in a market isn't synonym of societal value, only of market value, but we often conflate the two.
 
-This is particularly dangerous when it comes to the idea of free markets. Markets if anything, encourages competition over everything else, and when there is fierce competition the powerful will prey upon the weak. Slavery in the eye of Market Economy is a good way to reduce costs and improve profits. Environmental regulations instead are a big nuisance because they increase costs, possibly cutting out profitable industries such as coal and oil extraction. There is no malice, only economy.
+This is particularly dangerous when it comes to the idea of free markets. Markets encourages competition over everything else, and when there is fierce competition the powerful preys upon the weak.
+
+Slavery in the eye of Market Economy is a good way to reduce costs and improve profits. Environmental regulations instead are a big nuisance because they increase costs, possibly cutting out profitable industries such as coal and oil extraction. There is no malice, only callous economics.
 
 History, together with today labor market and climate crisis, teach us that we cannot be trusted when competition is on and our quality of life depends on it. We will exploit all that we can to improve our immediate conditions, despite the problems we may incur in the future.
 
 ## Low-quality products
 
-Because sellers must compete and price tends to be a big factor for market share, they have all the incentives to reduce selling price as much as they can. Every seller have an inherent cost of production that will inevitably eat on their profits, hence to lower the price they must also lower the cost of production.
+Because sellers must compete and price tends to be a big factor for market share, they have all the incentives to reduce selling price as much as they can. Every seller have an inherent cost of production that eat on their profits, hence to lower the price they must also lower the cost of production.
 
-The easiest way to reduce costs is by cutting on quality, which will allow you to produce more for less.
+The easiest way to reduce costs is by cutting on quality, which allows us to produce more for less.
 
 Cutting quality on physical goods is even better. If a seller introduce in the market a product that is very durable and can be easily repaired, after a while they will exhaust demand and thus reduce their profits.
 
-This is why the [Phoebus Cartel](https://en.wikipedia.org/wiki/Phoebus_cartel) was instituted, why [planned obsolescence](https://en.wikipedia.org/wiki/Planned_obsolescence) is inevitable in a market economy, and why [repairing goods must be hard](https://en.wikipedia.org/wiki/Right_to_repair).
+This is why the [Phoebus Cartel](https://en.wikipedia.org/wiki/Phoebus_cartel) was instituted, why [planned obsolescence](https://en.wikipedia.org/wiki/Planned_obsolescence) is inevitable in a market economy, and why [products are design to avoid repairs](https://en.wikipedia.org/wiki/Right_to_repair).
 
-Another big issue created by low-quality goods is that they tend to create a lot of waste, have a bad environmental impact and waste precious resources.
+Another big issue created by low-quality products is that they produce lots of garbage, have a bad environmental impact and waste precious resources.
 
-This issue isn't only limited to physical goods, think for example about the majority of software programs that you use. Many of them are pretty bad because the business decided to cut on labor to produce or maintain it.
+This issue isn't only limited to physical goods, think for example about the majority of software programs available. Many of them are pretty bad because the business decided to cut on labor needed to produce or maintain it.
 
 ## Manipulation
 
-We humans have a great record when it comes to exploit things, including ourselves. It is only natural that when our quality of life is at stake, people will nudge and push, trying to find the best way to exploit markets.
+Humans have a great record when it comes to exploit things, including ourselves. It is only natural that when our quality of life is at stake, people will nudge and push, trying to find the best way to exploit markets.
 
 What follows is in now way an exhaustive list, we will just see some examples to get an idea around it.
 
 ### Demand manipulation
 
-Advertisement is practically a way to manipulate buyers in preferring your product rather than another equivalent one.
+Advertisement is a way to manipulate buyers in preferring a product rather than an equivalent one.
 
-Consumerism is another way to push buyers into over-consumption of products. Through a degeneration of advertisement, now sellers try to instill in buyers an artificial need for their product, trying to effectively trick them into buying it. Originally, consumerism meant that buyers should drive production through expressing their needs, by "voting with their wallet", but this degenerated quickly.  
-It isn't limited to ads, but it infiltrates our very own culture. Think of what the tobacco industry did with smoking: they portrayed it as something "cool", something every "true man" does, until it became *natural* and part of our culture.
+Consumerism is another way to push buyers into over-consumption of products. Through advertisement sellers try to instill in buyers an artificial need for their product, trying to trick them into buying.
 
-Fashion is a face of consumerism. It manipulates buyers through our innate sense of community. We *need* to be part of a group, we *need* to feel socially included, to feel special in some way, hence they leverage these innate sentiments in buyers to let them buy specific products even though they don't need them. A classic cliché is for women to have way too many shoes and bags. They don't need as many, only sellers profits out of it.
+Originally, consumerism meant that buyers should drive production through expressing their needs, by "voting with their wallet", but this degenerated quickly.  
 
-Branding works similarly to fashion, but a strong one will also tap into loyalty and trust, allowing them to sell products at higher price than normal, distorting the law of supply and demand, raking in more profits than otherwise. Another subtle consequence of branding is that people now have an innate distrust of brands they don't recognize, making it harder for new seller to enter the market.
+Consumerism isn't limited to ads, it infiltrates our very own culture. Think of what the tobacco industry did with smoking: they portrayed it as something "cool", something every "true man" does, until it became *natural* and part of our culture.
 
-The term "influencer" should ring an alarm bell, their job is to literally influence (read: trick you) into buying a product and they don't even hide it. 
+Fashion is a face of consumerism. It manipulates buyers through our innate sense of community. We *need* to be part of a group, we *need* to feel socially included, to feel special in some way. They leverage these innate sentiments in buyers to sell them specific products even though they don't need them. A classic cliché is for women to have way too many shoes and bags. They don't need as many, only sellers profits from it.
 
-Misinformation do play a big role in manipulating buyers. Tobacco industry once again comes to mind, and how much they underplayed the bad effects of nicotine and cigarettes. Another less known example is lead contamination, which was kept under the rug by big corporations through corruption of renowned scientists; today we are aware of it thanks to the great efforts of [Clair Cameron Patterson's campaign against lead poisoning](https://en.wikipedia.org/wiki/Clair_Cameron_Patterson#Campaign_against_lead_poisoning).
+Branding works similarly to fashion, but can tap into loyalty and trust, allowing sellers to sell products at higher price than normal, distorting the law of supply and demand, raking in more profits than otherwise. Another subtle consequence of branding is that people have an innate distrust of brands they don't recognize, making it harder for new seller to enter the market.
+
+The term "influencer" should ring an alarm bell, their job is to literally influence (read: trick you) into buying a product and they don't even hide it.
+
+Misinformation plays a big role in manipulating buyers. Tobacco industry once again comes to mind, and how much they underplayed the bad effects of nicotine and cigarettes. Another less known example is lead contamination, which was kept under the rug by big corporations through corruption of renowned scientists; today we are aware of it thanks to the great efforts of [Clair Cameron Patterson's campaign against lead poisoning](https://en.wikipedia.org/wiki/Clair_Cameron_Patterson#Campaign_against_lead_poisoning).
 
 ### Supply manipulation
 
 A common example of supply manipulation is scalping, a way to manipulate the market to artificially limit the supply of a given product.
 
-This very often happens with concerts tickets, where a group of people buy tickets en mass as soon as they are available, possibly exhausting availability. After a while, they will put tickets on sale for a much higher price, netting a quick and nice profit.
+For example, a group of people buy concert tickets en mass as soon as they are available, so much that it is sold out in hours, if not minutes. After a while, they put tickets on sale at higher price, netting a quick and nice profit.
 
 This isn't limited to tickets though, we have seen this happening in the house market, but also cars and any other kind of limited edition goods.
 
@@ -197,7 +208,7 @@ That's why in a society heavily built around markets, progress will be further h
 
 # Issues: the root cause
 
-All the issues so far discussed stems from a single design decision that all variations of Market Economy abide to: **the quality of life of an individual is strictly bound by how good of a seller they are**.
+All the issues so far discussed stems from a single design decision that all variations of Market Economy abide to: **an individual's quality of life is strictly bound to how good of a seller they are**.
 
 Let's analyze what it means.
 
@@ -215,7 +226,7 @@ Even [Friedrich Hayek](https://en.wikipedia.org/wiki/Friedrich_Hayek), known eco
 
 # An alternative: Babel Economy
 
-We have already discussed at length how Babel Economy looks like in the article "[In Depth: Babel Economy](@/blog/in-depth-babel-economy/index.md)".
+We have already discussed at length how Babel Economy looks like in the article "[In Depth: Babel Economy](@/blog/in-depth-economy/index.md)".
 
 As a quick reminder, Babel Economy is strictly decentralized and does use markets to distribute products, however there is no money and consumption is free under certain limits based on each product and environment constraints.
 
@@ -281,9 +292,9 @@ The most gifted of us will be able to focus on research to their heart content. 
 
 The issue with Market Economy isn't the use of markets, but rather the intrinsic and systemic ruthlessness at its core. The more socialist form of it mitigate the issue, but it is there nonetheless.
 
-*In theory* it is possible to build a good society based on Market Economy, but it is such an unstable system that it is hard to keep it up. We have seen times and times again in the last two centuries the struggle needed to keep stabilize it. We had some prosperous, yet short period of balance, that inevitably degenerated into a worse society, including the one we live in today. It is a Sisyphean struggle.
+*In theory* it is possible to build a good society based on Market Economy, but it is such an unstable system that it is hard to keep it up. We have seen times and times again in the last two centuries the struggle needed to stabilize it. We had some prosperous, yet short period of balance, that inevitably degenerated into a worse society, including the one we live in today. It is a Sisyphean struggle.
 
-We have presented here a better alternative, one that is much more stable thanks to its virtuous cycles, but by no means we want to affirm it is "the true and only way". Still, it is a way. A pragmatic, possible way that will systematically solve many of the issues that we all face in our day-to-day life. It isn't a perfect way, only a better one. It will have its own challenges and risks, but we can learn and further improve as we go.
+We have presented a better alternative, one that is much more stable thanks to its virtuous cycles, but by no means we want to affirm it is "the true and only way". Still, it is a way. A pragmatic, possible way that will systematically solve many of the issues that we all face in our day-to-day life. It isn't a perfect way, only a better one. It will have its own challenges and risks, but we can learn and further improve as we go.
 
 There is no "end of history". History doesn't end. Change is inevitable, but not all changes are good, it can always change for the worse.
 
