@@ -17,7 +17,7 @@ A Market Economy is an economy that distributes good and services through a mark
 
 A market is composed by priced products, buyers and sellers.
 
-For now, we will define price as the monetary value you need to buy a product.
+For sake of simplicity, we will define price as the monetary value accepted to buy a product.
 
 A product is anything that can be exchanged for money, such as goods, services and labor.
 
@@ -41,7 +41,7 @@ Supply is how much of a given product is available on the market.
 The law of supply and demand is pretty intuitive and states that when many people want the same product (high demand), then sellers can afford to sell at higher price.  
 Vice versa, when there are more products than needed (high supply), sellers will have to low price to be able to sell it.
 
-Both demand and supply are influenced by many factors in real life. Imagine for example that a drought hit a coffee plantation, which will decrease the amount of available coffee and therefore raise prices. That's why prices in markets change through time.
+Both demand and supply are influenced by many factors in real life. Imagine for example that a drought hit a coffee plantation, it will decrease the amount of available coffee and therefore raise prices. That's why prices in markets change through time.
 
 Still, why should a seller low prices? It's because there is another competition going on, the one between sellers. A healthy market **needs** many competing sellers over the same product to ensure a fair price.
 
@@ -51,7 +51,7 @@ There are many factors that influence market share, economic often focus on pric
 
 A third component a seller have to be aware of is the State and its regulations, such as regulations in the food industry that guarantees a certain level of security to buyers.
 
-This brings us to the degree of freedom in a market. Higher the amount of regulations imposed by the State, less is the freedom. A free market is when there are no regulations at all and both sellers and buyers are the sole responsible for their actions in the market. This means that if a sellers goes bankrupt, the whole burden should be on them.  
+This brings us to the degree of freedom in a market. Higher the amount of regulations imposed by the State, less is the freedom. A free market is when there are no regulations at all and both sellers and buyers are the sole responsible for their actions in the market. This means that if a seller goes bankrupt, the whole burden should be on them.  
 The opposite extreme is a fully-regulated market where the State is in full control of sales and production, such as the military.
 
 A market economy is composed by many different markets with various degree of freedom. Think for example how different regulations applies to the labor market (more regulations) and the financial one (more freedom).
@@ -281,9 +281,9 @@ The most gifted of us will be able to focus on research to their heart content. 
 
 The issue with Market Economy isn't the use of markets, but rather the intrinsic and systemic ruthlessness at its core. The more socialist form of it mitigate the issue, but it is there nonetheless.
 
-*In theory* it is possible to build a good society based on Market Economy, but it is such an unstable system that it is hard to keep it up. We have seen times and times again in the last two centuries the struggle needed to keep stabilize it. We had some prosperous, yet short period of balance, that inevitably degenerated into a worse society, including the one we live in today. It is a Sisyphean struggle.
+*In theory* it is possible to build a good society based on Market Economy, but it is such an unstable system that it is hard to keep it up. We have seen times and times again in the last two centuries the struggle needed to stabilize it. We had some prosperous, yet short period of balance, that inevitably degenerated into a worse society, including the one we live in today. It is a Sisyphean struggle.
 
-We have presented here a better alternative, one that is much more stable thanks to its virtuous cycles, but by no means we want to affirm it is "the true and only way". Still, it is a way. A pragmatic, possible way that will systematically solve many of the issues that we all face in our day-to-day life. It isn't a perfect way, only a better one. It will have its own challenges and risks, but we can learn and further improve as we go.
+We have presented a better alternative, one that is much more stable thanks to its virtuous cycles, but by no means we want to affirm it is "the true and only way". Still, it is a way. A pragmatic, possible way that will systematically solve many of the issues that we all face in our day-to-day life. It isn't a perfect way, only a better one. It will have its own challenges and risks, but we can learn and further improve as we go.
 
 There is no "end of history". History doesn't end. Change is inevitable, but not all changes are good, it can always change for the worse.
 
