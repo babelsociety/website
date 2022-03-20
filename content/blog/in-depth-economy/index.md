@@ -7,7 +7,7 @@ date = 2022-02-05
 draft = true
 +++
 
-In this article we will analyze more in depth Babel Economy, we will try to explain the reason behind this model, how it works and what challenges we may expect.
+In this article we will analyze more in depth Babel Economy, we will explain the reason behind this model, how it works and what challenges we may expect.
 
 If you are only interested in understanding how it works, start from [here](#here).
 
@@ -19,19 +19,19 @@ In the words of French economist and politician Raymond Barre:
 
 The main goal of any economic system must be to efficiently manage scarce resources and at the same time keep under control our unlimited desires.
 
-Managing is all about making decisions and setting up the right processes. Better the decisions we make, greater would be its efficiency.
+Managing is all about making decisions and setting up the right processes. Better the decisions we make, greater would be the system's efficiency.
 
 **Greater the amount of information at our disposal, better decisions we will make.**
 
-Consider that resources are limited, and each can be employed for different production goals. For example, on a piece of land we could build a house, a skyscraper, a supermarket, or perhaps use it to farm grains, fruit trees, leave it to nature, etc...
+Be aware that resources are limited, and each can be employed for different production goals. For example, on a piece of land we could build a house, a skyscraper, a supermarket, or perhaps use it to farm grains, fruit trees, leave it to nature, etc...
 
-The best way to distribute resources should tell us what's the configuration that best satisfy as much of our unlimited desires. Because desires are unlimited, we already know that we will never fully satisfy them, hence we need to prioritize as much as possible, the result of which will be different based on the culture of the people that are part of the society we are interested in. We all know food is important, but different cultures appreciate different flavors, hence different foods will be prioritized differently. Based on geography, we may need extremely different clothing, build buildings using different techniques, etc...
+The best way to distribute resources should tell us what's the configuration that best satisfy our unlimited desires. Because desires are unlimited, we already know that we will never fully satisfy them, hence we need to prioritize as much as possible. However, people have different preferences and will rank differently: I may like spicy food, while you may hate it. Thus the prioritization must be done as a best effort taking in consideration all the peculiarities of the people in the society itself. Another important factor is that environment will shape part of our desires: in Siberia we defend against extreme cold, while in Ecuador we defend against hot temperature. Environment also impacts what kind of resources we have available: some places are rich in drinkable water, while for others is a precious resource.
 
-As if all of this wasn't complex enough, our needs and desires are always changing: what's important today may be useless tomorrow. Thus, whatever distribution we find, it will always be a fleeting approximation.
-
-The best resource allocation method is one that can be applied often and give us enough satisfaction.
+As if all of this wasn't complex enough to balance, our needs and desires are always changing: what's important today may be useless tomorrow. Thus, whatever distribution we find, **it will always be a fleeting approximation**.
 
 This issue has been discussed at length and is known as "[Economic calculation problem](https://en.wikipedia.org/wiki/Economic_calculation_problem)".
+
+The best resource allocation method is one that can be applied often and **gives enough satisfaction to as many people as possible**. Thus, an economic model that fully satisfy only the top 10% is, by definition, a very bad one.
 
 We will now briefly discuss how allocation is handled in the two most discussed economic models: market economy and planned economy.
 
@@ -39,23 +39,27 @@ We will use three examples to better compare the two models with Babel economy: 
 
 # Allocation in Market Economy
 
-[Ludwig von Mises](https://en.wikipedia.org/wiki/Ludwig_von_Mises) was the first to discuss about the economic calculation problem. According to him, markets together with money are the best tools to allocate resources.
+[Ludwig von Mises](https://en.wikipedia.org/wiki/Ludwig_von_Mises) was the first to discuss about the economic calculation problem. According to him, markets with money are the best tools to allocate resources.
 
 He spoke about capitalism, but his thoughts can be extended to [market economy](https://en.wikipedia.org/wiki/Market_economy) as a whole. In this economic model, resources are exchanged in markets using money as the means of exchange.
 
 All resources are owned by someone according to some agreement and to them is given the right to sell those resources for as much money as they see fit. How the amount is decided is out of scope, it suffice to understand that all resources will have an associated amount of money, called "price".
 
-All people in society will try to maximize their satisfaction through markets, which in this model translates in making the most profit out of each exchange.
+It is possible for the same product to be sold at different prices in the same market, usually there is no central entity dictating the price.
 
-The price is very important because it acts as a signal of what is best, a thread to follow. Money **hides complexity** and simplify all those complex information in a way we can handle.
+All people in society will try to maximize their satisfaction through markets, which in this model translates in making the most profit out of each exchange. Profit is the only way for people in market economy to increase their quality of life.
+
+Money is a cornerstone of market economy because price acts as a signal of what is best, a thread to follow when making decisions. Money **hides complexity**, simplify and in theory condense all those complex information in a way we can handle.
 
 ## Example 1: Buy a chef knife
 
+In a market economy whenever we want to buy something, we can just go to a market that sell that kind of products and chose the one we prefer.
+
 A knife produced by a skilled artisan will be of much higher quality when compared to a knife that is mass produced using cheap raw materials, hence the first one will be sold at a higher price. 
 
-As a consumer, we can compare the two knives by the tag price and assume that the first one is of higher quality and, supposing we can afford it, choose it.
+The promise of market economy is that, as a consumer, we can compare the two knives by the tag price and understand that the first one is of higher quality while having zero knowledge of its production method or anything else. Supposing we do have enough money and that we want to buy the best one, market economy will suggest to buy the artisan one.
 
-Is this always a good choice? No, it isn't. The expensive knife my require greater maintenance and because we need it just to prepare some quick meals, it would be better to buy the cheaper, low-maintenance version.
+Is this always a good choice? No, it isn't. The artisan knife may require greater maintenance and because we need it just to prepare some quick meals, it would be better to buy the cheaper, low-maintenance version.
 
 Suppose there are two knives of equivalent quality, but one is produced locally while the other is shipped from far away. In this case, the first one will be cheaper because it doesn't need to pay for long-distance transportation, hence the right choice is to buy the locally produced one.
 
@@ -69,72 +73,93 @@ That's why advertisement is all about giving people the *most appealing* informa
 
 Advertisement however will never tell buyers if the production of a product involved exploiting child labor, poisoning rivers, burning forests, and all the worst acts you can think of. Price will hide all of it, rendering the buyer a blissful ignorant, that will happily buy dangerous and unethical products just because they are cheap or trendy.
 
-In the end looking at just the price, as Mises suggested, doesn't tell us much of the story. Price may help us decide, but we still need to gather a good deal of qualitative information if we want to make the right choices and thus reach an efficient allocation.
+In the end looking at prices doesn't tell us much of the story. Price may help us decide, but we still need to gather a good deal of qualitative information if we want to make the right choices and thus reach an efficient allocation.
 
 ## Example 2: Open a bakery
 
-If we want to open a bakery in a market economy, the first thing we need to do is understand what are all the products we need and how are these products currently priced in the market. We may have an idea of what kind of production method we want to use, and perhaps explore the ingredients needed to produce different kind of bread products.
+If we want to open a bakery in a market economy, the first thing we need to do is understand what are all the products we need (inputs) and how they are currently priced in the market. We may have an idea of what kind of production method we want to use, and perhaps explore the ingredients needed to produce different kinds of bread products.
 
-We will start by looking for a location to setup our shop, evaluate if it would be better to rent a place or buy it, then we will need to build up our network to meet up with the producers that can give us a steady supply of all those goods that we need to bake our bread, such us different kind of flour, salt and perhaps water. We will need to reach out to a marketing agency to come up with a catchy store sign and perhaps prepare an event for the opening to attract more customers.
+We will start by building up our network to meet up with the producers that can give us a steady supply of all those goods we need to bake our bread, such us different kind of flour, salt and perhaps water. Then we will look for a location to setup our shop, evaluate if it would be better to rent a place or buy it. We will need to reach out to a marketing agency to come up with a catchy store sign and perhaps prepare an event for the opening to attract more customers.
+
+Then it is time to *plan* how much of each inputs we need to start our activity and how much bread we need to bake. If we are lucky and have experience in managing a bakery, we may have an idea about these initial quantities, but it is ultimately a guess, given that *we can't predict* how many clients we will catch in our net.
+
+Planning is very important, especially considering how perishable bread is: fresher we sell it, and higher would be our customer satisfaction. If we bake too much bread than we can sell in a day, each extra loaf will be wasted; bake too few, customers go out empty-handed and we lose potential income, perhaps even future ones. In both cases we lose money and thus worsen our life. Lose too much and we may have to close shop.
+
+How much and what kind product to bake is an instance of [opportunity cost](https://en.wikipedia.org/wiki/Opportunity_cost).
+
+It will be good, though not required, to probe the market to understand if there is an actual demand for the kind of bread we want to sell. Usually these can be a simple survey handed out to a sample of people living in the area. If we know there is demand, we will have a stronger start, but this isn't required because *opening our bakery may influence the desires of others*.
 
 We will find different suppliers and different locations that may be suitable to our needs, each with their own perks, issues and costs. We will note all information available, including the different prices.
 Lastly we will sum all prices up and figure out if we can actually afford it. Unless we are already rich, we will need to ask a bank for a loan. The bank will do its due diligence and if we don't look good enough, they may decide to decline the loan and our efforts will be in vain. Suppose we are lucky, we will then adapt our plan based on the money the bank is willing to give us.
 
 **Available money is the ultimate constraint that will dictate the feasibility and initial quality** of our shop in a market economy.
 
+This example highlight how important it is to have a solid credit and debt system in a market economy, otherwise we risk that only those who are already wealthy can have access to business. This is what is happening more and more in the capitalistic society we live in.
+
 Once we start, **our sustenance will be strictly bound to how much profit we can extract from our bakery**, hence we need to sell for a profit and employ all possible strategies to ensure this venture, and thus our very life, goes well.
 
-Unless we start with a lot of money or have a particularly strong network, opening a business more complex than that, like a widget factory, is almost impossible in market economy due to the prohibiting upfront costs.
+Because markets and our society always change, our business will have to follow. A good manager knows how important it is to *track* customers orders and routines. If we gather enough data, we can limit both wasted loaves and unfulfilled orders. We may see, for example, that we have many more orders on Monday, while on Thursday we have fewer and mostly during the evening. Thanks to this we can *adapt* how much and when we bake our bread.
+
+In market economy **information is key to run a successful business** and thus a secret to treasure. Not everyone have the means and skills to track information, but those who can do it in isolation due to competition.
+
 
 ## Example 3: Wheat shortage
 
-Suppose that this year society is hit by a wheat shortage. If we are lucky to live in a sensible society, there is probably wheat stashed away in view of such a disruption.
+Suppose that this year there is a wheat shortage. If we are lucky to live in a sensible society, there is probably wheat stashed away in view of such a disruption.
 
-In market economy prices will raise up, but by just a small percentage until wheat supply go back to normal levels, and so life go by as usual.
+In market economy prices will raise up, but by just a small percentage until wheat supply go back to normal levels, and so life go by as usual for most consumers.
 
-Another scenario that is plausible in that those who can afford will buy way more wheat than they need, making the shortage even worse. This is what a speculation is: we *invest* now expecting we will make more money in the future. This future profit is the so-called ROI: "return of investment".
+Another scenario that is plausible in that those who can afford will buy as much wheat as they can, making the shortage even worse. This is what a speculation is: *invest* now expecting to make more money in the future. This future profit is the so-called ROI: "return of investment".
 
-Such practice will indeed raise the price of wheat faster than it should, allowing the speculators to sell it back at higher price and make a nice, easy profit.
+Such practice will indeed raise the price of wheat faster than it should, allowing speculators to sell it back at higher price and make a nice, easy profit.
 
 The impact on society can be quite bad. Higher the price of wheat, fewer people will be able to access all those products that depends on it. Considering that this is a primary good, the impact can be severe.
 
-Whenever there is a raise in price of an input (i.e: a product used to produce other products), the common behavior is for producers to increase the price of their products accordingly. Going back back to the bakery example, if the cost of wheat increase by 10%, we will just increase all our products by 10%. Our customers will decide what's best for them and if the new price is still ok.
+Whenever there is a raise in price on an input (i.e: a product used to produce other products), the common behavior is for producers to increase the price of their products accordingly. Going back to the bakery example, if the cost of wheat increases by 10%, we will increase all our products by 10%. Our customers will decide what's best for them and if the new price is still ok.
 
-Once the price increases too much, more and more customers will look for an alternative, and perhaps decide to start buying spelt bread. Those bakeries that already produce spelt bread will see a raise in profits, while those who don't will need to quickly adapt their supply to meet the change in demand. Those who don't adapt, risk to go bankrupt.
+Once the price increases too much, more and more customers will look for an alternative, and perhaps decide to start buying spelt bread. Those bakeries that already produce spelt bread will see a raise in profits, while those who don't will need to quickly adapt their supply to meet the change in demand. Those who don't adapt may risk bankruptcy.
 
-The greater demand will also increase the price of spelt flour, hence it is possible for those bakeries that don't have a strong network to be out of the game.
+The greater demand will also increase the demand of spelt flour, hence it is possible for those bakeries that don't have a strong network to be out of the game if they wait too much.
 
 Another consideration is that the first to be affected will be people with low income, and so bakeries in low-income areas will have to be quick to adapt. In richer areas bakeries may keep producing wheat bread, strong that their costumer will buy it even at the increased price.
 
 As you can see, **luck is a strong element in market economy**: all businesses influenced by spelt will see an increase in profits without having done anything different than before, while does in rich areas stay safe thanks to their privileged position.
 
-Because more and more people will shift to spelt-based products, the demand for wheat-based products will decrease and the price will follow. Speculators will have to sell the remaining grains very fast, otherwise they may incur in a loss rather than a profit. Information and market understanding, plus some luck, is essential for speculations: once the price goes down it's already too late.
+Because more and more people will shift to spelt-based products, the demand for wheat-based products will decrease and the price will follow. Speculators will have to sell the remaining grains very fast, otherwise they may incur in a loss rather than a profit. Information and market understanding, plus some luck, is essential in speculations: once the price goes down it's already too late.
 
-If shortage last for long and price stay high, more farmers will replace part of their production to wheat, hoping to increase their profits. If too many people do that, supply may increase too much and many will incur a loss. Those who lost money will then replace wheat for something else, supply and demand will be closer and price will fluctuate again. 
+If the shortage last for too long and price stay high, more farmers will replace part of their production to wheat, hoping to increase their profits. If too many people do that, supply may increase too much and many will incur a loss. Those who lost money will then replace wheat for something else, supply and demand will be closer and price will fluctuate again. 
 
-In theory, a market can reach a point of equilibrium where demand is exactly equal to supply, meaning that all the wheat produced is consumed but no more. Due to all the influences in society, equilibrium is never reached.
+In theory, a market can reach a point of equilibrium where demand is exactly equal to supply, meaning that all the wheat produced is consumed but no more. In practice equilibrium is never reached due to the fickle nature of markets.
 
-Through this example we can see how all the **decisions of different individuals, devoid of any external coordination, will come together** an drive the market in a certain direction, **adapting to the vagaries of their environment and contrasting desires**.
+Mises suggests that by looking at the increase in price of spelt flour, an attentive business owner will imply the higher demand of spelt bread and thus adapt. In practice it isn't as simple. First, the correlation isn't certain and spelt flour's price may increase due to other factors, perhaps the drought hit an area that produced both wheat and spelt. Even supposing the correlation with spelt bread consumption, it isn't enough to ensure that people in our area will actually buy it. **We will need to know our clientele and gather further information to effectively make a good decision**.
+
+Even the increase in wheat price isn't enough to trigger a change in production, a good business owner will try to understand why it increased and if they have to prepare for a plan B, rather than passively wait for customers to go away.
+
+Nonetheless this example shows how all the **decisions of different individuals, devoid of any external coordination, will come together** an drive the market in a certain direction, **adapting production to the vagaries of their environment and desires**.
 
 # Allocation in Planned Economy
 
-[Planned economy](https://en.wikipedia.org/wiki/Planned_economy) was popularized by the socialist movement. It may be centralized or decentralized, but in both cases the goal is to create an economic-wide plan to enact in a certain time-span.
+[Planned economy](https://en.wikipedia.org/wiki/Planned_economy) was popularized by the socialist movement. It may be centralized or decentralized, but in both cases the goal is to create an economic-wide plan to execute in a certain time-span.
 
 An economic-wide plan states what the society commits on producing and thus consuming: from shoes to bombs, all should be in the plan. Once the time-span elapsed, a new plan is made taking in consideration all the changes happened in society and how well we did in the previous one.
 
-The centralized version is what Mises strictly criticized when he came up with the economic calculation problem. This version indeed doesn't scale given that the amount of information necessary is way to big to be managed by just a limited group of people.
+The centralized version is what Mises harshly criticized, and for a good reasons, when he came up with the economic calculation problem. This version indeed doesn't scale given that the amount of information necessary is way to big to be managed by just a limited group of people.
 
-Special mention goes to [Leonid Kantorovich](https://en.wikipedia.org/wiki/Leonid_Kantorovich) who pioneered and focused on [calculation in-natura](https://en.wikipedia.org/wiki/Calculation_in_kind), coming up with the linear programs as a possible way to solve the allocation problem in an algorithmic way. The understanding that we can optimize production efficiency under certain conditions through the use of an algorithm is very important, however it solves only one aspect of resources allocation given that we still need to know *what* and *how much* to produce.
+Special mention goes to [Leonid Kantorovich](https://en.wikipedia.org/wiki/Leonid_Kantorovich) who pioneered and focused on [calculation in-natura](https://en.wikipedia.org/wiki/Calculation_in_kind), coming up with [linear programming](https://en.wikipedia.org/wiki/Linear_programming) as a possible way to solve the allocation problem in an algorithmic way. Understanding that we can optimize production efficiency under certain conditions through the use of an algorithm is very important, however it solves only one aspect of resources allocation given that we still need to know *what* and *how much* to produce.
 
 The decentralized planned economy is more interesting. All people will contribute to the plan, increasing the amount of knowledge available and thus increasing its feasibility. We will focus on [participatory economics](https://en.wikipedia.org/wiki/Participatory_economics) in particular.
 
-In participatory economics (parecon from now on), we still have a price that it is decided according to the plan. The economic power of each individual is based on how much they are willing to *sacrifice*. During planning, an average amount of *sacrifice* is established, then everyone who decide to sacrifice more than that will be better compensated and vice versa.
+In participatory economics (parecon from now on), we still have a price that it is decided according to the plan. The economic power of each individual is based on how much *effort* they are willing to contribute. During planning, an average amount of *effort* is established, then everyone who decide to contribute more than that will be better compensated and vice versa.
 
-Sacrifice in parecon is based on the amount of hours worked on what kind of activity. Hazardous jobs such as a mining will be graded higher and thus we can work fewer hours to reach the average sacrifice.
+Effort in parecon is based on the amount of hours worked on what kind of activity. Hazardous jobs such as a mining will be graded higher and thus we can work fewer hours to reach the average sacrifice.
 
-Another important aspect is that jobs will be distributed in such a way that every person can experience different position and kind of works. In each period, a mix of administrative and more manual jobs should be handed out.
+Another important aspect is that jobs will be distributed in such a way that every person can experience different position and kind of works. In each period, a mix of empowering and rote work will be handed out. In parecon this is called a "job complex" and it is part of the plan.
 
-This arrangement should guarantee a more homogeneous wealth distribution.
+This arrangement should guarantee a more homogeneous wealth distribution when compared to market economy.
+
+Society in parecon is organized in councils supervising different aspects of it. Councils have a nested nature: the consumers council will be organized by neighborhood, city, ward, state and the nation; the workers council may be by team, units, divisions workplace and industry. Each person will belong to different councils. Parecon stay flexible on how agreements is reached in the councils and it will be up to society to decide. Different methodologies may be used for different problems, for example majority vote could be used for a problem with low impact, while consensus may be used in a team to hire a new teammate.
+
+Ultimately the focus is to ensure that people who are impacted by decisions have a saying on it.
 
 ## Example 1: Buy a chef knife
 
