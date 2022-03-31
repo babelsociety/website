@@ -197,7 +197,7 @@ That's why in a society heavily built around markets, progress will be further h
 
 # Issues: the root cause
 
-All the issues so far discussed stems from a single design decision that all variations of Market Economy abide to: **the quality of life of an individual is strictly bound by how good of a seller they are**.
+All the issues so far discussed stems from a single design decision that all variations of Market Economy abide to: **an individual's quality of life is strictly bound to how good of a seller they are**.
 
 Let's analyze what it means.
 

@@ -65,15 +65,17 @@ Suppose there are two knives of equivalent quality, but one is produced locally 
 
 However in the first case price cued us about quality, hence we may wrongly assume that the imported knife is better and buy it even though it isn't. We may also be tricked into the wrong choice by other factors, to name a few, packaging, branding and advertisement.
 
-It should be clear now how hiding information doesn't come for free. The act of hiding disconnect buyers from the actual product, so much that when we look at two products the only information truly available is its price. In theory price should encompass all the nuanced desires present in society, but in practice it is so easy to influence and manipulate that it has no meaning.
+It should be clear now how hiding information doesn't come for free. The act of hiding disconnect buyers from the actual product, so much so that when we look at two products the only information truly available is its price. In theory price should encompass all the nuanced desires present in society, but in practice it is so easy to influence and manipulate that it has no meaning.
 
-It is natural for people to search for more information when buying something, and higher the relative price, greater will be the research effort.
+It is natural for people to search for more information when buying something, and higher the relative cost, greater should be the research effort.
 
-That's why advertisement is all about giving people the *most appealing* information: an environmentalist will be happy to buy vegetables produced through ecologically friendly techniques, even though the price is much higher than it should be.
+That's why advertisement is all about giving people the *most appealing* information: an environmentalist will be happy to buy vegetables produced through ecologically-friendly techniques, even though the price is much higher than it should be.
 
 Advertisement however will never tell buyers if the production of a product involved exploiting child labor, poisoning rivers, burning forests, and all the worst acts you can think of. Price will hide all of it, rendering the buyer a blissful ignorant, that will happily buy dangerous and unethical products just because they are cheap or trendy.
 
 In the end looking at prices doesn't tell us much of the story. Price may help us decide, but we still need to gather a good deal of qualitative information if we want to make the right choices and thus reach an efficient allocation.
+
+Even those who would like to put in the effort and educate themselves, will have a very hard time digging the truth due to all the misleading information and cover ups.
 
 ## Example 2: Open a bakery
 
@@ -105,21 +107,19 @@ In market economy **information is key to run a successful business** and thus a
 
 ## Example 3: Wheat shortage
 
-Suppose that this year there is a wheat shortage. If we are lucky to live in a sensible society, there is probably wheat stashed away in view of such a disruption.
+Suppose that this year there is a wheat shortage. If we are lucky to live in a sensible society, there is probably wheat stashed away in view of such disruption.
 
-In market economy prices will raise up, but by just a small percentage until wheat supply go back to normal levels, and so life go by as usual for most consumers.
+In market economy prices will raise, but by just a small percentage and until wheat supply go back to normal levels, so life go by as usual for most consumers.
 
-Another scenario that is plausible in that those who can afford will buy as much wheat as they can, making the shortage even worse. This is what a speculation is: *invest* now expecting to make more money in the future. This future profit is the so-called ROI: "return of investment".
+Another plausible scenario is that those who can afford will buy as much wheat as they can, making the shortage even worse. This is called speculation: *invest* now expecting to make more money in the future. This future profit is the so-called ROI: return of investment.
 
-Such practice will indeed raise the price of wheat faster than it should, allowing speculators to sell it back at higher price and make a nice, easy profit.
+Such practice will raise prices even faster than it should, allowing speculators to sell it back at higher price and make a nice, easy profit.
 
-The impact on society can be quite bad. Higher the price of wheat, fewer people will be able to access all those products that depends on it. Considering that this is a primary good, the impact can be severe.
+Higher the price of wheat, fewer people will be able to access all those products that depends on it. Considering that this is a primary good, the impact on society can be severe.
 
 Whenever there is a raise in price on an input (i.e: a product used to produce other products), the common behavior is for producers to increase the price of their products accordingly. Going back to the bakery example, if the cost of wheat increases by 10%, we will increase all our products by 10%. Our customers will decide what's best for them and if the new price is still ok.
 
-Once the price increases too much, more and more customers will look for an alternative, and perhaps decide to start buying spelt bread. Those bakeries that already produce spelt bread will see a raise in profits, while those who don't will need to quickly adapt their supply to meet the change in demand. Those who don't adapt may risk bankruptcy.
-
-The greater demand will also increase the demand of spelt flour, hence it is possible for those bakeries that don't have a strong network to be out of the game if they wait too much.
+Once the price increases too much, more and more customers will look for an alternative, and perhaps decide to start buying spelt bread. Those bakeries that already produce spelt bread will see a raise in profits, while those who don't may earn less and perhaps risk bankruptcy. 
 
 Another consideration is that the first to be affected will be people with low income, and so bakeries in low-income areas will have to be quick to adapt. In richer areas bakeries may keep producing wheat bread, strong that their costumer will buy it even at the increased price.
 
@@ -149,15 +149,17 @@ Special mention goes to [Leonid Kantorovich](https://en.wikipedia.org/wiki/Leoni
 
 The decentralized planned economy is more interesting. All people will contribute to the plan, increasing the amount of knowledge available and thus increasing its feasibility. We will focus on [participatory economics](https://en.wikipedia.org/wiki/Participatory_economics) in particular.
 
-In participatory economics (parecon from now on), we still have a price that it is decided according to the plan. The economic power of each individual is based on how much *effort* they are willing to contribute. During planning, an average amount of *effort* is established, then everyone who decide to contribute more than that will be better compensated and vice versa.
+In participatory economics (parecon from now on), we still have a price, which changes based on proposed production consumption while writing the plan. The economic power of each individual is based on how much *effort* they are willing to contribute. During planning, an average amount of *effort* is established, then everyone who decide to contribute more than that will be better compensated and vice versa.
 
-Effort in parecon is based on the amount of hours worked on what kind of activity. Hazardous jobs such as a mining will be graded higher and thus we can work fewer hours to reach the average sacrifice.
+Effort in parecon is based on the amount of hours worked on what kind of activity. Hazardous jobs such as mining will be graded higher and thus we can work fewer hours to reach the average effort.
+
+The whole society participate in coming up with the plan, and there are several rounds of decisions before finalizing it.
 
 Another important aspect is that jobs will be distributed in such a way that every person can experience different position and kind of works. In each period, a mix of empowering and rote work will be handed out. In parecon this is called a "job complex" and it is part of the plan.
 
 This arrangement should guarantee a more homogeneous wealth distribution when compared to market economy.
 
-Society in parecon is organized in councils supervising different aspects of it. Councils have a nested nature: the consumers council will be organized by neighborhood, city, ward, state and the nation; the workers council may be by team, units, divisions workplace and industry. Each person will belong to different councils. Parecon stay flexible on how agreements is reached in the councils and it will be up to society to decide. Different methodologies may be used for different problems, for example majority vote could be used for a problem with low impact, while consensus may be used in a team to hire a new teammate.
+Society in parecon is organized in councils supervising different aspects of it. Councils have a nested structure: the consumers council will be organized by neighborhood, city, ward, state and the nation; the workers council may be organized by team, units, divisions, workplace and industry. Each person can belong to many councils. Parecon stay flexible on how agreements is reached in the councils at each level, it will be up to society to decide. Different methodologies may be used for different problems, for example majority vote could be used for a problem with low impact, while consensus may be used in a team to hire a new teammate.
 
 Ultimately the focus is to ensure that people who are impacted by decisions have a saying on it.
 
@@ -165,49 +167,107 @@ Ultimately the focus is to ensure that people who are impacted by decisions have
 
 During planning phase we will have to communicate to our neighborhood that we want a knife, specifying also why we need it and possibly the quality of it.
 
-According to how the plan goes, we may renounce to it to keep more of a different products, but supposing society as a whole have enough capacity to produce it, then our desire will be granted and the knife delivered once the next period starts and whenever it is ready.
+According to how the plan goes, we may renounce to it to keep more of a different product, but supposing society as a whole have enough capacity to produce it, then our desire will be granted and the knife delivered once the next period starts and whenever it is ready.
 
-Depending on how much the knife we are interested into is valued, we may also decide to work more in this year to be able to afford them.
+Depending on how much the knife is valued, we may decide to work more this year to be able to afford it.
 
 Even though our wish is granted, there is a slight chance we will not receive the knife. For example, there is a sudden war in a country and metals supply is cut down. It doesn't matter how good is a plan, there is always the chance for it to go wrong, especially those with a big time-span.
 
 Admittedly, this isn't an big problem given that we can ask for it again next time.
 
-Something unclear in parecon is what happens if a good is so expensive that doesn't matter how much we sacrifice, we will probably can't afford it, such as a new car or a nice piano. It is also unclear if we can accumulate wealth.
+If our knife just happen to break, we could immediately request a new one. If we are lucky, somebody else may renounce to it for some reason, or perhaps there are some spare ones, thus the plan doesn't need to be changed that much.
 
-All in all, buying the right knife is much more straightforward then in market economy, given that nobody wants to profits from our ignorance.
+All in all, buying the right knife is much more straightforward then in market economy, given that nobody wants to profits from our ignorance, but rather are more interested in striking the best balance between resources consumed and quality.
 
 ## Example 2: Open a bakery
 
+In parecon new shops are opened based on the plan. Suppose that there has been a greater demand for bread and society decided that a new bakery is due.
+
+Because the plan is done starting at the neighborhood level, we can see on which area the demand is greater than the supply and thus understand where it is best to open the bakery.
+
+After that we will shift work schedules to account for the jobs it will provide and design the supply line to build it up. Because we know how much the demand differs from the offer, we also have a good understanding of how much inputs we need.
+
+It is important to see how the main motivation shifts from making a profit in market economy to caring for an actual need in parecon.
+
+Instead of being limited by the amount of money available to those who want to start the business, the limit is what the community can provide. Hence, we will build the bakery using the best tools and techniques available.
+
+On the other hand, it isn't as straightforward to start a new business. The first reaction to an increase in bread consumption would be to increase the price of it, and try to balance the plan to substitute bread for an equivalent good. It may even be that bread doesn't figure in the plan and is instead included in a broader category, thus the need may hidden away. **The good part is that those interested in improving bread production can bring the discussion to the appropriate council**.
+
+Those who would like to experience working on a bakery will have an easier time to do so, as the varied nature of job complexes encourage having different kind of work.
+
+Even though we have an idea of how much bread will be consumed, there is no indication of *when* it will happen nor any guarantee. Given that bread have a short shelf-life, we still need to *track* our customers' routine to ensure we don't overproduce and waste resources. Only by *adapting* our production according to our environment we can limit waste.
+
+During its life the bakery will go over many plans and evolve accordingly. There is no single ownership of it, but rather it belongs to society. In the future society may decide that this bakery isn't needed anymore and that's fine, because everyone who works there will be redirected to some other job.
+
+Here we can see that unemployment isn't an issue in parecon, rather it will utilize 100% of its working capacity.
+
 ## Example 3: Wheat shortage
 
-Even if the wheat shortage happens after the plan is already
+In case there is a wheat shortage in parecon, prices for related goods will increase proportionally, similar to what would happen in a market economy.
+
+However councils will have a better picture of whats going on and society will be able to prioritize usage of wheat for goods that are more important, such as those that cannot be easily substituted.
+
+Speculation within the economy has no reason to exist in parecon, hence we have one less issue.
+
+If the shortage is internal, for example due to a severe drought, producers may be able to inform people in a promptly manner.
+
+Even if the plan is in execution, we can review and adapt it. There is a lot of work involved in changing the plan, hence it will be done only for severe cases.
+
+The shortage burden will be spread across the whole population and everyone will have to play their role to easy the issue, adjusting their eating habits if necessary. There will still be people that have more wealth and that can afford more wheat-products, however the difference shouldn't be meaningful.
+
+# Babel Economy
+
+Now that we have a high-level overview of what different economic models work and offer, let's dig into Babel economic model.
+
+## Main purpose
+
+The main goal of Babel economy it is to provide an economic model that best suit the kind of society we want to build. Instead of letting economy shape our society, we want the opposite, we want the value of our society to be clearly reflected on how the economy is run.
+
+Indeed, we have little interest in perfect allocation of resources if the result is a society full of misery and suffer.
+
+We want an economic models that reflects all of the [core values](@/content/manifesto/index.md#core-values), hence it should be decentralized, inclusive and collaborative.
+
+## Why not market economy?
+
+[Market economies have serious flaws](@content/blog/beyond-market-economy/index.md), all caused by a single design decision:
+
+> an individual's quality of life is strictly bound to how good of a seller they are
+
+This highly individualistic economic model is the cause of a plethora of social issues and therefore incompatible with our core values.
+
+## Why not participatory economics?
+
+The most important design decision in parecon is that:
+
+> an individual's quality of life depends on how much effort they'll contribute to society
+
+This is already much better when compared to market economy, and indeed we believe it would result in a better society, but there are still issues. For once, how could we objectively judge the effort of an individual?
+
+From this decision stems job complexes. We would need to quantify (i.e. attach a number) to how empowering is a particular job. Parecon suggests that dedicated councils should grade all jobs, reviewing it over time, until we will reach a good balance.
+
+We will then derive an average effort level based on which we will remunerate workers. Here we can see that having a high average effort level can be problematic given that we would need to work more, thus there is a risk to downplay empowering jobs and overplay rote works. This would in fact sway more people into rote work and keep empowering jobs to those interested in manipulating society.
+
+Supposing a good balance is achievable, this doesn't consider that different people have different attitudes; what one find enjoyable and easy, for another it could be stressful. It in some sense contrast our [authenticity](@/content/manifesto/index.md#authenticity) core value. We have once again the issue that people with certain aptitudes will be rewarded more than others.
+
+In this case, great talents may even be hindered because they would have to spend time doing unrelated work, limiting their full potential.
+
+Nonetheless, we would forego all these problems if it wasn't for the heavy bureaucracy involved at every level. As they say, the devil is in details. Bureaucracy introduce complexity, and complexity introduce possible exploitation from those who have better grasp over it. On the long run, even small differences can grow larger. We wouldn't be surprised if some parecon would degrade resembling administrative economies.
+
+Planning is great on paper, but desires tend to be spontaneous, hence having to establish a priori what to consume every year can be a daunting task.
+
+Parecon falls short due to its desire to reward different people differently and doing so in the most just way. This is a Sisyphean errand.
+
+## Track & Adapt
+
+Even though market and planned economics are antipodes, the attentive reader may have noticed that there are stark similarities on how businesses are run.
+
+It doesn't matter the chosen economic model, whenever we want to produce something we must chose the production method, which in turn will dictate inputs, outputs and final quality of our product.
+
+How to chose depends in part on our environment and the resources available. We already said that our environment will change over time, hence it is essential to **track** how well we are doing, and use these data to **adapt** our production to stay relevant in our environment.
+
+Babel economy make this truth its main ingredient.
 
 
-
-
-Despite their efforts, keeping track of all the different resources wasn't easy and even though this model may give better results on a small set of resources, it isn't applicable on a large scale. Plus it employed a central authority, which severely limits the freedom of all members in a society.
-
-A more modern attempt is [participatory economics](https://en.wikipedia.org/wiki/Participatory_economics), which is a form of distributed planned economy.
-Even though it is more distributed, it still needs to know how much of each resource will be consumed in society, which in our opinion contrast the spontaneous nature of human beings and therefore it is unpractical.
-
-A lot of ink has been consumed in discussing how to best distribute resources in a society, of particular interest is the "[Economic calculation problem](https://en.wikipedia.org/wiki/Economic_calculation_problem)".
-
-We will now have a look at the two most discussed ways, that are somehow opposed in their nature: market economy and planned economy.
-
-
-Now, let's talk about money. Many consider it as the corner stone of our society, essential to our very life.
-
-It is an ancient invention, being already in use since at least the 1760 BC by the Babylonians.
-
-Money did propel trade and commerce when it was first introduced, because it simplify it and allow for more complex transactions.
-
-This simplification comes at a cost: all different resources are replaced by money in the decision process. We therefore **lose information**.
-
-Until recently, it was beneficial because basing our calculation upon one single unit increased our overall capacity of making good decisions.
-
-
-# 
 
 It doesn't matter what economic system is used, **when we want to produce something it all boils down to inputs and outputs**.
 
