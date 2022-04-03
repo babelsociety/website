@@ -9,9 +9,9 @@ draft = true
 
 In this article we will analyze more in depth Babel Economy, we will explain the reason behind this model, how it works and what challenges we may expect.
 
-If you are only interested in understanding how it works, start from [here](#here).
+If you are only interested in understanding how it works, start from [here](#babel-economy).
 
-# Managing resources
+# Managing scarce resources
 
 In the words of French economist and politician Raymond Barre:
 
@@ -215,17 +215,28 @@ Even if the plan is in execution, we can review and adapt it. There is a lot of 
 
 The shortage burden will be spread across the whole population and everyone will have to play their role to easy the issue, adjusting their eating habits if necessary. There will still be people that have more wealth and that can afford more wheat-products, however the difference shouldn't be meaningful.
 
-# Babel Economy
+# Main purpose {babel-economy}
 
-Now that we have a high-level overview of what different economic models work and offer, let's dig into Babel economic model.
+Now that we have a high-level overview of what different economic models offer and how they work, let's dig into Babel's economic model.
 
-## Main purpose
-
-The main goal of Babel economy it is to provide an economic model that best suit the kind of society we want to build. Instead of letting economy shape our society, we want the opposite, we want the value of our society to be clearly reflected on how the economy is run.
+The main goal of Babel economy it is to provide an economic model that best suit the kind of society we want to build. Instead of letting economy shape our society we do the opposite, **we let our values shape the economy**.
 
 Indeed, we have little interest in perfect allocation of resources if the result is a society full of misery and suffer.
 
-We want an economic models that reflects all of the [core values](@/content/manifesto/index.md#core-values), hence it should be decentralized, inclusive and collaborative.
+Our [core values](@/content/manifesto/index.md#core-values) are the foundation of our economic system, with particular emphasis on decentralization, integration and collaboration. We applied to economy one of the golden rules of software design: make wrong states irrepresentable; we want a system where it is impossible (or at least very hard) to corrupt and exploit, without poverty, one where violent criminal activities such as murder and theft are unmotivated. We want an economy where people can thrive and become the best versions of themselves.
+
+Spoiler alert: the result is nothing new, greatly similar to what anarcho-communists popularized in early XX century.
+
+Taking all in consideration, our main design decision is:
+
+> an individual's quality of life is strictly bound to society's quality of life
+
+This means that by improving our life, we will automatically improve other people's life too.
+
+We believe this formula plays well with the different aspects of human nature, for example both egoism and altruism can be put up to good work in this model.
+
+We believe every emotion and aspect of human nature is important, every sentiment necessary, worth to have and explore. Our job is to balance and harmonize our multifaceted nature into a beautiful character. Like in music, a beautiful melody isn't one composed by only high or low notes, but rather one where all have their place and time, skillfully orchestrated into a delightful opera.
+
 
 ## Why not market economy?
 
@@ -237,37 +248,119 @@ This highly individualistic economic model is the cause of a plethora of social 
 
 ## Why not participatory economics?
 
-The most important design decision in parecon is that:
+The fundamental design decision in parecon is that:
 
 > an individual's quality of life depends on how much effort they'll contribute to society
 
-This is already much better when compared to market economy, and indeed we believe it would result in a better society, but there are still issues. For once, how could we objectively judge the effort of an individual?
+This is much better when compared to market economy, and indeed we believe it would result in a better society, but there are still issues. For once, how could we objectively judge the effort of an individual?
 
-From this decision stems job complexes. We would need to quantify (i.e. attach a number) to how empowering is a particular job. Parecon suggests that dedicated councils should grade all jobs, reviewing it over time, until we will reach a good balance.
+Job complexes try to answer that: quantify (i.e. attach a number) how empowering is a particular job. Parecon suggests that dedicated councils should grade all jobs, reviewing it over time, until we reach a good balance. We then derive an average effort level based on which we remunerate workers. But there is no objective way to judge empowerment, hence it can be exploited and manipulated in such a way to give greater advantages to a group to the detriment of another.
 
-We will then derive an average effort level based on which we will remunerate workers. Here we can see that having a high average effort level can be problematic given that we would need to work more, thus there is a risk to downplay empowering jobs and overplay rote works. This would in fact sway more people into rote work and keep empowering jobs to those interested in manipulating society.
+Great talents may even be hindered because they would have to spend time doing unrelated work, limiting their full potential.
 
-Supposing a good balance is achievable, this doesn't consider that different people have different attitudes; what one find enjoyable and easy, for another it could be stressful. It in some sense contrast our [authenticity](@/content/manifesto/index.md#authenticity) core value. We have once again the issue that people with certain aptitudes will be rewarded more than others.
+Nonetheless, we would endure these problems if it wasn't for the heavy bureaucracy involved at every level and the emphasis on grading people. As they say, the devil is in details.
 
-In this case, great talents may even be hindered because they would have to spend time doing unrelated work, limiting their full potential.
+Bureaucracy often introduces accidental complexity, and complexity is prone to exploitation from those who have better grasp over it. On the long run, even small differences can grow larger. We wouldn't be surprised if a parecon would degrade into a [command economy](https://en.wikipedia.org/wiki/Administrative-command_system).
 
-Nonetheless, we would forego all these problems if it wasn't for the heavy bureaucracy involved at every level. As they say, the devil is in details. Bureaucracy introduce complexity, and complexity introduce possible exploitation from those who have better grasp over it. On the long run, even small differences can grow larger. We wouldn't be surprised if some parecon would degrade resembling administrative economies.
+Parecon's desire to reward different people differently, notwithstanding their strive for the most just way, it is not only a Sisyphean endeavor, but a perilous one: it embraces the idea that people should be graded and divided, it justify that some should have more than others, that some *deserve* better.
 
-Planning is great on paper, but desires tend to be spontaneous, hence having to establish a priori what to consume every year can be a daunting task.
+# Moral desert
 
-Parecon falls short due to its desire to reward different people differently and doing so in the most just way. This is a Sisyphean errand.
+In Babel we reject the idea that individuals should be limited by society's constructs on what they can achieve. We reject meritocracy. We reject that some people deserve more than others.
 
-## Track & Adapt
+We do that while being fully committed on authenticity, on promoting that every person has their own peculiarities and different attitudes, each worthy of their existence.
+
+# Track & Adapt
 
 Even though market and planned economics are antipodes, the attentive reader may have noticed that there are stark similarities on how businesses are run.
 
 It doesn't matter the chosen economic model, whenever we want to produce something we must chose the production method, which in turn will dictate inputs, outputs and final quality of our product.
 
-How to chose depends in part on our environment and the resources available. We already said that our environment will change over time, hence it is essential to **track** how well we are doing, and use these data to **adapt** our production to stay relevant in our environment.
+How to chose depends in part on our environment and the resources available. As we said, our environment will change over time, hence it is essential to **track** how well we are doing, and use these data to **adapt** our production to keep and improve efficiency.
 
-Babel economy make this truth its main ingredient.
+Babel economy wants to liberate this truth from any accidental complexity and maximize its effectiveness.
+
+Thanks to Babel decentralized network infrastructure, we will electronically **track** all the resources produced and consumed by both producers and individual consumers. All data will be organized geographically and freely accessible by anyone.
+
+Thanks to this information, individual producers will have a clear understanding of the whole economy at different granularity levels, making them the best people to decide on how to **adapt** their production line.
+
+As you may notice, this system in principle isn't much different than parecon, but we avoid all the complexity involved in planning.
+
+# Resources allocation
+
+Still the question remains: how we'll allocate different resources?
+
+Remember that our main design decision impose that *an individual's quality of life is strictly bound to society's quality of life*, thus the most natural way to allocate resources is for **everything** to be **shared and freely accessible**, both the means of production and the results of our effort.
+
+This may sound utopian and idealistic, especially to those who grow up in a capitalistic society. On the other hand, those familiar with communism philosophy will be right at home.
+
+Times are changing and thanks to technological improvements, we can achieve it. Let us further explain how we organize consumption and production.
+
+## Consumption
+
+We said that one's desires are infinite and yet we allow everyone to consume as they please; isn't it a mad recipe for shortages and bloody conflicts? We need to dig deeper.
+
+It is true that we have infinite desires, however when we look at a single resource, **our desire towards it is finite**. We may crave an apple now, but once we get it our desire is satisfied, we don't need an infinite amount of apples. If we can access apples whenever we want, there is no need to hoard them, actually that will require more effort: we need storage space, to transport them and dispose those that rot away.
+
+The real issue is when we *perceive* that there aren't enough apples to satisfy everyone: the *fear* of missing out can bring out our worst behaviors. This is what we need to solve.
+
+In Babel we have several mechanisms to cope with that.
+
+### Prediction
+
+Because we track everything, once we accrue enough data we can statistically predict future consumption for each product and adapt our production accordingly.
+
+To improve prediction, it is especially important to track all missed consumption, i.e. all those instances where we couldn't get enough of a good.
+
+Statistics, linear programming, artificial intelligence and all other tools we will come up with in the future can greatly help us refine our production lines, but **it is ultimately up to producers to decide on how to do their job**. The good part is that *we* are all producers; more on this on [Production](#production).
+
+### Soft limits
+
+In case it isn't possible to increase production, then we can limit how much a person consumes.
+
+Thanks to all information available, society can get together and come up with a good limit per person, in accordance with the needs of those interested in a product (demand) and those who produce it (supply).
+
+It is paramount that all the interested people (consumers and producers) participate in setting up and agree on the actual limit. This ensures that everyone will be ok and follows it.
+
+For example, we could agree to a limit of 1kg apples per week per person. Because consumption is tracked at individual level, it is easy to set it up.
+
+However data can't predict future, hence **it must be a soft limit**. It is inevitable that some people will consume less than 1kg, while others will crave for more. If we impose a strict limit, on the same day we will have both unsatisfied people and apples left to rot. Unsatisfied people will perceive it as a shortage and thus we wouldn't have solved much. We don't want to push people into theft, but rather prevent it.
+
+**The limit should be considered as an indication that we are over-consuming** and that we should adjust our behavior. We can also use social pressure to further reinforce this sentiment.
+
+After a while, we can revise the limit and eventually address cases of severe over-consumption at social level.
+
+### Preorders
+
+There may be goods that take time to produce or aren't suited for mass production. For example, we only need a set amount of smartphones at a given time. Instead of overproducing them, with the risk of wasting precious resources on a model that may soon be obsolete, we can place an order whenever we need it.
+
+As everything in Babel, waiting lists are transparent, everyone can see their place in it and the system may also estimate how long it will take before we receive the goods.
+
+All orders are fulfilled on a first come, first served manner. Depending on the nature of the goods, it may be shared across all producers (standard production method) or be specific to a single shop (custom made products).
+
+This strategy is flexible and can be applied to all goods. For example, we can book a table on our preferred restaurant on a given date, as we can set reserve 1kg apples for next Thursday, etc...
+
+Preorders and estimated waiting time are important indicators to adjust production.
+
+### Conclusions
+
+All mechanisms work well together, and it will be very common to setup a limit while working on production improvements.
+
+**By applying this logic for each and every product we are efficiently limiting our infinite desires while directing production.**
+
+## Production
+
+We mentioned that an economy main objective is to satisfy in the best possible way the desires of people. **It is therefore desires that will drive productions**.
+
+In Babel more than in other societies, there is an emphasis in materializing what you want, while society will contribute to make it happen.
+
+Suppose we are passionate about chairs made in wood, with a nice look & feel, chairs that we may consider by today standards as luxurious. Suppose there isn't much demand as a whole, hence **both in parecon and market economy this would be a very hard business to support**.
+
+In Babel we can open a project explaining our idea, and once we gather the right skills to produce such chairs, that's it. Because there is low-demand, we don't need to mass produce, hence we need simpler tools and fewer materials to start it up. We will discuss more in depth how 
 
 
+
+------------
 
 It doesn't matter what economic system is used, **when we want to produce something it all boils down to inputs and outputs**.
 
