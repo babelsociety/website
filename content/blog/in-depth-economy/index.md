@@ -219,23 +219,25 @@ The shortage burden will be spread across the whole population and everyone will
 
 Now that we have a high-level overview of what different economic models offer and how they work, let's dig into Babel's economic model.
 
-The main goal of Babel economy it is to provide an economic model that best suit the kind of society we want to build. Instead of letting economy shape our society we do the opposite, **we let our values shape the economy**.
+The main goal of Babel economy it is to provide an economic model best suited to the society we want to build. Instead of letting economy shape our society we do the opposite, **we let our values shape the economy**.
 
 Indeed, we have little interest in perfect allocation of resources if the result is a society full of misery and suffer.
 
-Our [core values](@/content/manifesto/index.md#core-values) are the foundation of our economic system, with particular emphasis on decentralization, integration and collaboration. We applied to economy one of the golden rules of software design: make wrong states irrepresentable; we want a system where it is impossible (or at least very hard) to corrupt and exploit, without poverty, one where violent criminal activities such as murder and theft are unmotivated. We want an economy where people can thrive and become the best versions of themselves.
+Our [core values](@content/manifesto/index.md#core-values) are the foundation of our economic system, with particular emphasis on decentralization, integration and collaboration. We applied to economy one of the golden rules of software design: make wrong states irrepresentable; we want a system where it is impossible (or at least very hard) to corrupt and exploit, without poverty, one where violent criminal activities such as murder and theft are unmotivated. We want an economy where people can thrive and become the best versions of themselves.
 
-Spoiler alert: the result is nothing new, greatly similar to what anarcho-communists popularized in early XX century.
+Spoiler alert: the result is nothing new, greatly similar to what [anarchist communists](https://en.wikipedia.org/wiki/Anarcho-communism) popularized in early XX century.
 
 Taking all in consideration, our main design decision is:
 
 > an individual's quality of life is strictly bound to society's quality of life
 
-This means that by improving our life, we will automatically improve other people's life too.
+This means that by improving our life, we will automatically improve other people's life too, creating a virtuous cycle.
+
+Incidentally, both the society and the economic system we want to build share the same fundamental design decision.
 
 We believe this formula plays well with the different aspects of human nature, for example both egoism and altruism can be put up to good work in this model.
 
-We believe every emotion and aspect of human nature is important, every sentiment necessary, worth to have and explore. Our job is to balance and harmonize our multifaceted nature into a beautiful character. Like in music, a beautiful melody isn't one composed by only high or low notes, but rather one where all have their place and time, skillfully orchestrated into a delightful opera.
+We believe every emotion and aspect of human nature is important, every sentiment necessary, worth to have and explore. Our job as human beings is to balance and harmonize our multifaceted nature into a beautiful character. Like in music, a beautiful melody isn't one composed by only high or low notes, but rather one where all have their place and time, skillfully orchestrated into a delightful opera.
 
 
 ## Why not market economy?
@@ -266,9 +268,29 @@ Parecon's desire to reward different people differently, notwithstanding their s
 
 # Moral desert
 
-In Babel we reject the idea that individuals should be limited by society's constructs on what they can achieve. We reject meritocracy. We reject that some people deserve more than others.
+[Moral desert](https://en.wikipedia.org/wiki/Desert_%28philosophy%29) is the condition of deserving something, whether good or bad. As an example and according to moral desert, we *deserve* to be punished if we broke the law or deserve to be rewarded if we came up with a useful invention. On the other hand, if we win the lottery, even though we are entitled to the prize, we don't *deserve* it. Therefore, we deserve "something" in virtue of "something else" that we have done for which we are fully responsible.
 
-We do that while being fully committed on authenticity, on promoting that every person has their own peculiarities and different attitudes, each worthy of their existence.
+Most societies, and their economic models in particular, are entrenched in the concept that people should be rewarded differently in virtue of moral desert, i.e. based on their talents, merits, characters and efforts.
+
+[Meritocracy](https://en.wikipedia.org/wiki/Meritocracy) is rooted in the idea that society should be organized based on merit, it is the burden and honor of the most deserving to guide those who are lacking.
+
+At first glance, organizing society preferring moral desert over other factors such as wealth, personal connections ([spoil system](https://en.wikipedia.org/wiki/Spoils_system)) or heritage ([aristocracy](https://en.wikipedia.org/wiki/Aristocracy)) may seem more just and welcomed.
+
+However merit, and moral desert more in general, can be a psychological trap. Merit goes hand in hand with social sorting and competition, with the winners' arrogance and the losers' docility. This is particularly dangerous once we understand that merit is an elusive term that strictly depends on the society we live in. It is inevitable that those who "merit" more are those who follow the rules already in place. It is a self-replicating system of values where true innovation and improvements are ostracized; when they do happen it is more an *accident* than a *merit*.
+
+Docility is big a problem, indeed the sharp increase in "[death of despair](https://en.wikipedia.org/wiki/Diseases_of_despair)" in the last 50 years is due to all those people who lost the meritocratic race, who felt left out, crushed by their own sense of inadequacy. As [Michael Young](https://en.wikipedia.org/wiki/Michael_Young) said: "Every selection of one is a rejection of many".
+
+Even when we are lucky enough to be born with talents that are highly regarded by the society we live in, and in an environment that best nurture them, we are constantly under pressure of climbing higher, always trying to demonstrate our value, that we *merit* our place and ensure it is known to all, especially to ourselves. This has sprung a recent psychological disorder called [impostor syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome). Toxic competition is toxic at every level, perhaps even more at the top.
+
+Let's consider a simplified example to have clear why moral desert isn't a suitable economic strategy. Suppose there are several people working as woodcutter and that we want to reward them according to virtue. What should we measure? Let's say it is number of trees cut. In this case those with better tools will easily cut more trees than others (capitalism), what merit is in there? Ok, let's give them all the same tools, we will reward more the best suited for the job (collectivism), in this case those stronger, well-fed and well-rested; but what fault have those who are born weaker or poorer? Finally, let's value *effort* and evaluate them by working hours (parecon); here the high achievers are those with less obligation to fulfill and can spend more time working, and from them those with stronger body and better stamina.
+
+Once we start questioning the source of moral desert, we will soon understand that it is up to environment and chances. Even the greatest invention isn't conjured from nothing, but rather thanks to our ability to transmit information through space and time, it stems from several lifetimes of discoveries and influences the inventor experienced. We all stands tall on the shoulder of giants.
+
+We understand that each person is born differently and experience life in their own unique way. Undoubtedly, there are people of great talents, and we are grateful for their contribution to society, but this isn't a valid reason to materially or politically reward them more.
+
+In Babel, other than social recognition and the intrinsic satisfaction typical of discoveries and achievements, they will also experience the full benefits of the improvements they contributed to, but same will do society as a whole. Nobody is penalized.
+
+Talents should be nurtured and celebrated, but nobody should be slave to either their or others talents.
 
 # Track & Adapt
 
