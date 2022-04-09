@@ -4,7 +4,6 @@ weight = 1
 title = "In Depth: Babel Economy"
 description = "Maximize quality of life instead of profits"
 date = 2022-02-05
-draft = true
 +++
 
 In this article we will analyze more in depth Babel Economy, we will explain the reason behind this model, how it works and what challenges we may expect.
