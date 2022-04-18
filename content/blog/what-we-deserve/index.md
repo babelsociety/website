@@ -10,11 +10,11 @@ In this article we will analyze and address meritocracy and the necessity of ran
 
 During the [Middle Ages](https://en.wikipedia.org/wiki/Middle_Ages), aristocracy was the dominant social arrangement. In that age, it was pretty clear who deserved what: the king at the top gets most of it, nobles get the rest and to peasants all the drudgery and misery. [Trickle-down economy](https://en.wikipedia.org/wiki/Trickle-down_economics) at its best.
 
-With the advent of the [Age of Enlightenment](https://en.wikipedia.org/wiki/Age_of_Enlightenment), things started to change, and changed even more after the great [French Revolution](https://en.wikipedia.org/wiki/French_Revolution) in 1789, and all that followed.
+With the advent of the [Age of Enlightenment](https://en.wikipedia.org/wiki/Age_of_Enlightenment) things started to change, and changed even more after the great [French Revolution](https://en.wikipedia.org/wiki/French_Revolution) in 1789, and all that followed.
 
 Since then we search for a better way to organize society, and many have inquired into "who deserve what".
 
-Many would tell you that true, nobles are no more, but people are not the same. There is the artisan and the thief, the hard-worker and the lazy, the smart and the dumb, the good and the evil. Thus the idea that a just and fair society have to reward more those with greater merit, greater morality and greater talents.
+Some would tell you that true, nobles are no more, but people are not the same. There is the artisan and the thief, the hard-worker and the lazy, the smart and the dumb, the good and the evil. Thus the idea that a just and fair society have to reward more those with greater merit, greater morality and greater talents.
 
 They say "See how many dumb people surround us? They must be guided by those who see farther and know better".
 

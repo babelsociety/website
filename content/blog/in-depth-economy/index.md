@@ -6,9 +6,7 @@ description = "Maximize quality of life instead of profits"
 date = 2022-02-05
 +++
 
-In this article we will analyze more in depth Babel Economy, we will explain the reason behind this model, how it works and what challenges we may expect.
-
-If you are only interested in understanding how it works, start from [here](#babel-economy).
+In this article we analyze more in depth Babel Economy, and explain the reason behind this model, how it works and some critiques.
 
 # Managing scarce resources
 
@@ -18,310 +16,118 @@ In the words of French economist and politician Raymond Barre:
 
 The main goal of any economic system must be to efficiently manage scarce resources and at the same time keep under control our unlimited desires.
 
-Managing is all about making decisions and setting up the right processes. Better the decisions we make, greater would be the system's efficiency.
+Managing is all about making decisions and setting up the right processes. Better the decisions we make, greater would be the efficiency.
 
-**Greater the amount of information at our disposal, better decisions we will make.**
+**Greater the amount of information at our disposal, better decisions we make.**
 
-Be aware that resources are limited, and each can be employed for different production goals. For example, on a piece of land we could build a house, a skyscraper, a supermarket, or perhaps use it to farm grains, fruit trees, leave it to nature, etc...
+Be aware that every limited resource can be employed for different production goals. For example, on a piece of land we could build a house, a skyscraper, a supermarket, or perhaps use it to farm grains, fruit trees, leave it to nature, etc...
 
-The best way to distribute resources should tell us what's the configuration that best satisfy our unlimited desires. Because desires are unlimited, we already know that we will never fully satisfy them, hence we need to prioritize as much as possible. However, people have different preferences and will rank differently: I may like spicy food, while you may hate it. Thus the prioritization must be done as a best effort taking in consideration all the peculiarities of the people in the society itself. Another important factor is that environment will shape part of our desires: in Siberia we defend against extreme cold, while in Ecuador we defend against hot temperature. Environment also impacts what kind of resources we have available: some places are rich in drinkable water, while for others is a precious resource.
+The best way to allocate resources should tell us how to best satisfy our unlimited desires. Because desires are unlimited, we already know that we will never fully satisfy them, hence we need to prioritize as much as possible.
+
+People have different preferences and rank desires differently: I like spicy food, while you may hate it. Thus the prioritization must be done as a best effort, taking in consideration all the peculiarities of the people in the society itself.
+
+Another important factor is that environment will shape part of our desires: in Siberia we defend against extreme cold, while in Ecuador we defend against hot temperature. Environment also impacts what kind of resources we have available: some places are rich in drinkable water, while in others it's a precious resource.
 
 As if all of this wasn't complex enough to balance, our needs and desires are always changing: what's important today may be useless tomorrow. Thus, whatever distribution we find, **it will always be a fleeting approximation**.
 
 This issue has been discussed at length and is known as "[Economic calculation problem](https://en.wikipedia.org/wiki/Economic_calculation_problem)".
 
-The best resource allocation method is one that can be applied often and **gives enough satisfaction to as many people as possible**. Thus, an economic model that fully satisfy only the top 10% is, by definition, a very bad one.
+The best resource allocation method is one that can be applied often and **gives enough satisfaction to as many people as possible**. Thus, an economic model that satisfy less than 5% of the population is, by definition, a very bad one.
 
-We will now briefly discuss how allocation is handled in the two most discussed economic models: market economy and planned economy.
-
-We will use three examples to better compare the two models with Babel economy: buy a chef knife, open a bakery and reaction to wheat shortage.
-
-# Allocation in Market Economy
-
-[Ludwig von Mises](https://en.wikipedia.org/wiki/Ludwig_von_Mises) was the first to discuss about the economic calculation problem. According to him, markets with money are the best tools to allocate resources.
-
-He spoke about capitalism, but his thoughts can be extended to [market economy](https://en.wikipedia.org/wiki/Market_economy) as a whole. In this economic model, resources are exchanged in markets using money as the means of exchange.
-
-All resources are owned by someone according to some agreement and to them is given the right to sell those resources for as much money as they see fit. How the amount is decided is out of scope, it suffice to understand that all resources will have an associated amount of money, called "price".
-
-It is possible for the same product to be sold at different prices in the same market, usually there is no central entity dictating the price.
-
-All people in society will try to maximize their satisfaction through markets, which in this model translates in making the most profit out of each exchange. Profit is the only way for people in market economy to increase their quality of life.
-
-Money is a cornerstone of market economy because price acts as a signal of what is best, a thread to follow when making decisions. Money **hides complexity**, simplify and in theory condense all those complex information in a way we can handle.
-
-## Example 1: Buy a chef knife
-
-In a market economy whenever we want to buy something, we can just go to a market that sell that kind of products and chose the one we prefer.
-
-A knife produced by a skilled artisan will be of much higher quality when compared to a knife that is mass produced using cheap raw materials, hence the first one will be sold at a higher price. 
-
-The promise of market economy is that, as a consumer, we can compare the two knives by the tag price and understand that the first one is of higher quality while having zero knowledge of its production method or anything else. Supposing we do have enough money and that we want to buy the best one, market economy will suggest to buy the artisan one.
-
-Is this always a good choice? No, it isn't. The artisan knife may require greater maintenance and because we need it just to prepare some quick meals, it would be better to buy the cheaper, low-maintenance version.
-
-Suppose there are two knives of equivalent quality, but one is produced locally while the other is shipped from far away. In this case, the first one will be cheaper because it doesn't need to pay for long-distance transportation, hence the right choice is to buy the locally produced one.
-
-However in the first case price cued us about quality, hence we may wrongly assume that the imported knife is better and buy it even though it isn't. We may also be tricked into the wrong choice by other factors, to name a few, packaging, branding and advertisement.
-
-It should be clear now how hiding information doesn't come for free. The act of hiding disconnect buyers from the actual product, so much so that when we look at two products the only information truly available is its price. In theory price should encompass all the nuanced desires present in society, but in practice it is so easy to influence and manipulate that it has no meaning.
-
-It is natural for people to search for more information when buying something, and higher the relative cost, greater should be the research effort.
-
-That's why advertisement is all about giving people the *most appealing* information: an environmentalist will be happy to buy vegetables produced through ecologically-friendly techniques, even though the price is much higher than it should be.
-
-Advertisement however will never tell buyers if the production of a product involved exploiting child labor, poisoning rivers, burning forests, and all the worst acts you can think of. Price will hide all of it, rendering the buyer a blissful ignorant, that will happily buy dangerous and unethical products just because they are cheap or trendy.
-
-In the end looking at prices doesn't tell us much of the story. Price may help us decide, but we still need to gather a good deal of qualitative information if we want to make the right choices and thus reach an efficient allocation.
-
-Even those who would like to put in the effort and educate themselves, will have a very hard time digging the truth due to all the misleading information and cover ups.
-
-## Example 2: Open a bakery
-
-If we want to open a bakery in a market economy, the first thing we need to do is understand what are all the products we need (inputs) and how they are currently priced in the market. We may have an idea of what kind of production method we want to use, and perhaps explore the ingredients needed to produce different kinds of bread products.
-
-We will start by building up our network to meet up with the producers that can give us a steady supply of all those goods we need to bake our bread, such us different kind of flour, salt and perhaps water. Then we will look for a location to setup our shop, evaluate if it would be better to rent a place or buy it. We will need to reach out to a marketing agency to come up with a catchy store sign and perhaps prepare an event for the opening to attract more customers.
-
-Then it is time to *plan* how much of each inputs we need to start our activity and how much bread we need to bake. If we are lucky and have experience in managing a bakery, we may have an idea about these initial quantities, but it is ultimately a guess, given that *we can't predict* how many clients we will catch in our net.
-
-Planning is very important, especially considering how perishable bread is: fresher we sell it, and higher would be our customer satisfaction. If we bake too much bread than we can sell in a day, each extra loaf will be wasted; bake too few, customers go out empty-handed and we lose potential income, perhaps even future ones. In both cases we lose money and thus worsen our life. Lose too much and we may have to close shop.
-
-How much and what kind product to bake is an instance of [opportunity cost](https://en.wikipedia.org/wiki/Opportunity_cost).
-
-It will be good, though not required, to probe the market to understand if there is an actual demand for the kind of bread we want to sell. Usually these can be a simple survey handed out to a sample of people living in the area. If we know there is demand, we will have a stronger start, but this isn't required because *opening our bakery may influence the desires of others*.
-
-We will find different suppliers and different locations that may be suitable to our needs, each with their own perks, issues and costs. We will note all information available, including the different prices.
-Lastly we will sum all prices up and figure out if we can actually afford it. Unless we are already rich, we will need to ask a bank for a loan. The bank will do its due diligence and if we don't look good enough, they may decide to decline the loan and our efforts will be in vain. Suppose we are lucky, we will then adapt our plan based on the money the bank is willing to give us.
-
-**Available money is the ultimate constraint that will dictate the feasibility and initial quality** of our shop in a market economy.
-
-This example highlight how important it is to have a solid credit and debt system in a market economy, otherwise we risk that only those who are already wealthy can have access to business. This is what is happening more and more in the capitalistic society we live in.
-
-Once we start, **our sustenance will be strictly bound to how much profit we can extract from our bakery**, hence we need to sell for a profit and employ all possible strategies to ensure this venture, and thus our very life, goes well.
-
-Because markets and our society always change, our business will have to follow. A good manager knows how important it is to *track* customers orders and routines. If we gather enough data, we can limit both wasted loaves and unfulfilled orders. We may see, for example, that we have many more orders on Monday, while on Thursday we have fewer and mostly during the evening. Thanks to this we can *adapt* how much and when we bake our bread.
-
-In market economy **information is key to run a successful business** and thus a secret to treasure. Not everyone have the means and skills to track information, but those who can do it in isolation due to competition.
-
-
-## Example 3: Wheat shortage
-
-Suppose that this year there is a wheat shortage. If we are lucky to live in a sensible society, there is probably wheat stashed away in view of such disruption.
-
-In market economy prices will raise, but by just a small percentage and until wheat supply go back to normal levels, so life go by as usual for most consumers.
-
-Another plausible scenario is that those who can afford will buy as much wheat as they can, making the shortage even worse. This is called speculation: *invest* now expecting to make more money in the future. This future profit is the so-called ROI: return of investment.
-
-Such practice will raise prices even faster than it should, allowing speculators to sell it back at higher price and make a nice, easy profit.
-
-Higher the price of wheat, fewer people will be able to access all those products that depends on it. Considering that this is a primary good, the impact on society can be severe.
-
-Whenever there is a raise in price on an input (i.e: a product used to produce other products), the common behavior is for producers to increase the price of their products accordingly. Going back to the bakery example, if the cost of wheat increases by 10%, we will increase all our products by 10%. Our customers will decide what's best for them and if the new price is still ok.
-
-Once the price increases too much, more and more customers will look for an alternative, and perhaps decide to start buying spelt bread. Those bakeries that already produce spelt bread will see a raise in profits, while those who don't may earn less and perhaps risk bankruptcy. 
-
-Another consideration is that the first to be affected will be people with low income, and so bakeries in low-income areas will have to be quick to adapt. In richer areas bakeries may keep producing wheat bread, strong that their costumer will buy it even at the increased price.
-
-As you can see, **luck is a strong element in market economy**: all businesses influenced by spelt will see an increase in profits without having done anything different than before, while does in rich areas stay safe thanks to their privileged position.
-
-Because more and more people will shift to spelt-based products, the demand for wheat-based products will decrease and the price will follow. Speculators will have to sell the remaining grains very fast, otherwise they may incur in a loss rather than a profit. Information and market understanding, plus some luck, is essential in speculations: once the price goes down it's already too late.
-
-If the shortage last for too long and price stay high, more farmers will replace part of their production to wheat, hoping to increase their profits. If too many people do that, supply may increase too much and many will incur a loss. Those who lost money will then replace wheat for something else, supply and demand will be closer and price will fluctuate again. 
-
-In theory, a market can reach a point of equilibrium where demand is exactly equal to supply, meaning that all the wheat produced is consumed but no more. In practice equilibrium is never reached due to the fickle nature of markets.
-
-Mises suggests that by looking at the increase in price of spelt flour, an attentive business owner will imply the higher demand of spelt bread and thus adapt. In practice it isn't as simple. First, the correlation isn't certain and spelt flour's price may increase due to other factors, perhaps the drought hit an area that produced both wheat and spelt. Even supposing the correlation with spelt bread consumption, it isn't enough to ensure that people in our area will actually buy it. **We will need to know our clientele and gather further information to effectively make a good decision**.
-
-Even the increase in wheat price isn't enough to trigger a change in production, a good business owner will try to understand why it increased and if they have to prepare for a plan B, rather than passively wait for customers to go away.
-
-Nonetheless this example shows how all the **decisions of different individuals, devoid of any external coordination, will come together** an drive the market in a certain direction, **adapting production to the vagaries of their environment and desires**.
-
-# Allocation in Planned Economy
-
-[Planned economy](https://en.wikipedia.org/wiki/Planned_economy) was popularized by the socialist movement. It may be centralized or decentralized, but in both cases the goal is to create an economic-wide plan to execute in a certain time-span.
-
-An economic-wide plan states what the society commits on producing and thus consuming: from shoes to bombs, all should be in the plan. Once the time-span elapsed, a new plan is made taking in consideration all the changes happened in society and how well we did in the previous one.
-
-The centralized version is what Mises harshly criticized, and for a good reasons, when he came up with the economic calculation problem. This version indeed doesn't scale given that the amount of information necessary is way to big to be managed by just a limited group of people.
-
-Special mention goes to [Leonid Kantorovich](https://en.wikipedia.org/wiki/Leonid_Kantorovich) who pioneered and focused on [calculation in-natura](https://en.wikipedia.org/wiki/Calculation_in_kind), coming up with [linear programming](https://en.wikipedia.org/wiki/Linear_programming) as a possible way to solve the allocation problem in an algorithmic way. Understanding that we can optimize production efficiency under certain conditions through the use of an algorithm is very important, however it solves only one aspect of resources allocation given that we still need to know *what* and *how much* to produce.
-
-The decentralized planned economy is more interesting. All people will contribute to the plan, increasing the amount of knowledge available and thus increasing its feasibility. We will focus on [participatory economics](https://en.wikipedia.org/wiki/Participatory_economics) in particular.
-
-In participatory economics (parecon from now on), we still have a price, which changes based on proposed production consumption while writing the plan. The economic power of each individual is based on how much *effort* they are willing to contribute. During planning, an average amount of *effort* is established, then everyone who decide to contribute more than that will be better compensated and vice versa.
-
-Effort in parecon is based on the amount of hours worked on what kind of activity. Hazardous jobs such as mining will be graded higher and thus we can work fewer hours to reach the average effort.
-
-The whole society participate in coming up with the plan, and there are several rounds of decisions before finalizing it.
-
-Another important aspect is that jobs will be distributed in such a way that every person can experience different position and kind of works. In each period, a mix of empowering and rote work will be handed out. In parecon this is called a "job complex" and it is part of the plan.
-
-This arrangement should guarantee a more homogeneous wealth distribution when compared to market economy.
-
-Society in parecon is organized in councils supervising different aspects of it. Councils have a nested structure: the consumers council will be organized by neighborhood, city, ward, state and the nation; the workers council may be organized by team, units, divisions, workplace and industry. Each person can belong to many councils. Parecon stay flexible on how agreements is reached in the councils at each level, it will be up to society to decide. Different methodologies may be used for different problems, for example majority vote could be used for a problem with low impact, while consensus may be used in a team to hire a new teammate.
-
-Ultimately the focus is to ensure that people who are impacted by decisions have a saying on it.
-
-## Example 1: Buy a chef knife
-
-During planning phase we will have to communicate to our neighborhood that we want a knife, specifying also why we need it and possibly the quality of it.
-
-According to how the plan goes, we may renounce to it to keep more of a different product, but supposing society as a whole have enough capacity to produce it, then our desire will be granted and the knife delivered once the next period starts and whenever it is ready.
-
-Depending on how much the knife is valued, we may decide to work more this year to be able to afford it.
-
-Even though our wish is granted, there is a slight chance we will not receive the knife. For example, there is a sudden war in a country and metals supply is cut down. It doesn't matter how good is a plan, there is always the chance for it to go wrong, especially those with a big time-span.
-
-Admittedly, this isn't an big problem given that we can ask for it again next time.
-
-If our knife just happen to break, we could immediately request a new one. If we are lucky, somebody else may renounce to it for some reason, or perhaps there are some spare ones, thus the plan doesn't need to be changed that much.
-
-All in all, buying the right knife is much more straightforward then in market economy, given that nobody wants to profits from our ignorance, but rather are more interested in striking the best balance between resources consumed and quality.
-
-## Example 2: Open a bakery
-
-In parecon new shops are opened based on the plan. Suppose that there has been a greater demand for bread and society decided that a new bakery is due.
-
-Because the plan is done starting at the neighborhood level, we can see on which area the demand is greater than the supply and thus understand where it is best to open the bakery.
-
-After that we will shift work schedules to account for the jobs it will provide and design the supply line to build it up. Because we know how much the demand differs from the offer, we also have a good understanding of how much inputs we need.
-
-It is important to see how the main motivation shifts from making a profit in market economy to caring for an actual need in parecon.
-
-Instead of being limited by the amount of money available to those who want to start the business, the limit is what the community can provide. Hence, we will build the bakery using the best tools and techniques available.
-
-On the other hand, it isn't as straightforward to start a new business. The first reaction to an increase in bread consumption would be to increase the price of it, and try to balance the plan to substitute bread for an equivalent good. It may even be that bread doesn't figure in the plan and is instead included in a broader category, thus the need may hidden away. **The good part is that those interested in improving bread production can bring the discussion to the appropriate council**.
-
-Those who would like to experience working on a bakery will have an easier time to do so, as the varied nature of job complexes encourage having different kind of work.
-
-Even though we have an idea of how much bread will be consumed, there is no indication of *when* it will happen nor any guarantee. Given that bread have a short shelf-life, we still need to *track* our customers' routine to ensure we don't overproduce and waste resources. Only by *adapting* our production according to our environment we can limit waste.
-
-During its life the bakery will go over many plans and evolve accordingly. There is no single ownership of it, but rather it belongs to society. In the future society may decide that this bakery isn't needed anymore and that's fine, because everyone who works there will be redirected to some other job.
-
-Here we can see that unemployment isn't an issue in parecon, rather it will utilize 100% of its working capacity.
-
-## Example 3: Wheat shortage
-
-In case there is a wheat shortage in parecon, prices for related goods will increase proportionally, similar to what would happen in a market economy.
-
-However councils will have a better picture of whats going on and society will be able to prioritize usage of wheat for goods that are more important, such as those that cannot be easily substituted.
-
-Speculation within the economy has no reason to exist in parecon, hence we have one less issue.
-
-If the shortage is internal, for example due to a severe drought, producers may be able to inform people in a promptly manner.
-
-Even if the plan is in execution, we can review and adapt it. There is a lot of work involved in changing the plan, hence it will be done only for severe cases.
-
-The shortage burden will be spread across the whole population and everyone will have to play their role to easy the issue, adjusting their eating habits if necessary. There will still be people that have more wealth and that can afford more wheat-products, however the difference shouldn't be meaningful.
-
-# Main purpose {babel-economy}
-
-Now that we have a high-level overview of what different economic models offer and how they work, let's dig into Babel's economic model.
+# Main goal
 
 The main goal of Babel economy it is to provide an economic model best suited to the society we want to build. Instead of letting economy shape our society we do the opposite, **we let our values shape the economy**.
 
-Indeed, we have little interest in perfect allocation of resources if the result is a society full of misery and suffer.
+Indeed, we have little interest in the most productive allocation of resources if the result is a society full of misery and suffer.
 
-Our [core values](@content/manifesto/index.md#core-values) are the foundation of our economic system, with particular emphasis on decentralization, integration and collaboration. We applied to economy one of the golden rules of software design: make wrong states irrepresentable; we want a system where it is impossible (or at least very hard) to corrupt and exploit, without poverty, one where violent criminal activities such as murder and theft are unmotivated. We want an economy where people can thrive and become the best versions of themselves.
+Our [core values](@content/manifesto/index.md#core-values) are the foundation of our economic system, with particular emphasis on freedom and collaboration.
 
-Spoiler alert: the result is nothing new, greatly similar to what [anarchist communists](https://en.wikipedia.org/wiki/Anarcho-communism) popularized in early XX century.
+We applied to economy one of the golden rules of software design: make wrong states irrepresentable; we want a system impossible (or at least very hard) to corrupt and exploit, without poverty, one where criminal activities are unmotivated. We want an economy where people can thrive and become the best versions of themselves.
 
-Taking all in consideration, our main design decision is:
+Spoiler alert: the result is nothing new, greatly similar to what [anarchist communists](https://en.wikipedia.org/wiki/Anarcho-communism) popularized by the end of the ninetieth century.
 
-> an individual's quality of life is strictly bound to society's quality of life
+Taking all in consideration, our main design decision is: **an individual's quality of life is strictly bound to society's quality of life**.
 
-This means that by improving our life, we will automatically improve other people's life too, creating a virtuous cycle.
+This means that by improving our life, we automatically improve other people's life too, creating a virtuous cycle.
 
 Incidentally, both the society and the economic system we want to build share the same fundamental design decision.
 
 We believe this formula plays well with the different aspects of human nature, for example both egoism and altruism can be put up to good work in this model.
 
-We believe every emotion and aspect of human nature is important, every sentiment necessary, worth to have and explore. Our job as human beings is to balance and harmonize our multifaceted nature into a beautiful character. Like in music, a beautiful melody isn't one composed by only high or low notes, but rather one where all have their place and time, skillfully orchestrated into a delightful opera.
+We believe every emotion and aspect of human nature is important, every sentiment necessary, worth to have and explore.
+
+**Our job as human beings is to balance and harmonize our multifaceted nature into a beautiful character**. Like in music, a beautiful melody isn't one composed by only high or low notes, but one where all notes have their place and time, skillfully choreographed into a delightful opera.
 
 
-## Why not market economy?
+## Why not a market economy?
 
-[Market economies have serious flaws](@content/blog/beyond-market-economy/index.md), all caused by a single design decision:
+[Market economies have serious flaws](@content/blog/beyond-market-economy/index.md), all caused by a single design decision: **an individual's quality of life is strictly bound to how good of a seller they are**.
 
-> an individual's quality of life is strictly bound to how good of a seller they are
+This highly individualistic economic model is the cause of a plethora of social issues and therefore incompatible with our main goal.
 
-This highly individualistic economic model is the cause of a plethora of social issues and therefore incompatible with our core values.
+## Why not a planned economy?
 
-## Why not participatory economics?
+[Planned economy](https://en.wikipedia.org/wiki/Planned_economy) can be one of two main kind: centralized or decentralized.
 
-The fundamental design decision in parecon is that:
+They both share the creation and commitment to an economic-wide plan.
 
-> an individual's quality of life depends on how much effort they'll contribute to society
+The centralized version tends to be highly authoritarian, and this is strongly against our core values.
 
-This is much better when compared to market economy, and indeed we believe it would result in a better society, but there are still issues. For once, how could we objectively judge the effort of an individual?
+The decentralized ones are more flexible and at first glance seem to better fit our main goal. The issue is that all these economic models, such as [participatory economics](https://en.wikipedia.org/wiki/Participatory_economics) and negotieted planning, still abide to the [collectivist](https://en.wikipedia.org/wiki/Collectivism) logic of distributing products according to some rules.
 
-Job complexes try to answer that: quantify (i.e. attach a number) how empowering is a particular job. Parecon suggests that dedicated councils should grade all jobs, reviewing it over time, until we reach a good balance. We then derive an average effort level based on which we remunerate workers. But there is no objective way to judge empowerment, hence it can be exploited and manipulated in such a way to give greater advantages to a group to the detriment of another.
+The desire to reward different people differently, despite their strive for the most just way, it is not only a Sisyphean endeavor, but a perilous one: it embraces the idea that people should be graded and divided, it justify that some should have more than others, that some *deserve* better.
 
-Great talents may even be hindered because they would have to spend time doing unrelated work, limiting their full potential.
+As we have explained in [What we deserve](@content/blog/what-we-deserve/index.md), we see things differently.
 
-Nonetheless, we would endure these problems if it wasn't for the heavy bureaucracy involved at every level and the emphasis on grading people. As they say, the devil is in details.
+## Sustainability
 
-Bureaucracy often introduces accidental complexity, and complexity is prone to exploitation from those who have better grasp over it. On the long run, even small differences can grow larger. We wouldn't be surprised if a parecon would degrade into a [command economy](https://en.wikipedia.org/wiki/Administrative-command_system).
+Many production activities when done without care can cause a great deal of pollution.
 
-Parecon's desire to reward different people differently, notwithstanding their strive for the most just way, it is not only a Sisyphean endeavor, but a perilous one: it embraces the idea that people should be graded and divided, it justify that some should have more than others, that some *deserve* better.
+A management of scarce resources that doesn't consider a sustainable cycle of production and consumption is a short-sighted and self-destructive one. Such carelessness is what brought upon us the global climate crisis, which could potentially wipe-out humanity from Earth.
 
-# Moral desert
+This is why creating a [circular economy](https://en.wikipedia.org/wiki/Circular_economy) is extremely important. All goods and services produced within Babel must be designed taking into consideration their entire life cycle, with particular attention to the ecological sustainability of the entire production line.
 
-[Moral desert](https://en.wikipedia.org/wiki/Desert_%28philosophy%29) is the condition of deserving something, whether good or bad. As an example and according to moral desert, we *deserve* to be punished if we broke the law or deserve to be rewarded if we came up with a useful invention. On the other hand, if we win the lottery, even though we are entitled to the prize, we don't *deserve* it. Therefore, we deserve "something" in virtue of "something else" that we have done for which we are fully responsible.
+Other than a production method clean and without pollution, it is important to keep an eye on the ability to repair and recycle each product as much as possible. This is inline with the understanding that resources are limited, hence we want to make the most out of what we have available.
 
-Most societies, and their economic models in particular, are entrenched in the concept that people should be rewarded differently in virtue of moral desert, i.e. based on their talents, merits, characters and efforts.
+**Recovering materials is crucial.** Think about how much garbage and hazardous waste is produced by technological advancement, by new iterations of high-tech products, such as a new smartphone, television, etc... 
 
-[Meritocracy](https://en.wikipedia.org/wiki/Meritocracy) is rooted in the idea that society should be organized based on merit, it is the burden and honor of the most deserving to guide those who are lacking.
+The distribution of new products must be balanced by its sustainability. Rather than mass-producing every single innovation, it would be more appropriate to focus on research and limit mass production to significant improvements.
 
-At first glance, organizing society preferring moral desert over other factors such as wealth, personal connections ([spoil system](https://en.wikipedia.org/wiki/Spoils_system)) or heritage ([aristocracy](https://en.wikipedia.org/wiki/Aristocracy)) may seem more just and welcomed.
+We believe that there is little value in switching to a more powerful smartphone if we then use it in the same way as the previous one. On the other hand, the generational leap from mobile phones to smartphones has been significant and has brought a concrete improvement to everyone's life.
 
-However merit, and moral desert more in general, can be a psychological trap. Merit goes hand in hand with social sorting and competition, with the winners' arrogance and the losers' docility. This is particularly dangerous once we understand that merit is an elusive term that strictly depends on the society we live in. It is inevitable that those who "merit" more are those who follow the rules already in place. It is a self-replicating system of values where true innovation and improvements are ostracized; when they do happen it is more an *accident* than a *merit*.
-
-Docility is big a problem, indeed the sharp increase in "[death of despair](https://en.wikipedia.org/wiki/Diseases_of_despair)" in the last 50 years is due to all those people who lost the meritocratic race, who felt left out, crushed by their own sense of inadequacy. As [Michael Young](https://en.wikipedia.org/wiki/Michael_Young) said: "Every selection of one is a rejection of many".
-
-Even when we are lucky enough to be born with talents that are highly regarded by the society we live in, and in an environment that best nurture them, we are constantly under pressure of climbing higher, always trying to demonstrate our value, that we *merit* our place and ensure it is known to all, especially to ourselves. This has sprung a recent psychological disorder called [impostor syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome). Toxic competition is toxic at every level, perhaps even more at the top.
-
-Let's consider a simplified example to have clear why moral desert isn't a suitable economic strategy. Suppose there are several people working as woodcutter and that we want to reward them according to virtue. What should we measure? Let's say it is number of trees cut. In this case those with better tools will easily cut more trees than others (capitalism), what merit is in there? Ok, let's give them all the same tools, we will reward more the best suited for the job (collectivism), in this case those stronger, well-fed and well-rested; but what fault have those who are born weaker or poorer? Finally, let's value *effort* and evaluate them by working hours (parecon); here the high achievers are those with less obligation to fulfill and can spend more time working, and from them those with stronger body and better stamina.
-
-Once we start questioning the source of moral desert, we will soon understand that it is up to environment and chances. Even the greatest invention isn't conjured from nothing, but rather thanks to our ability to transmit information through space and time, it stems from several lifetimes of discoveries and influences the inventor experienced. We all stands tall on the shoulder of giants.
-
-We understand that each person is born differently and experience life in their own unique way. Undoubtedly, there are people of great talents, and we are grateful for their contribution to society, but this isn't a valid reason to materially or politically reward them more.
-
-In Babel, other than social recognition and the intrinsic satisfaction typical of discoveries and achievements, they will also experience the full benefits of the improvements they contributed to, but same will do society as a whole. Nobody is penalized.
-
-Talents should be nurtured and celebrated, but nobody should be slave to either their or others talents.
+By focusing more on research and innovation rather than mass-production we will have better products in less time, and with less expended resources.
 
 # Track & Adapt
 
-Even though market and planned economics are antipodes, the attentive reader may have noticed that there are stark similarities on how businesses are run.
+Even though market and planned economics are antipodes, there are stark similarities on how businesses are run.
 
-It doesn't matter the chosen economic model, whenever we want to produce something we must chose the production method, which in turn will dictate inputs, outputs and final quality of our product.
+It doesn't matter the chosen economic model, whenever we want to produce something we must chose a production method, which in turn dictates inputs, outputs and final quality of our product.
 
 How to chose depends in part on our environment and the resources available. As we said, our environment will change over time, hence it is essential to **track** how well we are doing, and use these data to **adapt** our production to keep and improve efficiency.
 
-Babel economy wants to liberate this truth from any accidental complexity and maximize its effectiveness.
+Babel economy wants to declutter this truth from any accidental complexity and maximize its effectiveness.
 
-Thanks to Babel decentralized network infrastructure, we will electronically **track** all the resources produced and consumed by both producers and individual consumers. All data will be organized geographically and freely accessible by anyone.
+Thanks to Babel decentralized network infrastructure, we can electronically **track** all the resources produced and consumed by both producers and individual consumers. All data will be organized geographically and freely accessible by anyone.
 
-Thanks to this information, individual producers will have a clear understanding of the whole economy at different granularity levels, making them the best people to decide on how to **adapt** their production line.
-
-As you may notice, this system in principle isn't much different than parecon, but we avoid all the complexity involved in planning.
+Equipped with this information, individual producers can have a clear understanding of the whole economy at different granularity levels, allowing them to efficiently **adapt** their production line as needed.
 
 # Resources allocation
 
-Still the question remains: how we'll allocate different resources?
+Still the question remains: how we allocate different resources?
 
-Remember that our main design decision impose that *an individual's quality of life is strictly bound to society's quality of life*, thus the most natural way to allocate resources is for **everything** to be **shared and freely accessible**, both the means of production and the results of our effort.
+Remember that our main design decision impose that **an individual's quality of life is strictly bound to society's quality of life**, thus the most natural way to allocate resources is for **everything** to be **shared and freely accessible**, both the means of production and the results of our efforts.
 
-This may sound utopian and idealistic, especially to those who grow up in a capitalistic society. On the other hand, those familiar with communism philosophy will be right at home.
+It is important to understand that resources consumption is completely disconnected from one's production and/or effort.
 
-Times are changing and thanks to technological improvements, we can achieve it. Let us further explain how we organize consumption and production.
+This may sound Utopian and idealistic, especially to those who grow up in a capitalistic society. On the other hand, those familiar with communist philosophy will be right at home.
+
+Times are changing and thanks to technological improvements, we can achieve such a society at large scale. Let us further explain how we organize consumption and production.
 
 ## Consumption
 
-We said that one's desires are infinite and yet we allow everyone to consume as they please; isn't it a mad recipe for shortages and bloody conflicts? We need to dig deeper.
+We said that one's desires are infinite and yet we allow everyone to consume as they please; isn't this a mad recipe for shortages and bloody conflicts? We need to dig deeper.
 
-It is true that we have infinite desires, however when we look at a single resource, **our desire towards it is finite**. We may crave an apple now, but once we get it our desire is satisfied, we don't need an infinite amount of apples. If we can access apples whenever we want, there is no need to hoard them, actually that will require more effort: we need storage space, to transport them and dispose those that rot away.
+It is true that we have infinite desires, however when we look at a single resource, **our desire towards it is finite**. We may crave an apple now, but once we get it our desire is satisfied, we don't need an infinite amount of apples. If we can access apples whenever we want, there is no need to hoard them, actually that would require more effort: we need storage space, to transport them and dispose those that rot away.
 
 The real issue is when we *perceive* that there aren't enough apples to satisfy everyone: the *fear* of missing out can bring out our worst behaviors. This is what we need to solve.
 
@@ -331,141 +137,371 @@ In Babel we have several mechanisms to cope with that.
 
 Because we track everything, once we accrue enough data we can statistically predict future consumption for each product and adapt our production accordingly.
 
-To improve prediction, it is especially important to track all missed consumption, i.e. all those instances where we couldn't get enough of a good.
+To improve prediction, it is especially important to track all missed consumption, i.e. all those instances where we couldn't get enough of a product.
 
-Statistics, linear programming, artificial intelligence and all other tools we will come up with in the future can greatly help us refine our production lines, but **it is ultimately up to producers to decide on how to do their job**. The good part is that *we* are all producers; more on this on [Production](#production).
+Statistics, [linear programming](https://en.wikipedia.org/wiki/Linear_programming), [artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) and all other tools that will come up in the future can greatly help us refine our production lines, but **it is ultimately up to producers to decide on how to do their job**. The good part is that *we are all producers*; more on this on [Production](#production).
 
 ### Soft limits
 
-In case it isn't possible to increase production, then we can limit how much a person consumes.
+In case it isn't possible to increase production, we can limit how much a person consumes.
 
-Thanks to all information available, society can get together and come up with a good limit per person, in accordance with the needs of those interested in a product (demand) and those who produce it (supply).
+Thanks to all information available, society can come up with a good limit per person, in accordance with the needs of those interested in a product (demand) and those who produce it (supply).
 
-It is paramount that all the interested people (consumers and producers) participate in setting up and agree on the actual limit. This ensures that everyone will be ok and follows it.
+It is paramount that all the interested people (consumers and producers) participate in setting up and agree on the actual limit. This ensures that everyone will commit to and respect it.
 
 For example, we could agree to a limit of 1kg apples per week per person. Because consumption is tracked at individual level, it is easy to set it up.
 
-However data can't predict future, hence **it must be a soft limit**. It is inevitable that some people will consume less than 1kg, while others will crave for more. If we impose a strict limit, on the same day we will have both unsatisfied people and apples left to rot. Unsatisfied people will perceive it as a shortage and thus we wouldn't have solved much. We don't want to push people into theft, but rather prevent it.
+It is inevitable that some people will consume less than 1kg, while others will crave for more. If we impose a *strict* limit, on the same day we will have both unsatisfied people and apples left to rot. Unsatisfied people will perceive it as a shortage, hence we wouldn't have solved much. We don't want to push people into theft, but rather prevent it.
 
-**The limit should be considered as an indication that we are over-consuming** and that we should adjust our behavior. We can also use social pressure to further reinforce this sentiment.
+**The limit should be considered as an indication that we are over-consuming** and that we should adjust our behavior. Given that we all agreed on the limit together, it would be antisocial and even awkward for people to go over it. Nonetheless everyone have different needs, hence it should be possible to individually adjust limits. For example, children may need to consume more apples. The reason isn't important, what's important is that the special cases are discussed and agreed upon by all involved.
 
 After a while, we can revise the limit and eventually address cases of severe over-consumption at social level.
 
 ### Preorders
 
-There may be goods that take time to produce or aren't suited for mass production. For example, we only need a set amount of smartphones at a given time. Instead of overproducing them, with the risk of wasting precious resources on a model that may soon be obsolete, we can place an order whenever we need it.
+There may be goods that take time to produce or aren't suited for continuous production. For example, we only need a set amount of smartphones at a given time. Instead of overproducing them, with the risk of wasting precious resources on a model that may go obsolete, we can place an order whenever we need it.
 
 As everything in Babel, waiting lists are transparent, everyone can see their place in it and the system may also estimate how long it will take before we receive the goods.
 
-All orders are fulfilled on a first come, first served manner. Depending on the nature of the goods, it may be shared across all producers (standard production method) or be specific to a single shop (custom made products).
+All orders are fulfilled on a first come, first served manner. Depending on the nature of the goods, orders may be shared across many producers (standard production method) or be specific to a single shop (custom-made products).
 
-This strategy is flexible and can be applied to all goods. For example, we can book a table on our preferred restaurant on a given date, as we can set reserve 1kg apples for next Thursday, etc...
+This strategy is flexible and can be applied to all products. For example, we can book a table at our preferred restaurant on a given date, as we can reserve 1kg apples for next Thursday, etc...
 
 Preorders and estimated waiting time are important indicators to adjust production.
 
-### Conclusions
+### How would it look like?
 
-All mechanisms work well together, and it will be very common to setup a limit while working on production improvements.
+In practice there will be stores, both physical and online as we are used today, but there will be no money. Every person will have its own identification key, similar to today ID card, that will be used to acquire whatever we desire and track consumption.
 
-**By applying this logic for each and every product we are efficiently limiting our infinite desires while directing production.**
+Imagine to enter into a store, get all the groceries you need, scanning each item as you go as already happen in many supermarkets, and then just go back home. No cashier and check-in is needed because everything is free. With the right technology we can even remove the need to manually scan each product, as Amazon already experimented with "[Just Walk Out Shopping](https://justwalkout.com/)".
+
+Through our smartphone we will access a detailed product page, with all the information necessary to decide which product better fit our preferences. Each product will also have a section with people opinions over it.
+
+### Foreign products
+
+Consumption in Babel isn't limited to what is produced internally. Even though Babel have a soft spot for autonomy in essential products, the world is vast and resources scattered around, hence importing goods will be always necessary, even once society grows up to a large scale. International collaboration is as important as local collaboration.
+
+No special rules apply to imported products, even though they would be harder to get and therefore subject to greater scarcity.
 
 ## Production
 
-We mentioned that an economy main objective is to satisfy in the best possible way the desires of people. **It is therefore desires that will drive productions**.
+We mentioned that an economy main objective is to satisfy the desires of people in the best possible way. **It is always desires that drive production**.
 
-In Babel more than in other societies, there is an emphasis in materializing what you want, while society will contribute to make it happen.
+In Babel more than in other societies, there is an emphasis in *acting* upon what we want, while society support us to make it happen.
 
-Suppose we are passionate about chairs made in wood, with a nice look & feel, chairs that we may consider by today standards as luxurious. Suppose there isn't much demand as a whole, hence **both in parecon and market economy this would be a very hard business to support**.
+One aspect that it is often underestimated is that our satisfaction depends greatly from our contribution to society, from the work we do. The act itself of creating something, to achieve something, is way more rewarding than consuming it.
 
-In Babel we can open a project explaining our idea, and once we gather the right skills to produce such chairs, that's it. Because there is low-demand, we don't need to mass produce, hence we need simpler tools and fewer materials to start it up. We will discuss more in depth how 
+In a capitalistic society, the most common example is whenever we want something so expensive that we can't afford it. We will have to work hard for it, and more time passes, more our desire increase. The peak of excitement is reached just before we get it, after that it will wither away very quickly.
 
+**The main source of our excitement and satisfaction wasn't the product itself, but rather all the sweat and work we have done to acquire it.** The journey that brought us there.
 
+However, not all work is the same. Think about intensive animal farming, who sane in mind would like to work in such a cruel environment? We do it only out of sheer necessity.
 
-------------
+On the other hand, a more humane approach to animal husbandry can be a rewarding way of life, which has the positive side-effect of producing much better and genuine products for all.
 
-It doesn't matter what economic system is used, **when we want to produce something it all boils down to inputs and outputs**.
+Intensive animal farming is the poster-child of a society dedicated to infinite growth, which is in stark contrast with the reality of finite resources. It is the result of obsessing over production efficiency and profits.
 
-The method of production we choose will dictate what kind and how many resources we need as an input. After all the steps and transformations are successfully completed, we will end up with one or more output resources.
+We believe that it is much better to use less efficient production methodologies that are much more satisfying to perform.
 
-Here, when we say "resource" we intend it in the broadest sense: anything that can be produced or consumed. In this sense, wheat, flour and bread are all resources.
+**We believe work can bring us joy, it can enrich our lives at every level**.
 
-The issue is that there may be different ways of producing the same product that requires different inputs. Different resources have different intrinsic values that depends on two main factors: scarcity and usage; both depends on the vagaries of the environment.
+Suppose we are passionate about chairs made in wood, with a nice look & feel, chairs that we may consider by today standards as luxurious. Suppose there isn't much demand as a whole, hence **both in planned and market economies this would be a hard business to start**.
 
-Based on all of that, we thus need to decide which production method is best suited *to our particular condition*. The best decision in here can be the worst in there. The best decision of today, can be the worst of tomorrow. Such is the complexity of this choice.
+In Babel we can [open a project](@content/manifesto/index.md#projects) explaining our idea, and once we gather the right skills and materials to produce such chairs, that's it. Because there is low-demand, we don't need to mass produce, hence we need simpler tools and fewer materials to start it up.
 
-This issue has been discussed at length and is known as "[Economic calculation problem](https://en.wikipedia.org/wiki/Economic_calculation_problem)". According to [Ludwig von Mises](https://en.wikipedia.org/wiki/Ludwig_von_Mises), markets together with money are the best tools to price products and thus allocate resources in the most efficient way.
+Because we desire such chairs, we will be the best people who can help produce them, taking care of creating a nice environment and have extra care for the final product.
 
-Contrary to theory, in practice we still make very bad decision such as pollution, favor cheap goods despite being harmful, stark inequalities, price manipulations, etc...
+Contributing to something we desire is extremely satisfying, way more than simply buying it.
 
-Not everyone agreed with von Mises, some people such as [Leonid Kantorovich](https://en.wikipedia.org/wiki/Leonid_Kantorovich) focused their work on [calculation in-natura](https://en.wikipedia.org/wiki/Calculation_in_kind), aiming at a more centrally [planned economy](https://en.wikipedia.org/wiki/Planned_economy).
+We will now discuss more in details how production works.
 
-Despite their efforts, keeping track of all the different resources wasn't easy and even though this model give better results on a small set of resources, it isn't applicable on a large scale. Plus it aimed at a central authority.
+### Gather knowledge
 
-A more modern attempt is [participatory economics](https://en.wikipedia.org/wiki/Participatory_economics), which is a form of distributed planned economy.
-Even though it is more distributed, it still needs to know how much of each resource will be consumed in society, which in our opinion contrast the spontaneous nature of human beings and therefore it is unpractical.
+In Babel we have at our disposal the full knowledge available in society, both in form of data and experience of other people. If we are uncertain on how to produce something, the first step would be to discuss it in the public online forum.
 
-# Track & Adapt
+In this way we can also gauge how many people share our same interest, see if there is already a similar project going on, past experience, etc...
 
-Planned economy and market economy are poles apart, but let's see more in detail what happens in practice.
+Of course, discussion doesn't have to be limited online, we encourage in person chats and talks to speed up the process and better connect with other people.
 
-Suppose that we have a bakery focused on making bread. It so happens that wheat became a more important resource, so much and for enough time that now spelt flour may be a better candidate.
+Nonetheless it is better to record all important information online, so to have better history over it and reach a wider audience.
 
-How can we arrive to a conclusion in the two different systems?
+### Production projects
 
-In theory, in market economy the price of wheat will increase to a point where we start looking for alternatives, that's when we find out that spelt flour is cheaper and change our production method. However, in practice as soon as the price of an input resource increases, producers will adjust the final good's price accordingly, hence it is the consumer that is burdened with finding a cheaper alternative. Still, the overall effect remains that more spelt bread will be consumed.
+Once we have clear in mind what we want to do and how to do it, it's time to open a [project](@content/manifesto/index.md#projects).
 
-In a planned economy it is more complicated. We said wheat became more *important*, and if this is enough to raise price in market economy, it isn't for planned economy. Why is wheat more important? Is it due to a drought and so we have less than usual? Or perhaps we have found new applications for it, thus requiring more? Supposing there are new applications, are they actually more important than making bread?  
-Planners must answer all these questions (and some more) to find out if changing production to more spelt bread is a good idea. Still, we should appreciate the fact that if they could answer, then there is a much greater chance to make a better decision. In practice though finding those answers for each and all variations is a great challenge.
+We specify in great detail all the resources we need, what production method we'll employ, what skills and technologies we need, how the supply chain would look like, preconditions, etc... More information we give, easier would be the discussion. The system will then propagate the new project to all people that could be interested in it.
 
-They are very different processes, but if we squint our eyes enough, we may see a similar trend in both systems: those who decide must track how resources are evolving in their environment and then adapt accordingly.
+The amount of details required is similar to any other economic model, including capitalism, to start a new business.
 
-This fundamental truth is what we call "track & adapt", and so far it is the only pragmatic way we have to conquer the complexity of production and distribution.
+The main goal of a project isn't to get permission, but rather to improve the initial idea and ensure it is inline with our core values. A project in proposal phase isn't expected to have worked out all details, for example supply chains can be outlined in this phase.
 
-# Principles
+It's up to the proponent to promote the idea and gather all the support required for its realization.
 
-We understand that an economic system doesn't exist in a bubble, it is influenced and does influence society at a whole. The two are inextricably bound, thus by aligned them, we ensure to create an overall system that will reinforce itself.
+The proponent however isn't the owner of the project nor product, everyone will have the same stake on it, both during its planning phase and once it is up and running.
 
-The most important condition we want to satisfy is: **the individual quality of life is strictly dependent to society quality of life**.
+### Adapting
 
-This concept is the corner stone of Babel society, as much as it is of its economy.
+Let's say the population in our area grow and we need to produce more bread. We can reach out to our flour suppliers and ask them for more. If they have spare capacity, then all good.
 
-Under the economic light, such principle implies that products distribution and accessibility must be fair and unrelated from what the individual is capable of. Furthermore, it implies that salaries and wages cannot exist in this system, and same does private property of the production capital.
+Otherwise this necessity may trigger one or more projects to improve production in other industries. It will have a cascading effect throughout the whole supply chain and potentially the whole society.
 
-Because quality of life is strictly bound to how good resources are managed, another strong implication is that everyone will work hard to avoid wasting resources. Hence production will naturally gravitate towards high-quality, sustainable and long-lasting products.
+That's how we can choreography a large scale change starting from individual needs. Incidentally this is the same concept used by market economies.
 
-We believe centrally planned economy is incompatible with the **decentralization** principle of Babel, while our **freedom of choice** does conflict with most decentralized planned economies.
+### How would it look like?
 
-# Economic system
+Suppose we are a biologist and finally finished a research on a new type of grain. It is time to start production and reap the fruits of our labor.
 
-During our quick analysis of the different available systems, we have reached 3 important conclusions:
+We open the project and soon people involved in agriculture show up, asking further question on how it works, and willing to try the new variety. All together we decide on which fields would be best to run the first production line, then come up with the initial requirements for number of seeds and all other resources needed.
 
-* Money hide information, but good decisions rely on precise information
-* Producers always know input and output resources
-* Every system, no matter how different, will need to track and adapt resources based on their environment
+Sadly there isn't enough fertilizer available, but after some inquiry, a couple of farmers agree to divert a quota of fertilizer on this project. We are thankful and good to go.
 
-The first focus is "track". All producers will track down all the resources that they consume and produce, same will do consumers. All of these information will be freely available to all members in Babel through a decentralized computing system. Such system will give us a clear vision of what is available in the society, what are the different trends and project future needs.
+We are thrilled to see how our grains will fare in the world first-hand, hence we join the farm and work together with everyone for a period of time before going back to research.
 
-Whenever we must choose a production method, we can query the system to see how much resources are currently available, who produce what and where, etc...
+As you can see, there is a good degree of collaboration involved. The researcher wouldn't be able to setup the whole supply chain and work the field alone, but thanks to others' capabilities, expertise and goodwill, they are able to create something new and improve society.
 
-All of these information are sufficient to make a first educated guess. Considering that production change with time, nailing it down at the start is not needed, but rather the process will be refined through time and experience. More importantly, such experience can be shared in the community as a whole, helping others starting a new, similar production line.
+# Research
 
-Suppose that we are some bread-enthusiast that loves the flavor of sourdough bread when it gets cooked in a stone oven. After a quick check, we see that there is no shop in the area, hence we decide it is time to open one. We query the system for what grain is available in our area and turns out there is plenty of wheat; then we check for wood and come up with a good location where to open it.
+In a society where working is not necessary to survive, technological advancement becomes even more important as it will contribute to the improvement of everyone's life.
 
-Notice that in this example we had clear in mind from the get-go what production method to use. In a society where people are free to follow their interests, it is natural to use a method that best align with our tastes even though it isn't the most efficient from production point of view.
+Both physical and virtual research centers will be developed so that everyone can exchange information freely.
 
-Remember that resources should be used to satisfy *our unlimited desires*, hence we will argue that the most economical efficient method isn't the cheaper one, but rather **the method that is most gratifying and satisfying**.
+Research is the field that more than any other will benefit from high collaboration. Very often particular inventions and discoveries are kept under strict control through patents and intellectual property rights, which limit their application as well as their advancement. Thanks to Babel free and collaborative environment, everyone will be able to take advantage of the best discoveries.
 
-We know what to do and open a [project](@/manifesto/index.md#projects) to take care of the overall supply chain and justify it. People in the area are quite happy to have such a shop, giving more strength 
+Research often requires burn through many resources before it leads to any result, but this will no longer be a problem: just present a [project](@content/manifesto/index.md#projects) explaining the final goal of it and the amount of resources needed.
 
-Once we decide the method, we will now what input resources we need and are ready to open a new [project](@/manifesto/index.md#projects) to take care of the overall supply chain and justify such an effort. This route is similar to a planned economy given that through the project the new production line and its implications may be analyzed in great detail. However it is much more spontaneous than planned economy because there is no master-plan, but rather it happens as a reaction in the environment.
+We should facilitate any attempt at research, but it is always important to keep an eye on the amount of resources required. A very important aspect is how ethical the research is: cruel experiments on living beings should be avoided as much as possible.
 
-In the project many different scenario may come up, for example we may decide that this new product is so essential and important to society that we are ok with reducing capacity in some other area. We could realize that it isn't worth it, or that another production method better align with what is available. What's important is that discussing about it with other people will give us better clarity around it, increase overall information and thus improve resource management efficiency.
+It goes without saying that many researches never bear any fruits, but this is an intrinsic risk in the activity carried out and one we gladly accept. Failure is not a problem and can happen to even the most brilliant researcher.
 
-Once the project is approved, we will have assigned all the capital we need, from machinery to buildings, and it will include the initial group of people that will take part on it. We will have all it needs to make it a success.
+*Dare, dare, and yet again, dare!* It is better to dare and fail than to miss the chance of a great improvement.
 
+# Production growth
 
+The quantity of goods produced will determine the quality of life of each member of our society.
 
+We are confident the focus on [collaboration](@content/manifesto/index.md#collaboration), [education](@content/manifesto/index.md#education) and [research](#research) will be able to trigger a virtuous cycle capable of achieving unprecedented levels of well-being.
 
-The strategy we want to propose is "track & adapt".
+We remain aware that theory and reality often diverge. It is hard to predict all the challenges that our system will face, nonetheless **values such as greater collaboration and freedom are more important to us than faster production growth**. We accept the fact that no member of society will reach a level of opulence comparable to the top 1% in capitalism, but this is by design rather than a problem.
 
-A first good guess on what method to use can bes.
+The purpose of Babel isn't to create a highly productive system, but rather a society where everyone has all they need to achieve their own happiness.
+
+**Happiness is a state of the mind**, often fired up by succeeding in our intentions, by finishing something we are proud of or are satisfied with, in perfect line with our crafty nature. Once the basic needs are guaranteed, happiness has very little to do with how many and what kind of products we have.
+
+# Willful labor
+
+Work is all about collaboration. There are very few ventures that can be done in isolation.
+
+True to our core values of [freedom](@content/manifesto/index.md#freedom), and to our understanding of [authority](@content/blog/authority/index.md), we believe every person must be free to pursue their own vocation, whatever would it be.
+
+There will be no contracts, no strict working schedules and no owners. It is all based on free association of people.
+
+Everyone will work whenever they want, as much as they want and on what they want.
+
+**Willful labor is the only way to maximize work efficiency.** It doesn't matter what processes employers try to setup to stimulate their employees to work more, high quality always comes with willfulness.
+
+If I don't like my job, no matter the incentives and punishments, I will always work at a fraction of my ability, constantly battling with the impulse of doing something else.
+
+By disconnecting quality of life from work done, we liberate our full potential. We are free from our individual limitations, able to harness all that society has to offer to achieve what we want, what society as a whole really needs.
+
+By allowing people to work as much as they want on what they are interested into we ensure the best quality of work with the least amount of stress, nurturing a pleasant work environment.
+
+Are you tired of your current job? Just try another venture for some time and see how it goes. There is no need to commit your entire life to a single field. You are free to go as deep and wide as it best suit yourself.
+
+Did you overwork yourself on the last project out of excitement? Disconnect and get some well-deserved leisure time. It is up to you. It's that easy.
+
+# Everything is a Gift {#gifts}
+
+Because everyone will work out of their goodwill, **everything we have and will receive is a gift from society**.
+
+Money and contracts often creates a sense of entitlement: "I have worked for it, so I can waste all these food if I want to", "I'm paying sound cash, why are you so slow at making my burger?!", "The customer is always right".
+
+This sense of entitlement creates ugly wrinkles on how we approach and judge people. Low-paid jobs are particularly degraded, even though they often contribute way more to society than many well-paid [Bullshit Jobs](https://en.wikipedia.org/wiki/Bullshit_Jobs).
+
+The truth is that no matter the economic model, without people's sweat of the brow and their collaboration, we would still be stuck in a prehistoric environment.
+
+We must be grateful to whoever toiled in the fields, to those who built our house, sewed our clothes, paved our roads and provide all we need to live a meaningful life.
+
+Babel makes this fundamental truth more evident and emphasize the beneficial psychology behind gifts.
+
+Gifts are a marvelous thing, they let us feel cared for, they create a connection, improve our sense of belonging and cause a strong sense of obligation. Gifts are deeply rooted in our history and part of every culture. This is the same foundation of [Gift economy](https://en.wikipedia.org/wiki/Gift_economy), which however is quite different than what we are presenting.
+
+This sense of gratitude, we are sure, will oblige us to contribute back to society as much as we can.
+
+# Finding a job
+
+Say we are looking for something to do. We connect to the online forum and see what projects are open for help in our area. We find one that piques our interest and join the discussion, asking some question and see if we can be of any help.
+
+We meet with the people already working on the project, we like them and feel it is a good fit for us. We agree on what would be our job and when we can start it.
+
+As you can see, it isn't much different than how it looks today, with the big improvement that **we'll chose a job we want to do, rather than one we have to do out of necessity**.
+
+Because work is as free as resources, **we eliminated unemployment**, thus employing the full force available in our society instead of wasting them away.
+
+# Job levels
+
+Many jobs need skills in order to be carried out at their best. Let's think for example of the surgeon, who needs a deep knowledge of the human body, a steady hand, and will be subject to a much higher responsibility than the norm.
+
+In order to access these jobs we will need to train people. The [educational system](@content/manifesto/index.md#education) already provides courses open to all, which will then be integrated with experience on the field.
+
+Most jobs will be divided into levels. Each level will require greater skills, autonomy and responsibility.
+
+Every entry level will always include a base training and be integral part of the educational system.
+
+Whenever we feel ready to move to a new level, we should look out for a tutor in our same line of work. The tutor is just another person who acquired already a greater job level than we want to achieve. The online forum will have a section for it.
+
+The tutor will be responsible to guide our growth, to suggest what we need to improve and what we should learn. Together with the tutor, we decide when it is a good time to try more difficult tasks. The tutor will then supervise our work, further guiding us if needed and to ensure no big mistakes are done.
+
+After some time, when the tutor feels we have reached a good skill level, we will be promoted to the next level by opening a job promotion project. This is mostly to keep track of our growth and doesn't require any exam. People we have worked with will be able to comment on it and give further approval to reinforce it.
+
+Once promoted, we will be back to full autonomy.
+
+It is important to understand that **job levels have no material gains**, they offer a concrete way to improve our skills while limiting possible mistakes due to inexperience.
+
+**Job levels create a web of trust**. People at a higher level are deemed by society to be more trustworthy and have demonstrated their skills on that particular field, that's why they are honored by entrusting greater responsibilities upon them.
+
+However, they will have little to no power over people at lower job levels. They can lead others and suggest complex solution to complex problems, but **they can't impose their will over others**.
+
+All people, whatever the level, must always use their critical thinking and never follow orders blindly. Inspecting another people's solution helps better understand them, and open the door to further improvements. It is also beneficial for ourselves because it is the best way to improve our skills.
+
+Babel encourages inquiries and deep understanding, "it is how it is" should never be considered as an acceptable answer.
+
+Advancement of job levels doesn't have to be monotonic, we can jump several levels if our skills allow us.
+
+**Reaching a high job level is not a requirement**. There is nothing wrong in staying at the entry level if that's what we want.
+
+Once society will be big enough, we would advise to establish the so-called [Journeyman years](https://en.wikipedia.org/wiki/Journeyman_years) to foster creativity.
+
+# Art
+
+Art is the vehicle of expression of human soul. Babel highly values all forms of art, such as sculpture, painting, dance, gymnastic, music, etc...
+
+More than in any other society, artists will be free to do what they do best: whisper to our hearts, inspire and dream.
+
+In market societies in particular, art must appeal the taste of people, it is constrained by the material needs, castrated in its expression. Babel breaks all boundaries and gives full freedom to the artistic soul.
+
+Just think about how many artists that we now consider as masters, died without experiencing much recognition. True genius is often misunderstood.
+
+It doesn't matter if nobody understand a product of art, as long as the author is satisfied with their piece. It doesn't matter if a book is read by two, ten or a million people, as long as the writer was able to give life to their thoughts.
+
+# Humble and hazardous jobs
+
+If we can all do the job we like, who will do the humblest and most tiring jobs?
+
+## Short-term
+
+The short-term answer is "everyone". Many of the jobs that today we find tiring can often be eliminated by organizing properly.
+
+For example, everyone should learn how to clean their home, as well as the many common facilities. In public toilets there should be a sanitization system available to be applied before use, so that we leave it cleaner than we found it.
+
+Thanks to collective effort, we will no longer need janitors, or at least that type of work will become much easier to do.
+
+If nobody wants to work as a waiter, restaurants can be structured in a way that let customers bring food to their table once it is ready, as it often happens in fast-food chains.
+
+Certain jobs can be made more communal, such as harvesting the fields, and should be done with the help of the whole society. These activities help us remain humble and give a sense of conviviality; for thousands of years these were moments of celebration where people shared the fruits of the earth. Hard labor done all together is lighter and more pleasurable.
+
+Overall it would be important to encourage cooperation through social responsibility, and **we could employ gamefication strategies to further incentivize it**. For example, we could setup an achievement system as those available in all major gaming platform, which give no benefits other than personal gratification and social recognition.
+
+Hazardous jobs such as miners are already heavily regulated to ensure the least amount of risks and to increase safety, however these measures are often discarded by capitalists because it is more profitable in that way. This way of thinking has no space in Babel Society.
+
+Given that there is no profit to be made and that laborers have full control over their jobs, it is natural to employ all the best precaution to ensure even dangerous jobs are done in a safe manner.
+
+All of these changes are easily applied in a small, involved society that grows in a sustainable way.
+
+## Long-term
+
+**The long-term solution is automation**. Babel focus heavily on research in order to eliminate those chores that nobody wants to do, especially those that are repetitive or considered dangerous and high-risk. For example, there is already a robot capable of cleaning up toilets.
+
+# Tourism
+
+Tourism will be an excellent source of foreign currency, but also a vector of change, a way to show the world the quality of our society. All tourists will be welcomed, from any country and region of the world.
+
+Tourists will have to register at the entrance and purchase standard packages that give them limited access to what society has to offer. It will be similar to [soft limits](#soft-limits), but it will use a hard limit instead. Guests can always expand their packages for a fee if they exhaust their quotas.
+
+Like everybody else, they will be required to respect the environment: littering and other acts of incivility will be subject to very high fees, and perhaps even expel them.
+
+# Conclusions
+
+By applying this economic system, we are efficiently coping with our infinite desires while having all the necessary information to continually improve production.
+
+Everyone will be free to pursue their interests, to work with enthusiasm and achieve a level of social satisfaction impossible to reach at such a large scale in a capitalistic society.
+
+**This socioeconomic arrangement render a plethora of issues impossible**, to name a few:
+
+- Unemployment: everyone can work on what they like, improving overall production.
+- Theft: everything is free, thus we can't steal anything.
+- Economic corruption: there is nothing we could give to somebody else to force them to do what we want.
+- Economic discrimination: everyone will have as much as everyone else, making any discrimination based on wealth impossible
+- Black markets: there will be no customs or illegal goods, hence no need for black markets
+- Tax evasions: no taxes, no evasion.
+
+**The most important issue solved is pollution**. The greatest cause of pollution today isn't due to a lack of green technology, but rather people profit more by *not* using them.
+
+Those who decide to poison the river live far, far away from it, and thus don't care the least about it. Notwithstanding the elimination of the profit motive, because all production in Babel is under the responsibility of local people, **nobody sane in mind would poison the river they use for water**.
+
+Babel creates the perfect environment to reduce and eventually completely eliminate pollution.
+
+**This is the most important contribution and why we should all support this kind of economic systems**.
+
+# Critiques
+
+#### Excessive reliance on technology. As soon as there is a bug, and there will be, everything will fall apart.
+
+It is true that technology is well integrated in Babel, we believe it is essential to allow efficient resource management at scale.
+
+We understand that it is easy to over-rely on technology and build a system that locks us away in case of issues, that's why **this is a good concern, and one we need to keep in mind when designing all systems**.
+
+However we track resources as a way to improve our knowledge of the system, **and not as a way to control people**.
+
+In case of an issue in the system, the worst thing that should happen is that we lose some data and perhaps a store will have a delay on supply.
+
+It is paramount that people are able to get whatever they need even when the whole system is down.
+
+Such is the system we have in mind.
+
+If we exclude the high scale from the picture, a small community can apply this economic system with just pen & paper, by simply discussing about what is needed. It will be less efficient, but still better than capitalism.
+
+#### People will fight hard for the best *X*
+
+Here *X* is anything with limited availability, such as a house nearby the sea.
+
+This is a legit concern in capitalism, where social status is flaunted through luxurious items. They also wrongly teach us that any emotional void can be filled through materialistic consumption.
+
+All of these issues have no place in Babel. There is no place for cheap products because there aren't poor people.
+
+If required, houses with beautiful view could be reserved as vacation houses, available to all through waiting lists. Mansions and the lot will have no reason to exist because they require lots of maintenance that in a capitalistic society is filled by cheap, exploitative labor.
+
+The most productive and fertile soil will produce for everyone, hence there is no reason to fight over it.
+
+Most importantly, once we have our material needs covered and disconnected from social esteem, luxury would be less of a concern, an extravaganza.
+
+Don't get us wrong, though: it doesn't mean that all products are exactly the same, that everything is homologated to a boring standard.
+
+Quite the contrary, society will offer all that we need to experiment and express the full might of our creativity. There will be variations of the same product, but **each will have a defining characteristic**, an intrinsic usefulness that goes beyond the brand.
+
+#### People are all lazy, nobody will work
+
+If nobody will work, then all will die.
+
+Because society's well-being directly impact everyone's quality of life, there will always be people that don't mind doing something if it ensures them a better life, notwithstanding that we are a crafty species that hardly tolerates boredom.
+
+#### What about parasitic people? Those who let others do the hard work
+
+Well, in capitalistic societies they get all the honors. It's the top 1% the most parasitic people of them all.
+
+In Babel we approach it differently.
+
+The worst people are those who think they are *entitled* to everything society has to offer. We already said that [everything is a gift](#gifts), hence people will frowns on such behaviors, and they could be socially ostracized if they don't get a hold of their character.
+
+Nonetheless, under the influence of capitalism, some people are unjustly considered as parasitic. It is often the case with artists and other humanistic fields, such as history and philosophy.
+
+We recognize their value and fully support them. They will say that art and thoughts can't be eaten, but it is exactly through art and thoughts that we evolved.
+
+They will say that many so-called artists are full of themselves and just waste time creating worthless pieces. Sometimes it is hard to discern a genius from the chaff.
+
+As long as we can all afford a good quality of life, we much prefer to care for the chaff rather than kill a genius.
+
+Even if only 1% of the population produced all the practical goods required by society, while the remaining 99% worked on art, we will be ok with that.
+
+First, it means that automation is so good that little effort is enough to provide for all. Second, because labor is based on freedom, the 1% have as much choice as anybody else to dedicate to art but preferred not to.
+
+Ultimately it is up to society to decide what's good and what's bad. If at some point the 1% will change their mind, then a different arrangement will be discussed. **There where is freedom, there is possibility**.
