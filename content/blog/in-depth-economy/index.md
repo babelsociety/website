@@ -48,7 +48,7 @@ Spoiler alert: the result is nothing new, greatly similar to what [anarchist com
 
 Taking all in consideration, our main design decision is: **an individual's quality of life is strictly bound to society's quality of life**.
 
-This means that by improving our life, we automatically improve other people's life too, creating a virtuous cycle.
+This means that by improving our life we automatically improve other people's life too, creating a virtuous cycle.
 
 Incidentally, both the society and the economic system we want to build share the same fundamental design decision.
 
@@ -157,13 +157,15 @@ It is inevitable that some people will consume less than 1kg, while others will 
 
 After a while, we can revise the limit and eventually address cases of severe over-consumption at social level.
 
-### Preorders
+### Preorders & Waiting lists {#waiting-lists}
 
 There may be goods that take time to produce or aren't suited for continuous production. For example, we only need a set amount of smartphones at a given time. Instead of overproducing them, with the risk of wasting precious resources on a model that may go obsolete, we can place an order whenever we need it.
 
 As everything in Babel, waiting lists are transparent, everyone can see their place in it and the system may also estimate how long it will take before we receive the goods.
 
 All orders are fulfilled on a first come, first served manner. Depending on the nature of the goods, orders may be shared across many producers (standard production method) or be specific to a single shop (custom-made products).
+
+Waiting lists may be prioritized according to some rule to ensure better distribution. For example, in case of a pandemic it is better to give higher priority to those member of society that are more vulnerable. As always, use your best judgment and tweak the tools available to best solve the issue at hand.
 
 This strategy is flexible and can be applied to all products. For example, we can book a table at our preferred restaurant on a given date, as we can reserve 1kg apples for next Thursday, etc...
 

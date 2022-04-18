@@ -388,7 +388,7 @@ In cases where the person is mentally defective and not self-sufficient, it will
 
 # Economics
 
-Economy is a fundamental aspect of every society, but way too often we bend our social lives in favor of economy. History showed us many times that vast amount of people have been killed to save the wealth of the few.
+Economy is a fundamental aspect of every society, but way too often we bend our society in favor of economy. History showed us many times that vast amount of people have been killed to save the wealth of the few.
 
 Babel invert the trend, and instead we let economy serve society, to improve the well-being of all rather than the few.
 
@@ -396,71 +396,74 @@ We derive it from the core values of our society, freedom and collaboration in p
 
 The freedom aspect dictates that every person should be able to explore life according to their will.
 
-Collaboration teaches us that together we can achieve what alone would be impossible.  Even the greatest invention of all time could never be without the help of those who came before, those who supported and inspired the inventor.
+Collaboration teaches us that together we can achieve what alone would be impossible.  Even the greatest invention of all time would never be without the help of those who came before, those who supported and inspired the inventor.
 
-Another guiding principle is that we want an economic system that would help us **prevent** social issues, such as corruption, exploitation of the weak, etc...
+Another guiding principle is that we want an economic system that help us **prevent** social issues, such as corruption, exploitation of the weak, etc...
 
 Taking all in consideration, our main design decision is: **an individual's quality of life is strictly bound to society's quality of life**.
 
-This means that by improving our life, we automatically improve other people's life too, creating a virtuous cycle.
+This means that by improving our life we automatically improve other people's life too, creating a virtuous cycle.
 
 The practical implication is that **all is free and available to all**. There would be no strict limitation in consumption, while production would be in direct control of everyone involved.
 
-Imagine a world where you don't have to struggle to cover your basic needs, but rather everyone collaborate to enjoy the best quality of life. A world where labor isn't pleasurable and through which we can express the full might of our ambition, or simply find our place in society.
+Imagine a world where you don't have to struggle to cover your basic needs, but rather everyone collaborate and enjoy the best quality of life. A world where labor is pleasurable and through which we can express the full might of our ambition, or simply find our place in society.
 
 This system best express freedom and collaboration in every aspect, able to care for all the different kind of human soul, from the most artistic to the most logical and precise.
 
-Technology will help us make this system efficient: we **track** everything is produced and consumed, and thanks to these data producers can **adapt** their production line in the best way they see fit.
+Technology will help us make it efficient: we **track** everything is produced and consumed; thanks to these data, available to all, producers can **adapt** their production line in the best way they see fit.
 
 We expect this system to yield **unparalleled innovation**, but this is a positive side effect.
 
 We aren't interested in an economy that maximize production while destroying human lives. Quite the contrary, **our goal is to maximize quality of life at the highest level**.
 
-If you want to know more about Babel's economic system, please have a look at [In Depth: Babel Economy](@content/blog/in-depth-economy/index.md)
+[In Depth: Babel Economy](@content/blog/in-depth-economy/index.md) discuss more in detail Babel economic system.
 
 # Personal sphere
 
 
 ## Competition
 
-Although our society places great emphasis on collective collaboration, on a personal level some healthy competition never hurts and certainly shouldn't be stigmatized. Both competition and collaboration are part of our human nature, therefore it is good to have ways to exercise this characteristic in a healthy way.  
-One way will be through sports and martial arts, but also other kinds of competitions, such as musical ones, videogames tournaments, etc...
+Although our society places great emphasis on collaboration, on a personal level some healthy competition never hurts and certainly shouldn't be stigmatized. Both competition and collaboration are part of our human nature, therefore it will naturally manifest itself in society.  
+
+When working on a problem it is inevitable for people to come up with all sorts of solutions. Instead of insisting in using just one, after a thorough screening, would be better to give a try to as many as possible. This natural competition helps us further evolve our understanding of the problem and to better solve the issue.
+
+Competition is also important in all competitions, such as musical ones, videogames tournaments, martial arts, sports, etc...
 
 We hope that a healthy and positive competition will always be established, in which our rivals are respected and seen as companions on a journey, perhaps as a goal to reach and overcome. Why not, they might become our best friends.
 
 
-## Ownership
+## Personal ownership
 
-It is widely demonstrated that humans need stability in order to function at their best and live a peaceful life. Private ownership, i.e. being able to benefit from a particular asset in an exclusive and unlimited way, helps us increase this sense of stability and our planning skills.
+It is widely demonstrated that humans need stability in order to function at their best and live a peaceful life. Personal ownership, i.e. being able to benefit from a particular product in an exclusive and unlimited way, helps us increase this sense of stability and our planning skills.
 
-We own all assets we are granted by society.
+We own all products granted by society.
 
 ## Recreational Activities
 
-Recreational activities are just as important as productive ones for a healthy and balanced life. Each person should have enough time to spend with their family, especially with their children. This is why we always recommend balancing your days between productive and recreational activities.  
+Recreational activities are just as important as productive ones for a healthy and balanced life. Each person should have enough time to spend with their family, especially with their children. This is why we always recommend balancing your days between productive and recreational activities.
+
 We emphasize that productivity, although very important for the proper functioning of society, must never be at the expense of one's personal life.
 
 Several studies have shown that to be fully productive and enjoy greater creativity, rest and idleness are essential. A good book that links productivity to rest is "[The Power of Full Engagement](https://www.goodreads.com/book/show/68985.The_Power_of_Full_Engagement)" by James E. Loher and Tony Schwartz.  
-In fact, the moment in which our brain is able to work best is when we are in complete idleness, in which there is no other distraction but ourselves and it becomes easier to analyze our life, our problems, especially those within.
+In fact, our brain works best when we are in complete idleness; when there is no other distraction but ourselves, it becomes easier to analyze our life, our problems, to improve our psychological balance.
 
-Idleness, while useful, is certainly not one of the most social recreational activities; we hope that society will organize itself in such a way to provide ample opportunities for recreation.
+Idleness, while useful, is certainly not one of the most social recreational activities; we have no doubt society will organize itself in such a way to provide ample recreational opportunities.
 
 
 ## Sexual identity
 
-In full respect of everyone's [freedom](#freedom) and [authenticity](#authenticity), we respect and promote exploring and understanding oneself and one's sexual identity.  
-The different sexual identities will all enjoy the same rights, including being able to have a family and children.
+In full respect of everyone's [freedom](#freedom) and [authenticity](#authenticity), we respect and promote exploring and understanding oneself and one's sexual identity.
 
-A very important aspect will also be sexual education, which we believe should be carried out already in early adolescence to help them better understand all the changes in their body and manage the cravings related to the sexual sphere in a healthy way.
+Discrimination have no place in Babel, sexual identity is no different.
+
+A very important aspect is emphasis in sexual education, which should be carried out already at an early age, and no later than early adolescence, to help them better understand all the changes in their body and manage the sexual sphere in a healthy way.
 
 
 ## Spirituality and Religion
 
-Spirituality and freedom of religion is very important for self-realization and therefore all beliefs are admitted. We consider spirituality as strictly personal. Religious organizations will not have any particular treatment and all its members will have to fully respect the decisions of the society, as well as be an active member of it.
+Spirituality and freedom of religion is very important for self-realization and therefore all beliefs are admitted. We consider spirituality as strictly personal. Religious organizations will not have any particular treatment and all its members will have to fully respect and be an active member of society.
 
 Peaceful coexistence and collaboration between members of different beliefs is fundamental. We remind ourselves that to build any type of structure we need the consent of everyone, therefore creating tensions and divisions will only lead to discontent and make our life harder.
-
-Any external religious organization will be considered as a [foreign organization](#foreign-organizations).
 
 
 ## Travels
@@ -469,39 +472,38 @@ Getting in touch with different cultures is extremely important to broaden our v
 
 It will be beneficial to set up organized travels, especially in countries where the language barrier could lead to problems, or in those having more stringent access regulations. That's said, each member must be given free choice on how to organize the trip as they see fit.
 
-At first, the possibility of travel will likely be subject to [waiting lists](#waiting-lists), where those who have made fewer trips should have higher priority. During the distribution of resources it is always good to invest in this aspect.
+At first, the possibility of travel will likely be subject to [waiting lists](@content/blog/in-depth-economy/index.md#waiting-lists), where those who have made fewer trips should have higher priority. During the distribution of resources it is always good to invest in this aspect.
 
 
 # Technology
 
 At the heart of Babel Society is a technological revolution that aims to give as much visibility and power as possible to every member of society.
 
-Each technological component will be created following the philosophy of [Free Open Source Software](https://en.wikipedia.org/wiki/Free_and_open-source_software), which is one of the most successful forms of collaboration. This means that:
+Each technological component is created following the philosophy of [Free Open Source Software](https://en.wikipedia.org/wiki/Free_and_open-source_software), which is one of the most successful forms of collaboration. This means that:
 
 - Every detail of the system can be scrutinized by anyone
-- Every part will be usable and modifiable by anyone
-- Everyone can contribute to the improvement of it
+- Every part is usable and modifiable by anyone
+- Everyone can help improve it
 
-Over the years it has been shown that the technologies thus developed tend to be among the safest and most reliable as they are for all to see, and it is therefore more likely that flaws or incorrect behaviors will be identified and corrected.
+Over the years it has been shown that the technologies thus developed tend to be among the safest and most reliable because it is more likely that flaws or incorrect behaviors are identified and corrected.
 
 Technology advancement becomes an ally that can improve our lives rather than making them worse.
 
-All technologies as well as being free will have to be as decentralized as possible. We aim for a distributed infrastructure in which every member holds a piece of the puzzle. This characteristic will make the system highly resilient to external attacks and is in line with the underlying philosophy of the Internet and Babel Society itself.
+All technologies as well as being free will have to be as decentralized as possible. We aim for a distributed infrastructure in which every member holds a piece of the puzzle.
 
+Decentralization is what makes a system highly resilient to external attacks and is in line with the underlying philosophy of the Internet and Babel itself.
 
 ## App
 
 The App is a smartphone application that will also provide a two-factor authentication, verify the person identity and provide access to all other technological tools available.
 
-## Wallet
+## Tracker
 
-It's an application used to manage your personal resources and for buying products, well integrated in the App and with the E-commerce. Please have a look at [Consumption](#consumption) for more detailed information.
+It's an application used to keep track of how much we consumed and of our [soft limits](@content/blog/in-depth-economy/index.md#soft-limits), well integrated in the App and with the E-commerce.
 
 ## E-commerce
 
-Central place where all products available in the society will be stored. Each product will have detailed information in its production, if it is produced by the society itself, if we can buy it in the area nearby us and many more. We expect that most products will be available for delivery.
-
-It will be seamlessly integrated with Wallet.
+Central place where all products available in the society are stored. Each product page have detailed information on its production, where we can buy it, and much more. We expect most products to be available for delivery.
 
 ## Virtual Forum
 
