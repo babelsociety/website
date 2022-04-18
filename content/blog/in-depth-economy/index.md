@@ -6,7 +6,7 @@ description = "Maximize quality of life instead of profits"
 date = 2022-02-05
 +++
 
-In this article we analyze more in depth Babel Economy, and explain the reason behind this model, how it works and some critiques.
+In this article we analyze Babel Economy more in depth, and explain the reason behind this model, how it works and some critiques.
 
 # Managing scarce resources
 
