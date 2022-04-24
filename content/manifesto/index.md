@@ -388,7 +388,7 @@ In cases where the person is mentally defective and not self-sufficient, it will
 
 # Economics
 
-Economy is a fundamental aspect of every society, but way too often we bend our society in favor of economy. History showed us many times that vast amount of people have been killed to save the wealth of the few.
+Economy is a fundamental aspect of every society, but way too often we bend society in favor of economy. Think about the [economic crisis of 2008](https://en.wikipedia.org/wiki/Financial_crisis_of_2007%E2%80%932008), where banks got bailed out and *their* debts redistributed to society as a whole, while the debts of the weak people, which where a direct consequences of banks bad behavior, weren't socialized and many lost their homes and killed themselves out of despair. **Socialism for the strong, capitalism for the weak**. That's the kind of society we live in.
 
 Babel invert the trend, and instead we let economy serve society, to improve the well-being of all rather than the few.
 
@@ -398,23 +398,23 @@ The freedom aspect dictates that every person should be able to explore life acc
 
 Collaboration teaches us that together we can achieve what alone would be impossible.  Even the greatest invention of all time would never be without the help of those who came before, those who supported and inspired the inventor.
 
-Another guiding principle is that we want an economic system that help us **prevent** social issues, such as corruption, exploitation of the weak, etc...
+Another guiding principle is that we want an economic system that help us **prevent** social issues, such as corruption, exploitation, criminal organizations, etc...
 
 Taking all in consideration, our main design decision is: **an individual's quality of life is strictly bound to society's quality of life**.
 
 This means that by improving our life we automatically improve other people's life too, creating a virtuous cycle.
 
-The practical implication is that **all is free and available to all**. There would be no strict limitation in consumption, while production would be in direct control of everyone involved.
+The only practical way to achieve so is **for all to be free and available to all**. There would be no strict limitation in consumption, while production would be in direct control of everyone involved.
 
 Imagine a world where you don't have to struggle to cover your basic needs, but rather everyone collaborate and enjoy the best quality of life. A world where labor is pleasurable and through which we can express the full might of our ambition, or simply find our place in society.
 
-This system best express freedom and collaboration in every aspect, able to care for all the different kind of human soul, from the most artistic to the most logical and precise.
+This system best express freedom and collaboration in every aspect, able to care for all the different kind of human soul, from the most artistic and chaotic to the most logical and precise.
 
 Technology will help us make it efficient: we **track** everything is produced and consumed; thanks to these data, available to all, producers can **adapt** their production line in the best way they see fit.
 
-We expect this system to yield **unparalleled innovation**, but this is a positive side effect.
+We expect this system to yield **unparalleled innovation**, but this is only a positive side effect and not our main goal.
 
-We aren't interested in an economy that maximize production while destroying human lives. Quite the contrary, **our goal is to maximize quality of life at the highest level**.
+We aren't interested in an economy that maximize production while destroying human lives. Quite the contrary, **our main goal is to maximize quality of life**, to push it at the highest level collectively.
 
 [In Depth: Babel Economy](@/blog/in-depth-economy/index.md) discuss more in detail Babel economic system.
 

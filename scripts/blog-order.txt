@@ -2,6 +2,7 @@ authority
 what-we-deserve
 systemic-poverty
 in-depth-economy
+in-depth-labor
 beyond-market-economy
 covid
 name

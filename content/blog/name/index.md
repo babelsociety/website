@@ -1,7 +1,7 @@
 +++
 title = "Meaning of the name"
 description = "Why we chose this name"
-weight = 6
+weight = 7
 
 [extra]
 menu = "Why Babel?"
