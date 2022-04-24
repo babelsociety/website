@@ -416,7 +416,7 @@ We expect this system to yield **unparalleled innovation**, but this is a positi
 
 We aren't interested in an economy that maximize production while destroying human lives. Quite the contrary, **our goal is to maximize quality of life at the highest level**.
 
-[In Depth: Babel Economy](@content/blog/in-depth-economy/index.md) discuss more in detail Babel economic system.
+[In Depth: Babel Economy](@/blog/in-depth-economy/index.md) discuss more in detail Babel economic system.
 
 # Personal sphere
 
@@ -472,7 +472,7 @@ Getting in touch with different cultures is extremely important to broaden our v
 
 It will be beneficial to set up organized travels, especially in countries where the language barrier could lead to problems, or in those having more stringent access regulations. That's said, each member must be given free choice on how to organize the trip as they see fit.
 
-At first, the possibility of travel will likely be subject to [waiting lists](@content/blog/in-depth-economy/index.md#waiting-lists), where those who have made fewer trips should have higher priority. During the distribution of resources it is always good to invest in this aspect.
+At first, the possibility of travel will likely be subject to [waiting lists](@/blog/in-depth-economy/index.md#waiting-lists), where those who have made fewer trips should have higher priority. During the distribution of resources it is always good to invest in this aspect.
 
 
 # Technology
@@ -499,7 +499,7 @@ The App is a smartphone application that will also provide a two-factor authenti
 
 ## Tracker
 
-It's an application used to keep track of how much we consumed and of our [soft limits](@content/blog/in-depth-economy/index.md#soft-limits), well integrated in the App and with the E-commerce.
+It's an application used to keep track of how much we consumed and of our [soft limits](@/blog/in-depth-economy/index.md#soft-limits), well integrated in the App and with the E-commerce.
 
 ## E-commerce
 
