@@ -2,8 +2,8 @@
 weight = 1
 
 title = "What we deserve"
-description = "Nobody should be slave to either their or others talents"
-date = 2022-04-07
+description = "Nobody should be slave to either theirs or others talents"
+date = 2022-04-19
 +++
 
 In this article we analyze and address meritocracy and the false necessity of ranking people, answering the question "what do we deserve?".
@@ -87,4 +87,4 @@ In Babel, other than social recognition and the intrinsic satisfaction typical o
 
 Our answer to "what do we deserve?" follows the same philosophy outlined by [anarchist communism](https://en.wikipedia.org/wiki/Anarcho-communism): we deserve nothing and all at the same time. There is no special virtue by which we can pretend more than what is already given, as there is no fault by which we should have less. Every person should have what they need to live a fulfilling life, limited only by what is available and the respect among people.
 
-This idea and its implications are better discussed in [Babel Economy](@content/blog/in-depth-economy/index.md).
+This idea and its implications are better discussed in [Babel Economy](@/blog/in-depth-economy/index.md).

@@ -1,10 +1,9 @@
 +++
-weight = 1
+weight = 4
 
 title = "Beyond Market Economy"
 description = "How Market Economy encourage bad behaviors and what alternative we have"
-date = 2022-02-05
-draft = true
+date = 2022-04-19
 +++
 
 In this article we want to better understand what Market Economy is, why we need an alternative and how it could look like.
@@ -13,9 +12,9 @@ We aim for a broad audience, hence we will try to explain all terms in a simple 
 
 # What is Market Economy?
 
-A Market Economy is a category of economic models where products are distributed through markets. 
+A Market Economy is an economic model centered around markets. 
 
-A market is composed by priced products, buyers and sellers.
+The components of a market are: prices, products, buyers and sellers.
 
 For sake of simplicity, we define "price" as the monetary value accepted in exchange for a product.
 
