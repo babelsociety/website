@@ -26,9 +26,17 @@ h3 {
   font-weight: normal;
 }
 
+.zola-anchor {
+  font-size: 0.7em;
+  line-height: 1em;
+  vertical-align: middle;
+  display: inline-block;
+  margin-right: 0.5rem;
+}
+
 .text {
   font-family: "Fira Sans", sans-serif;
-  font-size: 18px;
+  font-size: 15pt;
   font-weight: 400;
   line-height: 26px;
   letter-spacing: 0.2px;
