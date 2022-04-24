@@ -1,9 +1,9 @@
 +++
-weight = 1
+weight = 3
 
 title = "In Depth: Babel Economy"
 description = "Maximize quality of life instead of profits"
-date = 2022-02-05
+date = 2022-04-19
 +++
 
 In this article we analyze Babel Economy more in depth, and explain the reason behind this model, how it works and some critiques.
@@ -18,13 +18,13 @@ The main goal of any economic system must be to efficiently manage scarce resour
 
 Managing is all about making decisions and setting up the right processes. Better the decisions we make, greater would be the efficiency.
 
-**Greater the amount of information at our disposal, better decisions we make.**
+**Greater the amount of information at our disposal, better decisions we'll make.**
 
 Be aware that every limited resource can be employed for different production goals. For example, on a piece of land we could build a house, a skyscraper, a supermarket, or perhaps use it to farm grains, fruit trees, leave it to nature, etc...
 
 The best way to allocate resources should tell us how to best satisfy our unlimited desires. Because desires are unlimited, we already know that we will never fully satisfy them, hence we need to prioritize as much as possible.
 
-People have different preferences and rank desires differently: I like spicy food, while you may hate it. Thus the prioritization must be done as a best effort, taking in consideration all the peculiarities of the people in the society itself.
+People have different preferences and rank desires differently: I like spicy food, while you may hate it. Thus the prioritization must be done as a best effort, taking in consideration all the peculiarities of people.
 
 Another important factor is that environment will shape part of our desires: in Siberia we defend against extreme cold, while in Ecuador we defend against hot temperature. Environment also impacts what kind of resources we have available: some places are rich in drinkable water, while in others it's a precious resource.
 
@@ -40,17 +40,15 @@ The main goal of Babel economy it is to provide an economic model best suited to
 
 Indeed, we have little interest in the most productive allocation of resources if the result is a society full of misery and suffer.
 
-Our [core values](@content/manifesto/index.md#core-values) are the foundation of our economic system, with particular emphasis on freedom and collaboration.
+Our [core values](@/manifesto/index.md#core-values) are the foundation of our economic system, with particular emphasis on freedom and collaboration.
 
-We applied to economy one of the golden rules of software design: make wrong states irrepresentable; we want a system impossible (or at least very hard) to corrupt and exploit, without poverty, one where criminal activities are unmotivated. We want an economy where people can thrive and become the best versions of themselves.
+We applied to economy one of the golden rules of software design: make wrong states irrepresentable; we want a system impossible to corrupt and exploit, without poverty, one where criminal activities are unmotivated. We want an economy where people can thrive and become the best versions of themselves.
 
 Spoiler alert: the result is nothing new, greatly similar to what [anarchist communists](https://en.wikipedia.org/wiki/Anarcho-communism) popularized by the end of the ninetieth century.
 
 Taking all in consideration, our main design decision is: **an individual's quality of life is strictly bound to society's quality of life**.
 
 This means that by improving our life we automatically improve other people's life too, creating a virtuous cycle.
-
-Incidentally, both the society and the economic system we want to build share the same fundamental design decision.
 
 We believe this formula plays well with the different aspects of human nature, for example both egoism and altruism can be put up to good work in this model.
 
@@ -61,13 +59,13 @@ We believe every emotion and aspect of human nature is important, every sentimen
 
 ## Why not a market economy?
 
-[Market economies have serious flaws](@content/blog/beyond-market-economy/index.md), all caused by a single design decision: **an individual's quality of life is strictly bound to how good of a seller they are**.
+[Market economies have serious flaws](@/blog/beyond-market-economy/index.md), all caused by a single design decision: **an individual's quality of life is strictly bound to how good of a seller they are**.
 
 This highly individualistic economic model is the cause of a plethora of social issues and therefore incompatible with our main goal.
 
 ## Why not a planned economy?
 
-[Planned economy](https://en.wikipedia.org/wiki/Planned_economy) can be one of two main kind: centralized or decentralized.
+A [planned economy](https://en.wikipedia.org/wiki/Planned_economy) can be either centralized or decentralized.
 
 They both share the creation and commitment to an economic-wide plan.
 
@@ -77,7 +75,7 @@ The decentralized ones are more flexible and at first glance seem to better fit 
 
 The desire to reward different people differently, despite their strive for the most just way, it is not only a Sisyphean endeavor, but a perilous one: it embraces the idea that people should be graded and divided, it justify that some should have more than others, that some *deserve* better.
 
-As we have explained in [What we deserve](@content/blog/what-we-deserve/index.md), we see things differently.
+As we have explained in [What we deserve](@/blog/what-we-deserve/index.md), we see things differently.
 
 ## Sustainability
 
@@ -87,15 +85,15 @@ A management of scarce resources that doesn't consider a sustainable cycle of pr
 
 This is why creating a [circular economy](https://en.wikipedia.org/wiki/Circular_economy) is extremely important. All goods and services produced within Babel must be designed taking into consideration their entire life cycle, with particular attention to the ecological sustainability of the entire production line.
 
-Other than a production method clean and without pollution, it is important to keep an eye on the ability to repair and recycle each product as much as possible. This is inline with the understanding that resources are limited, hence we want to make the most out of what we have available.
+It is important to keep an eye on the ability to repair and recycle each product as much as possible. This is inline with the understanding that resources are limited, hence we want to make the most out of what we have available.
 
 **Recovering materials is crucial.** Think about how much garbage and hazardous waste is produced by technological advancement, by new iterations of high-tech products, such as a new smartphone, television, etc... 
 
-The distribution of new products must be balanced by its sustainability. Rather than mass-producing every single innovation, it would be more appropriate to focus on research and limit mass production to significant improvements.
+The distribution of new products must be balanced by its sustainability. Rather than mass-producing every little innovation, it would be more appropriate to focus on research and limit mass production to significant improvements.
 
 We believe that there is little value in switching to a more powerful smartphone if we then use it in the same way as the previous one. On the other hand, the generational leap from mobile phones to smartphones has been significant and has brought a concrete improvement to everyone's life.
 
-By focusing more on research and innovation rather than mass-production we will have better products in less time, and with less expended resources.
+By focusing more on research and innovation rather than mass-production we will have better products in less time, and with less resources.
 
 # Track & Adapt
 
@@ -113,9 +111,9 @@ Equipped with this information, individual producers can have a clear understand
 
 # Resources allocation
 
-Still the question remains: how we allocate different resources?
+Still the question remains: how do we allocate different resources?
 
-Remember that our main design decision impose that **an individual's quality of life is strictly bound to society's quality of life**, thus the most natural way to allocate resources is for **everything** to be **shared and freely accessible**, both the means of production and the results of our efforts.
+Remember that our main design decision imposes that **an individual's quality of life is strictly bound to society's quality of life**, thus the most natural way to allocate resources is for **everything** to be **shared and freely accessible**, both the means of production and the results of our efforts.
 
 It is important to understand that resources consumption is completely disconnected from one's production and/or effort.
 
@@ -133,6 +131,16 @@ The real issue is when we *perceive* that there aren't enough apples to satisfy 
 
 In Babel we have several mechanisms to cope with that.
 
+### Active involvement
+
+Babel emphasizes active involvement. If our desires aren't met by our current production, then it is up to us to satisfy it.
+
+For example, suppose that there isn't enough bread in our community due to lack of bakeries. If we perceive it as a big lack, then it would be normal in Babel to join a bakery and learn the trade, or perhaps research how to produce more bread.
+
+How we'll solve the issue depends on our aptitude, but the point is to act upon a problem we care for, solving it for both ourselves and the community.
+
+**Don't wait for others, act!** Others will help and follow, but it's up to everyone to improve our community.
+
 ### Prediction
 
 Because we track everything, once we accrue enough data we can statistically predict future consumption for each product and adapt our production accordingly.
@@ -147,13 +155,17 @@ In case it isn't possible to increase production, we can limit how much a person
 
 Thanks to all information available, society can come up with a good limit per person, in accordance with the needs of those interested in a product (demand) and those who produce it (supply).
 
+Limits are discussed by geographical area, given that different areas will have different challenges and needs.
+
 It is paramount that all the interested people (consumers and producers) participate in setting up and agree on the actual limit. This ensures that everyone will commit to and respect it.
 
 For example, we could agree to a limit of 1kg apples per week per person. Because consumption is tracked at individual level, it is easy to set it up.
 
 It is inevitable that some people will consume less than 1kg, while others will crave for more. If we impose a *strict* limit, on the same day we will have both unsatisfied people and apples left to rot. Unsatisfied people will perceive it as a shortage, hence we wouldn't have solved much. We don't want to push people into theft, but rather prevent it.
 
-**The limit should be considered as an indication that we are over-consuming** and that we should adjust our behavior. Given that we all agreed on the limit together, it would be antisocial and even awkward for people to go over it. Nonetheless everyone have different needs, hence it should be possible to individually adjust limits. For example, children may need to consume more apples. The reason isn't important, what's important is that the special cases are discussed and agreed upon by all involved.
+**The limit should be considered as an indication that we are over-consuming** and that we should adjust our behavior. Given that we all agreed on the limit together, it would be antisocial and even awkward for people to go over it.
+
+Nonetheless everyone have different needs, hence it should be possible to individually adjust limits. For example, children may need to consume more apples. The reason isn't important, what's important is that the special cases are discussed and agreed upon by all involved.
 
 After a while, we can revise the limit and eventually address cases of severe over-consumption at social level.
 
@@ -177,7 +189,7 @@ In practice there will be stores, both physical and online as we are used today,
 
 Imagine to enter into a store, get all the groceries you need, scanning each item as you go as already happen in many supermarkets, and then just go back home. No cashier and check-in is needed because everything is free. With the right technology we can even remove the need to manually scan each product, as Amazon already experimented with "[Just Walk Out Shopping](https://justwalkout.com/)".
 
-Through our smartphone we will access a detailed product page, with all the information necessary to decide which product better fit our preferences. Each product will also have a section with people opinions over it.
+Through our smartphone we have easy access to a detailed product page, with all the information necessary to decide which product better fit our preferences. Each product will also have a section for people opinions.
 
 ### Foreign products
 
@@ -209,7 +221,7 @@ We believe that it is much better to use less efficient production methodologies
 
 Suppose we are passionate about chairs made in wood, with a nice look & feel, chairs that we may consider by today standards as luxurious. Suppose there isn't much demand as a whole, hence **both in planned and market economies this would be a hard business to start**.
 
-In Babel we can [open a project](@content/manifesto/index.md#projects) explaining our idea, and once we gather the right skills and materials to produce such chairs, that's it. Because there is low-demand, we don't need to mass produce, hence we need simpler tools and fewer materials to start it up.
+In Babel we can [open a project](@/manifesto/index.md#projects) explaining our idea, and once we gather the right skills and materials to produce such chairs, that's it. Because there is low-demand, we don't need to mass produce, hence we need simpler tools and fewer materials to start it up.
 
 Because we desire such chairs, we will be the best people who can help produce them, taking care of creating a nice environment and have extra care for the final product.
 
@@ -229,7 +241,7 @@ Nonetheless it is better to record all important information online, so to have 
 
 ### Production projects
 
-Once we have clear in mind what we want to do and how to do it, it's time to open a [project](@content/manifesto/index.md#projects).
+Once we have clear in mind what we want to do and how to do it, it's time to open a [project](@/manifesto/index.md#projects).
 
 We specify in great detail all the resources we need, what production method we'll employ, what skills and technologies we need, how the supply chain would look like, preconditions, etc... More information we give, easier would be the discussion. The system will then propagate the new project to all people that could be interested in it.
 
@@ -269,7 +281,7 @@ Both physical and virtual research centers will be developed so that everyone ca
 
 Research is the field that more than any other will benefit from high collaboration. Very often particular inventions and discoveries are kept under strict control through patents and intellectual property rights, which limit their application as well as their advancement. Thanks to Babel free and collaborative environment, everyone will be able to take advantage of the best discoveries.
 
-Research often requires burn through many resources before it leads to any result, but this will no longer be a problem: just present a [project](@content/manifesto/index.md#projects) explaining the final goal of it and the amount of resources needed.
+Research often requires burn through many resources before it leads to any result, but this will no longer be a problem: just present a [project](@/manifesto/index.md#projects) explaining the final goal of it and the amount of resources needed.
 
 We should facilitate any attempt at research, but it is always important to keep an eye on the amount of resources required. A very important aspect is how ethical the research is: cruel experiments on living beings should be avoided as much as possible.
 
@@ -281,7 +293,7 @@ It goes without saying that many researches never bear any fruits, but this is a
 
 The quantity of goods produced will determine the quality of life of each member of our society.
 
-We are confident the focus on [collaboration](@content/manifesto/index.md#collaboration), [education](@content/manifesto/index.md#education) and [research](#research) will be able to trigger a virtuous cycle capable of achieving unprecedented levels of well-being.
+We are confident the focus on [collaboration](@/manifesto/index.md#collaboration), [education](@/manifesto/index.md#education) and [research](#research) will be able to trigger a virtuous cycle capable of achieving unprecedented levels of well-being.
 
 We remain aware that theory and reality often diverge. It is hard to predict all the challenges that our system will face, nonetheless **values such as greater collaboration and freedom are more important to us than faster production growth**. We accept the fact that no member of society will reach a level of opulence comparable to the top 1% in capitalism, but this is by design rather than a problem.
 
@@ -293,7 +305,7 @@ The purpose of Babel isn't to create a highly productive system, but rather a so
 
 Work is all about collaboration. There are very few ventures that can be done in isolation.
 
-True to our core values of [freedom](@content/manifesto/index.md#freedom), and to our understanding of [authority](@content/blog/authority/index.md), we believe every person must be free to pursue their own vocation, whatever would it be.
+True to our core values of [freedom](@/manifesto/index.md#freedom), and to our understanding of [authority](@/blog/authority/index.md), we believe every person must be free to pursue their own vocation, whatever would it be.
 
 There will be no contracts, no strict working schedules and no owners. It is all based on free association of people.
 
@@ -343,7 +355,7 @@ Because work is as free as resources, **we eliminated unemployment**, thus emplo
 
 Many jobs need skills in order to be carried out at their best. Let's think for example of the surgeon, who needs a deep knowledge of the human body, a steady hand, and will be subject to a much higher responsibility than the norm.
 
-In order to access these jobs we will need to train people. The [educational system](@content/manifesto/index.md#education) already provides courses open to all, which will then be integrated with experience on the field.
+In order to access these jobs we will need to train people. The [educational system](@/manifesto/index.md#education) already provides courses open to all, which will then be integrated with experience on the field.
 
 Most jobs will be divided into levels. Each level will require greater skills, autonomy and responsibility.
 

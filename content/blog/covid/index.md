@@ -1,8 +1,8 @@
 +++
-weight = 2
+weight = 5
 
 title = "What we should learn from Covid-19"
-description = "How it made clear the inherent flaws of a capitalistic society"
+description = "How the pandemic made clear the inherent flaws of a capitalistic society"
 date = 2021-09-28
 +++
 

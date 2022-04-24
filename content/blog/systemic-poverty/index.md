@@ -1,5 +1,5 @@
 +++
-weight = 0
+weight = 2
 
 title = "The Root Cause of Poverty"
 description = "The other face of extreme wealth"
