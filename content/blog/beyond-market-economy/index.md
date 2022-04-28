@@ -14,11 +14,13 @@ We aim for a broad audience, hence we will try to explain all terms in a simple 
 
 A Market Economy is an economic model centered around markets. 
 
-The components of a market are: prices, products, buyers and sellers.
+The components of a market are: prices, products, trade, buyers and sellers.
 
 For sake of simplicity, we define "price" as the monetary value accepted in exchange for a product.
 
-A product is anything that can be exchanged for money, such as goods, services and labor.
+A product is anything that can be exchanged for money, such as goods, services and labor. Money is also a product.
+
+Trade is the act of exchanging products between a seller and a buyer.
 
 A buyer is a person or a group of people that want to exchange money for a product sold in a market. They can freely decide what products to buy, their only limitation is the amount of money available.
 
@@ -28,38 +30,40 @@ Any person participating in a market economy will act as a seller when they acqu
 
 Profit is when a seller exchange a product for more money they used to acquire it. Suppose that to produce 1kg of apples I spend $0.70, then if I sell it for $1.00, I'll net a profit of $0.30, that I can now use to buy something else.
 
-The profit aspect is very important, given that this is the only way in markets to let money flow and the keep the economy working.
+The **profit** aspect is very important, given that this **is the only way in markets to let money flow and the keep the economy working**.
 
 In theory sellers can decided by themselves at what price sell their products, however higher the price, less people will buy it.
 
-This competition between producer and consumers is the so-called "law of supply and demand".
+This competition between producers and consumers is the so-called "law of supply and demand".
 
 Demand is how many buyers want a given product.
 
 Supply is how much of a given product is available on the market.
 
 The law of supply and demand is pretty intuitive and states that when many people want the same product (high demand), then sellers can afford to sell at higher price.  
-Vice versa, when there are more products than needed (high supply), sellers will have to low price to be able to sell it.
+Vice versa, when there are more products than needed (high supply), sellers will have to low price to sell it.
 
-Both demand and supply are influenced by many factors in real life. Imagine for example that a drought hit a coffee plantation, it will decrease the amount of available coffee and therefore raise prices. That's why prices in markets change through time.
+Both demand and supply are influenced by many factors in real life. Imagine that a drought hit a coffee plantation, it will decrease the amount of available coffee and therefore raise prices. That's how prices change through time.
 
 Still, why should a seller low prices? It's because there is another competition going on, the one between sellers. **A healthy market needs many competing sellers** over the same product to ensure a fair price.
 
-Market share in today economy is a big factor for profits. Given a product, the market share is how much a seller sold of it in proportion to the total amount. For example, if in total the market sold 100kg of apples, and a single seller managed to sell 30kg, then their market share would be 30%.
+Market share is a big factor for profits. Given a product, the market share is how much a seller sold of it in proportion to the total amount. For example, if in total the market sold 100kg of apples, and a single seller managed to sell 30kg, then their market share would be 30%.
 
-There are many factors that influence market share, economics often focus on price. Given two equivalent products, a smart buyer will buy the cheaper one, hence a lower price help sellers conquer a bigger piece of the pie. It may seems counter-intuitive, but the logic is that I can try to sell apples at 1$/kg, but then only sell 20kg and gain $20, or I can lower the price to 0.90$/kg, which allow me to sell 30kg and gain $27, $7 more than before.
+There are many factors that influence market share, a common one is price. Given two equivalent products, a smart buyer will buy the cheaper one, hence a lower price help sellers conquer a bigger piece of the pie. It may seem counter-intuitive, but the logic is that I can try to sell apples at $1/kg, but then only sell 20kg and gain $20, or I can lower the price to $0.90/kg, which allow me to sell 30kg and gain $27, $7 more than before.
 
 A third component a seller have to be aware of is the State and its regulations, such as regulations in the food industry that guarantees a certain level of security to buyers.
 
 This brings us to the degree of freedom in a market. Higher the amount of regulations imposed by the State, less is the freedom.
 
-A free market is when there are no regulations at all and both sellers and buyers are the sole responsible for their actions in the market. This means that if a seller goes bankrupt, the whole burden should be on them.
+A free market is when there are no regulations at all and both sellers and buyers are the sole responsible for their actions in the market. This means that if a seller goes bankrupt, the whole burden should be on them, same if a buyer gets scammed.
 
 The opposite extreme is a fully-regulated market where the State is in full control of sales and production, such as the military.
 
 A market economy is composed by many different markets with various degree of freedom. Think for example how different regulations applies to the labor market (more regulations) and the financial one (more freedom).
 
-There are different flavors of market economies, such as [capitalism](https://en.wikipedia.org/wiki/Capitalism), [market socialism](https://en.wikipedia.org/wiki/Market_socialism) and [mutualism](https://en.wikipedia.org/wiki/Mutualism_%28economic_theory%29). All of them share the fundamental aspect we have discussed, but differ in how society is built around it.
+There are different flavors of market economies, such as [capitalism](https://en.wikipedia.org/wiki/Capitalism), [market socialism](https://en.wikipedia.org/wiki/Market_socialism) and [mutualism](https://en.wikipedia.org/wiki/Mutualism_%28economic_theory%29). All of them share the fundamental aspects we have discussed, but may add further characteristics and differ in how they build society around it.
+
+What's important for our discussion is that all share the same fallacies.
 
 # Issues: an overview
 
@@ -67,13 +71,13 @@ Now that we have a good understanding of what Market Economy is, we can explore 
 
 ## Killing competition
 
-In a Market Economy one of our main objective is to kill competition, and if we manage to do so we will be in a position of monopoly, which is **the most profitable outcome in Market Economy**.
+In a Market Economy our main objective is to make as much profits as possible, and **we achieve the most profitable outcome once we secure a position of monopoly**. 
 
-We have a monopoly when the market have only one single seller for a given product, meaning that their market share is 100%.
+We have a monopoly when the market have only one single seller for a given product, meaning that their market share is 100%. They are the kings of the market.
 
 Remember that to keep prices under control, markets need a healthy competition between many sellers. Once such competition is removed, the single seller has free reign over the market. This gets even worse when they provide very important products, such as medicines, water or energy.
 
-Big sellers can band together and form a oligopoly through mergers, acquisitions or by forming a cartel. An oligopoly isn't much different than a monopoly, given that the market is again controlled by a small group.
+Big sellers can band together and form an oligopoly through mergers, acquisitions or by forming a cartel. An oligopoly isn't much different than a monopoly, given that the market is again controlled by a small group.
 
 They don't even need 100% market share, as long as it is big enough. A common tactic is to push prices artificially low to the point they can even incur a small loss, which will push smaller sellers out of market because they cannot compete anymore. Now that they have full control, they can raise prices and/or low the quality of their products to greatly increase profits.
 
@@ -81,9 +85,7 @@ One infamous example is the [Phoebus Cartel](https://en.wikipedia.org/wiki/Phoeb
 
 Monopolies tend to be strictly regulated in many countries, however big businesses often find loopholes or ignore it until they are busted. See [Amazon hit with record US$1.3 billion fine for abuse of supply chain monopoly](https://techhq.com/2021/12/amazon-hit-with-record-us1-3-billion-fine-for-abuse-of-supply-chain-monopoly/) for a quick example.
 
-This issue is particularly important because it reflects the limits of fierce competition. Even in an environment as strictly competitive as markets, **those who actually win the game**, raking in the greatest profits, **do so through collaboration rather than competition**.
-
-Given the chance, every business will have the tendency to band up with others because by doing so they solidify their power in the market and can greatly increase their profits.
+This issue is particularly important because it reflects the limits of fierce competition. Even in an environment as strictly competitive as markets, **those who actually win the game**, raking in the greatest profits, **do so through collaboration rather than competition**. Toxic competition however brews toxic collaboration, in fact those agreements are often unstable and aim to brutally drive out of market as many competitors as they can.
 
 ## Markets don't measure societal value
 
@@ -99,7 +101,7 @@ This is particularly dangerous when it comes to the idea of free markets. Market
 
 Slavery in the eye of Market Economy is a good way to reduce costs and improve profits. Environmental regulations instead are a big nuisance because they increase costs, possibly cutting out profitable industries such as coal and oil extraction. There is no malice, only callous economics.
 
-History, together with today labor market and climate crisis, teach us that we cannot be trusted when competition is on and our quality of life depends on it. We will exploit all that we can to improve our immediate conditions, despite the problems we may incur in the future.
+History teaches us that we cannot be trusted when competition is on and our quality of life depends on it. We will exploit all that we can to improve our immediate conditions, despite the problems we may incur in the future. That's why we are obstinately driving towards the precipice of the global climate crisis, even though it could wipe the entire humanity out of existence.
 
 ## Low-quality products
 
@@ -113,13 +115,13 @@ This is why the [Phoebus Cartel](https://en.wikipedia.org/wiki/Phoebus_cartel) w
 
 Another big issue created by low-quality products is that they produce lots of garbage, have a bad environmental impact and waste precious resources.
 
-This issue isn't only limited to physical goods, think for example about the majority of software programs available. Many of them are pretty bad because the business decided to cut on labor needed to produce or maintain it.
+This issue isn't only limited to physical goods, think for example about the majority of software available. Much of it is pretty bad because the business decided to cut on labor needed to produce or maintain it.
 
 ## Manipulation
 
 Humans have a great record when it comes to exploit things, including ourselves. It is only natural that when our quality of life is at stake, people will nudge and push, trying to find the best way to exploit markets.
 
-What follows is in now way an exhaustive list, we will just see some examples to get an idea around it.
+What follows is in no way an exhaustive list, we only give some examples to get an idea around it.
 
 ### Demand manipulation
 
