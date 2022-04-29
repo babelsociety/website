@@ -8,11 +8,11 @@ date = 2022-04-19
 
 In this article we analyze and address meritocracy and the false necessity of ranking people, answering the question "what do we deserve?".
 
-During the [Middle Ages](https://en.wikipedia.org/wiki/Middle_Ages), aristocracy was the dominant social arrangement. In that age it was pretty clear who deserved what: the king at the top gets most of it, nobles get the rest and to peasants all the drudgery and misery. [Trickle-down economy](https://en.wikipedia.org/wiki/Trickle-down_economics) at its best.
+During the [Middle Ages](https://en.wikipedia.org/wiki/Middle_Ages), aristocracy was the dominant social arrangement. In that age it was pretty clear who deserved what: the king at the top gets most of it, nobles get the rest and to peasants all the drudgery and misery. [Trickle-down economics](https://en.wikipedia.org/wiki/Trickle-down_economics) at its best.
 
 With the advent of the [Age of Enlightenment](https://en.wikipedia.org/wiki/Age_of_Enlightenment) things started to change, and changed even more after the great [French Revolution](https://en.wikipedia.org/wiki/French_Revolution) in 1789, and all that followed.
 
-Since then we search for a better way to organize society, and many have inquired into "who deserve what".
+Since then we search for a better way to organize society, and many have inquired into "who deserves what".
 
 Some would tell you that true, nobles are no more, but people are not the same. There is the artisan and the thief, the hard-worker and the lazy, the smart and the dumb, the good and the evil. Thus the idea that a just and fair society have to reward more those with greater merit, greater morality and greater talents.
 
@@ -24,15 +24,15 @@ The promise of meritocracy is that no matter your initial conditions, if you are
 
 It is an enticing thought, but is it the right answer to our inquiry?
 
-A meritocratic society seems simple at first: the best suited get the job, hence the best of the best seize the political power and the undisputed authority to govern us all.
+A meritocratic society seems simple at first: the best suited gets the job, hence the best of the best seize the political power and the undisputed authority to govern us all.
 
-The question arise: how do we rank people? The answer is education and credentials. People are put in fierce competition against each other since tender age. Swords and shields used in the Middle Ages have been replaced by grades and certificates.
+The question arise: how do we find the best? The answer is to rank people according to education and credentials. We are put in fierce competition against each other since tender age. Swords and shields used in the Middle Ages have been replaced by grades and certificates.
 
 Soon, we lost the meaning of education, and what should be the quest for knowledge and truth became a quest for social acknowledgment.
 
 If quality of life strictly depends on how far a person can rise, it's only natural people would do whatever it takes to improve their chances of survival. Those at the top are better equipped and always find a way to stay at the top.
 
-Rich people soon found and established all the loopholes to ensure greater success to themselves and their children, such as heavy league colleges, the pressure on credentialism, and straight-out purchase of college admissions and/or fake certificates. People aren't machines, relationships will always influence us.
+Rich people soon found and established all the loopholes to ensure greater success to themselves and their children, such as heavy league colleges, the pressure on credentialism, and straight-out purchase of college admissions and fake certificates. People aren't machines, relationships will always influence us.
 
 Society should give you all the tool, but those who can pay more, will still get more.
 
@@ -44,25 +44,25 @@ It induces the belief that those who reached the top did it thanks to their own 
 
 In meritocracy, if *you can rise as far as your talents will take you*, and you still end up at the bottom, then it means that it is all your fault. The message is that **you are at the bottom due to your own inadequacy**.
 
-Even more so in a perfect meritocracy, this logic naturally foster arrogance in winners and docility in losers. It let winners patronize losers, creating a hierarchy even worse than in aristocracy: an unbreakable cage where all sentiments of revolution are drowned. The main ingredients of revolution is discontent, the belief we have been wronged, and the burning desire to reach for a better future. If not even the bottom feels wronged, if they believe it's their own fault if they are miserable, that they *deserve* such misery, then nothing will change.
+Even more so in a perfect meritocracy, this logic naturally foster arrogance in winners and docility in losers. It let winners patronize losers, creating a hierarchy even worse than in aristocracy: an unbreakable cage where all sentiments of improvements are drowned by resignation. If they believe they are miserable by their own fault, that they *deserve* such misery, then nothing will improve.
 
 The sharp increase in "[death of despair](https://en.wikipedia.org/wiki/Diseases_of_despair)" in the last 50 years is due to those who lost the meritocratic race, who felt left out, crushed by their own sense of inadequacy. As [Michael Young](https://en.wikipedia.org/wiki/Michael_Young) said: "Every selection of one is a rejection of many".
 
-Meritocracy doesn't spare anyone: those lucky enough to be born with talents are constantly under pressure of climbing higher, always busy in proving their *merit* to all, especially to themselves. This caused [burnout](https://en.wikipedia.org/wiki/Occupational_burnout) and the psychological disorder called [impostor syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome). Toxic competition is toxic at every level, perhaps even more at the top.
+Meritocracy doesn't spare anyone: those lucky enough to be born with talents are constantly under pressure of climbing higher, always busy in proving their *merit* to all, especially to themselves. This causes [burnout](https://en.wikipedia.org/wiki/Occupational_burnout) and the psychological disorder called [impostor syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome). Toxic competition is toxic at every level, perhaps even more at the top.
 
 The rise of depression at every level of society is yet another symptom of the heavy psychological burden we carry.
 
 Nonetheless, we are told that if we want a just and fair society, this is the way. Let's further investigate if it really is.
 
-Merit is meritocracy foundation. It's the quality of deserving something. In philosophy we could talk of [moral desert](https://en.wikipedia.org/wiki/Desert_%28philosophy%29), which claims that: **X** deserves **Y** in virtue of **Z**. Example: **I** deserve **to be paid** in virtue of **the work I've done**.
+Merit, meritocracy foundation, can be defined as "the quality of deserving something". In philosophy we could speak of [moral desert](https://en.wikipedia.org/wiki/Desert_%28philosophy%29), which claims that: **X** deserves **Y** in virtue of **Z**. Example: **I** deserve **to be paid** in virtue of **the work I've done**.
 
 The concept of deserving is subjective to the society we live in. In the old ages, a thief would deserve to have their hand cut, but today we see things quite differently. It is no hard science, moral desert is a human concept and thus will always be shaped by people.
 
 Let's use another example. Consider there are several woodcutters and we want to reward them in the most fair and just possible way. According to meritocracy, we must rank them up and then distribute rewards proportionally, giving more to the best woodcutter, then less to the second, even less to the third, etc...
 
-How should we rank them? Woodcutting is all about cutting trees, hence let's use number of trees cut as a measure. What if a man have a chainsaw while all others can only afford axes? He will surely cut more trees, but it wouldn't be fair nor just to reward him in value of his better tools.
+How should we rank them? Woodcutting is all about cutting trees, hence let's use number of trees cut as a measure. What if a man has a chainsaw while all others can only afford axes? He will surely cut more trees, but it wouldn't be fair nor just to reward him in value of his better tools.
 
-Ok, then let's give axes to all of them, then those more talented will cut more trees. In this case, those who are stronger, well-fed and well-rested will surely cut more trees, but what merit there is in being born with a strong physic, to have a good environment were to rest and enough food to eat? Paradoxically, those who have enough food will have even more, while those who don't eat enough, will eat even less.
+Ok, then let's give axes to all of them, then those more talented will cut more trees. In this case, those who are stronger, well-fed and well-rested will surely cut more trees, but what merit there is in being born with a strong physic, to have a good environment were to rest and enough food to eat? Paradoxically, those who have enough food will have even more, while those who don't will eat even less.
 
 Ok, then let's use effort, we will give more to those who spent more time cutting trees. Is it any better? Instead of the strong, we reward those with more stamina and more time at hand.
 
@@ -77,11 +77,12 @@ Enshrouded in the meritocratic hubris, we are quick to forget all the preconditi
 Once we abandon the remnants of aristocracy, once we stop ranking, categorizing and dividing people, we'll see that **the most just and fair society is one that *gives to each according to their needs***. It's that simple.
 
 As [Peter Kropotkin](https://en.wikipedia.org/wiki/Peter_Kropotkin) wrote in [The Conquest of Bread](https://theanarchistlibrary.org/library/petr-kropotkin-the-conquest-of-bread):
+
 > We must recognize, and loudly proclaim, that everyone, whatever his grade in the old society, whether strong or weak, capable or incapable, has, before everything, THE RIGHT TO LIVE, and that society is bound to share amongst all, without exception, the means of existence at its disposal. We must acknowledge this, and proclaim it aloud, and act up to it.
 
 We understand that each person is born differently and experience life in their own unique way. Undoubtedly, there are people of great talents, and we are grateful and want to maximize their contribution to society, but this isn't a valid reason to materially or politically reward them more.
 
-In Babel, other than social recognition and the intrinsic satisfaction typical of discoveries and achievements, they will experience the full benefits they contributed to, but same will do society as a whole. Nobody is penalized.
+In Babel, other than social recognition and the intrinsic satisfaction typical of any achievement, they will experience the full benefits they contributed to, but same will do society as a whole. Nobody is penalized.
 
 **Talents should be nurtured and celebrated, but nobody should be slave to either their or others' talents**.
 
