@@ -418,6 +418,22 @@ We aren't interested in an economy that maximize production while destroying hum
 
 [In Depth: Babel Economy](@/blog/in-depth-economy/index.md) discuss more in detail Babel economic system.
 
+# Research
+
+In a society where working is not necessary to survive, technological advancement becomes even more important as it will contribute to the improvement of everyone's life.
+
+Both physical and virtual research centers will be developed so that everyone can exchange information freely.
+
+Research is the field that more than any other benefits from high collaboration. In capitalism particular inventions and discoveries are kept under strict control through patents and intellectual property rights, which limit their application as well as their advancement. Thanks to Babel free and collaborative environment, everyone are able to take advantage of the best discoveries.
+
+Research often burns through many resources before it leads to any result, but this isn't a problem: just open a [project](@/manifesto/index.md#projects) explaining the final goal of it and the amount of resources needed.
+
+We should facilitate any attempt at research, but it is always important to keep an eye on the amount of resources required. Another important aspect is how ethical the research is: cruel experiments on living beings should be avoided as much as possible.
+
+It goes without saying that many researches never bear fruit, but this is a risk intrinsic in the activity carried out and one we gladly accept. Those who never fail are those who never act.
+
+*Dare, dare, and yet again, dare!* It is better to dare and fail than to miss the chance of a great improvement.
+
 # Personal sphere
 
 

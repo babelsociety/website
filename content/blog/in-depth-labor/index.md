@@ -110,6 +110,22 @@ Given that there is no profit to be made and that laborers have full control ove
 
 All of these changes are easily applied in a small, involved society that grows in a sustainable way.
 
+# Scaling
+
+What explained so far isn't limited to only small ventures, but scale as much as needed once we factor in locality.
+
+Conglomerates such as Alphabet, Meta and Amazon have no reason to exist in Babel. They exists in capitalism because a few owners must reign over many more, forming a strict hierarchy of power to ensures all sub-companies are dedicated to the well-being of the masters.
+
+This centralization of power creates many issues, because those who have power to make decisions are often too removed from the actual problems, causing severe inefficiency.
+
+Decentralization is key to every large-scale project, and in Babel we fully embrace this principle. Rather than having a single company composed by hundreds of thousands of people, it is much better to split them where it makes sense, keeping an eye on cohesion to ensure frictionless development.
+
+This is more or less what conglomerates tries to do anyway, we only removed the unneeded complexity imposed by strict authority.
+
+Our focus on collaboration and integration allows production lines to come together whenever needed to efficiently solve a problem. This is further facilitated by our flexible work arrangements, that make it easy to move from one endeavor to another. Even better, people that so far worked in different production lines could temporarily team up together to better solve a common problem.
+
+That's how we can scale indefinitely, by solving issues at the right level.
+
 ## Long-term
 
 **The long-term solution is automation**. Babel focus heavily on research in order to eliminate those chores that nobody wants to do, especially those that are repetitive or considered dangerous and high-risk. For example, there is already a robot capable of cleaning up toilets.
