@@ -1,5 +1,5 @@
 +++
-weight = 4
+weight = 5
 
 title = "Beyond Market Economy"
 description = "How Market Economy encourage bad behaviors and what alternative we have"
