@@ -388,54 +388,53 @@ In cases where the person is mentally defective and not self-sufficient, it will
 
 # Economics
 
-Economy is a fundamental aspect of every society, but way too often we bend society in favor of economy. Think about the [economic crisis of 2008](https://en.wikipedia.org/wiki/Financial_crisis_of_2007%E2%80%932008), where banks got bailed out and *their* debts redistributed to society as a whole, while the debts of the weak people, which where a direct consequences of banks bad behavior, weren't socialized and many lost their homes and killed themselves out of despair. **Socialism for the strong, capitalism for the weak**. That's the kind of society we live in.
+Economy is a fundamental aspect of every society, but way too often we bend society in favor of it. Think about the [economic crisis of 2008](https://en.wikipedia.org/wiki/Financial_crisis_of_2007%E2%80%932008), where banks got bailed out and *their* debts poured out on society as a whole. In contrast, the debts of the weak people, which where direct consequence of banks bad behavior, weren't socialized and many lost their homes and killed themselves out of despair. **Socialism for the strong, capitalism for the weak**. That's the kind of society we live in.
 
-Babel invert the trend, and instead we let economy serve society, to improve the well-being of all rather than the few.
+Babel inverts the trend: we let economy serve society, to improve the well-being of all rather than the few.
 
 We derive it from the core values of our society, freedom and collaboration in particular.
 
 The freedom aspect dictates that every person should be able to explore life according to their will.
 
-Collaboration teaches us that together we can achieve what alone would be impossible.  Even the greatest invention of all time would never be without the help of those who came before, those who supported and inspired the inventor.
+Collaboration teaches us that together we can achieve what alone would be impossible. Even the most novel invention would never be without the help of those who came before, those who supported and inspired the inventor.
 
-Another guiding principle is that we want an economic system that help us **prevent** social issues, such as corruption, exploitation, criminal organizations, etc...
+Another guiding principle is that we want an economic system that helps us **prevent** social issues such as poverty, corruption, exploitation, etc...
 
 Taking all in consideration, our main design decision is: **an individual's quality of life is strictly bound to society's quality of life**.
 
 This means that by improving our life we automatically improve other people's life too, creating a virtuous cycle.
 
-The only practical way to achieve so is **for all to be free and available to all**. There would be no strict limitation in consumption, while production would be in direct control of everyone involved.
+The only practical way to achieve it is **for all to be free and available to all**. There would be no strict limitation to consumption, while production would be in direct control of everyone involved.
 
-Imagine a world where you don't have to struggle to cover your basic needs, but rather everyone collaborate and enjoy the best quality of life. A world where labor is pleasurable and through which we can express the full might of our ambition, or simply find our place in society.
+Imagine a world where you don't have to struggle to cover your basic needs, one where we all collaborate and enjoy the best quality of life we can produce. A world where labor is pleasurable and through which we can express the full might of our ambition, or simply find our place in society.
 
-This system best express freedom and collaboration in every aspect, able to care for all the different kind of human soul, from the most artistic and chaotic to the most logical and precise.
+This system best express freedom and collaboration in every aspect, able to care for all the different kind of human soul, from the artistic and chaotic to the logical and precise.
 
 Technology will help us make it efficient: we **track** everything is produced and consumed; thanks to these data, available to all, producers can **adapt** their production line in the best way they see fit.
 
-We expect this system to yield **unparalleled innovation**, but this is only a positive side effect and not our main goal.
+We expect this system to yield **unparalleled innovation**, but this is only a positive side effect. We aren't interested in an economic model that maximize production while destroying human lives. Quite the contrary, **our main goal is to maximize quality of life**, to push it at the highest level collectively.
 
-We aren't interested in an economy that maximize production while destroying human lives. Quite the contrary, **our main goal is to maximize quality of life**, to push it at the highest level collectively.
+[In Depth: Babel Economy](@/blog/in-depth-economy/index.md) discuss more in detail this economic system.
 
-[In Depth: Babel Economy](@/blog/in-depth-economy/index.md) discuss more in detail Babel economic system.
 
 # Research
 
-In a society where working is not necessary to survive, technological advancement becomes even more important as it will contribute to the improvement of everyone's life.
+In a society where working is not mandatory, technological advancement becomes even more important as it will contribute to the improvement of everyone's life.
 
 Both physical and virtual research centers will be developed so that everyone can exchange information freely.
 
-Research is the field that more than any other benefits from high collaboration. In capitalism particular inventions and discoveries are kept under strict control through patents and intellectual property rights, which limit their application as well as their advancement. Thanks to Babel free and collaborative environment, everyone are able to take advantage of the best discoveries.
+Research is the field that more than any other benefits from high collaboration. In capitalism particular inventions and discoveries are kept under strict control through patents and intellectual property rights, which limit their application as well as their advancement. Thanks to Babel free and collaborative environment, everyone is able to take advantage of the best discoveries.
 
-Research often burns through many resources before it leads to any result, but this isn't a problem: just open a [project](@/manifesto/index.md#projects) explaining the final goal of it and the amount of resources needed.
+However, the human intellect can produce wonders and tragedies, that's why each project should align with our core values, for example cruel experiments on living beings should be avoided.
 
-We should facilitate any attempt at research, but it is always important to keep an eye on the amount of resources required. Another important aspect is how ethical the research is: cruel experiments on living beings should be avoided as much as possible.
+Research often burns through many resources before it leads to any result, and even though we should keep an eye on the amount consumed, we must facilitate it as much as possible.
 
 It goes without saying that many researches never bear fruit, but this is a risk intrinsic in the activity carried out and one we gladly accept. Those who never fail are those who never act.
 
 *Dare, dare, and yet again, dare!* It is better to dare and fail than to miss the chance of a great improvement.
 
-# Personal sphere
 
+# Personal sphere
 
 ## Competition
 
