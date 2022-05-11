@@ -6,68 +6,13 @@ description = "How Market Economy encourage bad behaviors and what alternative w
 date = 2022-04-19
 +++
 
-In this article we want to better understand what Market Economy is, why we need an alternative and how it could look like.
+In this article we want to better understand why we need an alternative to market economies and how it could look like.
 
-We aim for a broad audience, hence we will try to explain all terms in a simple way, even though sometimes it doesn't abide to a strict economic definition.
+We aim for a broad audience, if you are unfamiliar or don't have clear what a market economy is, we hope the [Appendix](#appendix) will be able to make it clear.
 
-# What is Market Economy?
+# Issues
 
-A Market Economy is an economic model centered around markets. 
-
-The components of a market are: prices, products, trade, buyers and sellers.
-
-For sake of simplicity, we define "price" as the monetary value accepted in exchange for a product.
-
-A product is anything that can be exchanged for money, such as goods, services and labor. Money is also a product.
-
-Trade is the act of exchanging products between a seller and a buyer.
-
-A buyer is a person or a group of people that want to exchange money for a product sold in a market. They can freely decide what products to buy, their only limitation is the amount of money available.
-
-A seller is a person or a group of people whose goal is to sell a product on the market for a profit. They can freely decide how to acquire the product and what to sell, but they are limited by the capital available and their environment.
-
-Any person participating in a market economy will act as a seller when they acquire money, and as a buyer when they consume money.
-
-Profit is when a seller exchange a product for more money they used to acquire it. Suppose that to produce 1kg of apples I spend $0.70, then if I sell it for $1.00, I'll net a profit of $0.30, that I can now use to buy something else.
-
-The **profit** aspect is very important, given that this **is the only way in markets to let money flow and the keep the economy working**.
-
-In theory sellers can decided by themselves at what price sell their products, however higher the price, less people will buy it.
-
-This competition between producers and consumers is the so-called "law of supply and demand".
-
-Demand is how many buyers want a given product.
-
-Supply is how much of a given product is available on the market.
-
-The law of supply and demand is pretty intuitive and states that when many people want the same product (high demand), then sellers can afford to sell at higher price.  
-Vice versa, when there are more products than needed (high supply), sellers will have to low price to sell it.
-
-Both demand and supply are influenced by many factors in real life. Imagine that a drought hit a coffee plantation, it will decrease the amount of available coffee and therefore raise prices. That's how prices change through time.
-
-Still, why should a seller low prices? It's because there is another competition going on, the one between sellers. **A healthy market needs many competing sellers** over the same product to ensure a fair price.
-
-Market share is a big factor for profits. Given a product, the market share is how much a seller sold of it in proportion to the total amount. For example, if in total the market sold 100kg of apples, and a single seller managed to sell 30kg, then their market share would be 30%.
-
-There are many factors that influence market share, a common one is price. Given two equivalent products, a smart buyer will buy the cheaper one, hence a lower price help sellers conquer a bigger piece of the pie. It may seem counter-intuitive, but the logic is that I can try to sell apples at $1/kg, but then only sell 20kg and gain $20, or I can lower the price to $0.90/kg, which allow me to sell 30kg and gain $27, $7 more than before.
-
-A third component a seller have to be aware of is the State and its regulations, such as regulations in the food industry that guarantees a certain level of security to buyers.
-
-This brings us to the degree of freedom in a market. Higher the amount of regulations imposed by the State, less is the freedom.
-
-A free market is when there are no regulations at all and both sellers and buyers are the sole responsible for their actions in the market. This means that if a seller goes bankrupt, the whole burden should be on them, same if a buyer gets scammed.
-
-The opposite extreme is a fully-regulated market where the State is in full control of sales and production, such as the military.
-
-A market economy is composed by many different markets with various degree of freedom. Think for example how different regulations applies to the labor market (more regulations) and the financial one (more freedom).
-
-There are different flavors of market economies, such as [capitalism](https://en.wikipedia.org/wiki/Capitalism), [market socialism](https://en.wikipedia.org/wiki/Market_socialism) and [mutualism](https://en.wikipedia.org/wiki/Mutualism_%28economic_theory%29). All of them share the fundamental aspects we have discussed, but may add further characteristics and differ in how they build society around it.
-
-What's important for our discussion is that all share the same fallacies.
-
-# Issues: an overview
-
-Now that we have a good understanding of what Market Economy is, we can explore the issues it creates when applied to real life.
+The best way to see why we need a better economic model is to explore what issues Market Economy creates when applied to real life.
 
 ## Killing competition
 
@@ -207,7 +152,7 @@ One important component of progress is failure. We need to try countless experim
 
 That's why in a society heavily built around markets, progress will be further hindered by this aversion for research. Here we should understand that it isn't the fault of markets, but rather a problem of using the wrong tool, like trying to drive a nail with a screwdriver.
 
-# Issues: the root cause
+# Root cause
 
 All the issues so far discussed stems from a single design decision that all variations of Market Economy abide to: **an individual's quality of life is strictly bound to how good of a seller they are**.
 
@@ -300,3 +245,60 @@ We have presented a better alternative, one that is much more stable thanks to i
 There is no "end of history". History doesn't end. Change is inevitable, but not all changes are good, it can always change for the worse.
 
 It is paramount for the people of today to **act** and **strive** for a better tomorrow. Tomorrow will always come, it is up to us to stir it towards the right direction.
+
+# Appendix
+
+## What is Market Economy?
+
+A Market Economy is an economic model centered around markets. 
+
+The components of a market are: prices, products, trade, buyers and sellers.
+
+For sake of simplicity, we define "price" as the monetary value accepted in exchange for a product.
+
+A product is anything that can be exchanged for money, such as goods, services and labor. Money is also a product.
+
+Trade is the act of exchanging products between a seller and a buyer.
+
+A buyer is a person or a group of people that want to exchange money for a product sold in a market. They can freely decide what products to buy, their only limitation is the amount of money available.
+
+A seller is a person or a group of people whose goal is to sell a product on the market for a profit. They can freely decide how to acquire the product and what to sell, but they are limited by the capital available and their environment.
+
+Any person participating in a market economy will act as a seller when they acquire money, and as a buyer when they consume money.
+
+Profit is when a seller exchange a product for more money they used to acquire it. Suppose that to produce 1kg of apples I spend $0.70, then if I sell it for $1.00, I'll net a profit of $0.30, that I can now use to buy something else.
+
+The **profit** aspect is very important, given that this **is the only way in markets to let money flow and the keep the economy working**.
+
+In theory sellers can decided by themselves at what price sell their products, however higher the price, less people will buy it.
+
+This competition between producers and consumers is the so-called "law of supply and demand".
+
+Demand is how many buyers want a given product.
+
+Supply is how much of a given product is available on the market.
+
+The law of supply and demand is pretty intuitive and states that when many people want the same product (high demand), then sellers can afford to sell at higher price.  
+Vice versa, when there are more products than needed (high supply), sellers will have to low price to sell it.
+
+Both demand and supply are influenced by many factors in real life. Imagine that a drought hit a coffee plantation, it will decrease the amount of available coffee and therefore raise prices. That's how prices change through time.
+
+Still, why should a seller low prices? It's because there is another competition going on, the one between sellers. **A healthy market needs many competing sellers** over the same product to ensure a fair price.
+
+Market share is a big factor for profits. Given a product, the market share is how much a seller sold of it in proportion to the total amount. For example, if in total the market sold 100kg of apples, and a single seller managed to sell 30kg, then their market share would be 30%.
+
+There are many factors that influence market share, a common one is price. Given two equivalent products, a smart buyer will buy the cheaper one, hence a lower price help sellers conquer a bigger piece of the pie. It may seem counter-intuitive, but the logic is that I can try to sell apples at $1/kg, but then only sell 20kg and gain $20, or I can lower the price to $0.90/kg, which allow me to sell 30kg and gain $27, $7 more than before.
+
+A third component a seller have to be aware of is the State and its regulations, such as regulations in the food industry that guarantees a certain level of security to buyers.
+
+This brings us to the degree of freedom in a market. Higher the amount of regulations imposed by the State, less is the freedom.
+
+A free market is when there are no regulations at all and both sellers and buyers are the sole responsible for their actions in the market. This means that if a seller goes bankrupt, the whole burden should be on them, same if a buyer gets scammed.
+
+The opposite extreme is a fully-regulated market where the State is in full control of sales and production, such as the military.
+
+A market economy is composed by many different markets with various degree of freedom. Think for example how different regulations applies to the labor market (more regulations) and the financial one (more freedom).
+
+There are different flavors of market economies, such as [capitalism](https://en.wikipedia.org/wiki/Capitalism), [market socialism](https://en.wikipedia.org/wiki/Market_socialism) and [mutualism](https://en.wikipedia.org/wiki/Mutualism_%28economic_theory%29). All of them share the fundamental aspects we have discussed, but may add further characteristics and differ in how they build society around it.
+
+What's important for our discussion is that all share the same fallacies.

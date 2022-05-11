@@ -12,7 +12,7 @@ Although the universe is incomprehensibly vast, we know only one planet where li
 
 Nonetheless, many think that it is not suitable anymore: too many people, too many problems. Colonize Mars if you want to make your existence truly meaningful!
 
-What we lack is perhaps introspection, a better understanding of ourselves. We are fortunate to exist on one of the best planets in the known universe. Having a life that is often difficult, full of injustices and problems that tend to crush us is not due to *where* we are, but rather to **what kind** of society surrounds us. Society that we ourselves have created. Problems that arise from within ourselves.
+What we lack is perhaps introspection, a better understanding of ourselves. We are fortunate to exist on one of the best planets in the known universe. Having a life that is often difficult, full of injustices and problems that tend to crush us is not due to *where* we are, but rather to **what kind** of society surrounds us. Society that we ourselves have created. Problems that arise from ourselves.
 
 Just as we cannot be comfortable with others until we solve the problems we carry within, we will not be able to fully enjoy all the beauty that surrounds us until we have improved the society we live in.
 
@@ -22,7 +22,7 @@ Babel Society wants to propose a new type of society and a [concrete plan](@/pla
 
 We are aware that changing an entire society from one day to the other is impossible, the project aims instead to create a small starting community where we test and prove our ideas.
 
-Babel Society doesn't seek a _revolution_, but rather a genuine **evolution**.
+Babel Society doesn't seek a _revolution_, but rather to direct us towards a better **evolution**.
 
 
 # Core Values
@@ -392,11 +392,7 @@ Economy is a fundamental aspect of every society, but way too often we bend soci
 
 Babel inverts the trend: we let economy serve society, to improve the well-being of all rather than the few.
 
-We derive it from the core values of our society, freedom and collaboration in particular.
-
-The freedom aspect dictates that every person should be able to explore life according to their will.
-
-Collaboration teaches us that together we can achieve what alone would be impossible. Even the most novel invention would never be without the help of those who came before, those who supported and inspired the inventor.
+We derive it from the core values of our society, freedom and collaboration in particular. The freedom aspect dictates that every person should be able to explore life according to their will. Collaboration teaches us that together we can achieve what alone would be impossible. Even the most novel invention would never be without the help of those who came before, those who supported and inspired the inventor.
 
 Another guiding principle is that we want an economic system that helps us **prevent** social issues such as poverty, corruption, exploitation, etc...
 
@@ -404,7 +400,7 @@ Taking all in consideration, our main design decision is: **an individual's qual
 
 This means that by improving our life we automatically improve other people's life too, creating a virtuous cycle.
 
-The only practical way to achieve it is **for all to be free and available to all**. There would be no strict limitation to consumption, while production would be in direct control of everyone involved.
+The only practical way to achieve it is **for all to be free and available to all**. There is no strict limitation to consumption, while production is in direct control of everyone involved.
 
 Imagine a world where you don't have to struggle to cover your basic needs, one where we all collaborate and enjoy the best quality of life we can produce. A world where labor is pleasurable and through which we can express the full might of our ambition, or simply find our place in society.
 
@@ -414,7 +410,31 @@ Technology will help us make it efficient: we **track** everything is produced a
 
 We expect this system to yield **unparalleled innovation**, but this is only a positive side effect. We aren't interested in an economic model that maximize production while destroying human lives. Quite the contrary, **our main goal is to maximize quality of life**, to push it at the highest level collectively.
 
-[In Depth: Babel Economy](@/blog/in-depth-economy/index.md) discuss more in detail this economic system.
+[Babel In Depth: Economy](@/blog/in-depth-economy/index.md) discuss more in detail our economic system.
+
+# Labor
+
+Work is all about collaboration. There are very few ventures that can be done in isolation.
+
+True to our core values of [freedom](@/manifesto/index.md#freedom), and to our understanding of [authority](@/blog/authority/index.md), we believe every person must be free to pursue their own vocation, whatever would it be.
+
+There will be no contracts, no strict working schedules and no owners. It is all based on free association of people and their mutual respect.
+
+Everyone will work whenever they want, as much as they want and on what they want.
+
+**Willful labor is the only way to maximize work efficiency.** It doesn't matter what processes employers try to setup to stimulate their employees to work more, high quality always comes with willfulness.
+
+If I don't like my job, no matter the incentives and punishments, I will always work at a fraction of my ability, constantly battling with the impulse of doing something else.
+
+By disconnecting quality of life from work done, we liberate our full potential. We are free from our individual limitations, able to harness all that society has to offer to achieve what we want, what society as a whole really needs.
+
+By allowing people to work as much as they want on what they are interested into we ensure the best quality of work with the least amount of stress, nurturing a pleasant work environment.
+
+Are you tired of your current job? Just try another venture for some time and see how it goes. There is no need to commit your entire life to a single career. You are free to go as deep and wide as it best suit yourself.
+
+Did you overwork yourself on the last project out of excitement? Disconnect and get some well-deserved leisure time. It is up to you. It's that easy.
+
+[Babel In Depth: Labor](@/blog/in-depth-labor/index.md) discuss more in detail how labor is structured in Babel.
 
 
 # Research
