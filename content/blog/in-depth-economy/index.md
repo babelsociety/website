@@ -22,15 +22,15 @@ Managing is all about making decisions and setting up the right processes. Bette
 
 Be aware that every limited resource can be employed for different production goals. For example, on a piece of land we could build a house, a skyscraper, a supermarket, or perhaps use it to farm grains, fruit trees, leave it to nature, etc...
 
-The best way to allocate resources should tell us how to best satisfy our unlimited desires. Because desires are unlimited, we already know that we will never fully satisfy them, hence we need to prioritize as much as possible.
+The best way to allocate resources should tell us how to best satisfy our unlimited desires. Because desires are unlimited, we already know that we'll never fully satisfy them, hence we need to prioritize as much as possible.
 
-People have different preferences and rank desires differently: I like spicy food, while you may hate it. Thus the prioritization must be done as a best effort, taking in consideration all the peculiarities of people.
+People have different preferences and rank desires differently: I like spicy food, while you may hate it. Prioritization is done as a best effort, in an attempt to balance all the different and sometimes contrasting desires of people.
 
-Another important factor is that environment influences desires: in Siberia we defend against extreme cold, while in Ecuador we defend against hot temperature. Environment also impacts what resources are available: some places are rich in drinkable water, while in others it's a precious resource.
+Another important factor is that environment influences desires: in Siberia we defend against extreme cold, while in Ethiopia we defend against the sweltering heat. Environment also impacts what resources are available: some places are rich in drinkable water, while in others it's a precious resource.
 
 As if all of this wasn't complex enough to balance, our needs and desires are always changing: what's important today may be useless tomorrow. Whatever distribution we find, **it will always be a fleeting approximation**.
 
-The best resource allocation method is one that can be applied often and **gives enough satisfaction to as many people as possible**. Thus, an economic model that satisfy less than 5% of the population is, by definition, a very bad one.
+The best resource allocation method is one that can be applied often and **gives enough satisfaction to as many people as possible**. Thus, an economic model that satisfies less than 5% of the population is, by definition, a very bad one.
 
 # Main goal
 
@@ -68,7 +68,7 @@ They both share the creation and commitment to an economic-wide plan.
 
 The centralized version tends to be highly authoritarian, and this is strongly against our core values.
 
-The decentralized ones are more flexible and at first glance seem to better fit our main goal. The issue is that all derived economic models, such as [participatory economics](https://en.wikipedia.org/wiki/Participatory_economics) and negotieted planning, still abide to the [collectivist](https://en.wikipedia.org/wiki/Collectivism) logic of distributing products according to some rules.
+The decentralized ones are more flexible and at first glance seem to better fit our main goal. The issue is that all derived economic models, such as [participatory economics](https://en.wikipedia.org/wiki/Participatory_economics) and negotieted planning, still abide to the logic of distributing products according to some rules.
 
 The desire to reward different people differently, despite their strive for the most just way, it is not only a Sisyphean endeavor, but a perilous one: it embraces the idea that people should be graded and divided, it justify that some should have more than others, that some *deserve* better.
 
@@ -76,7 +76,7 @@ As we have explained in [What we deserve](@/blog/what-we-deserve/index.md), we s
 
 ## Sustainability
 
-Many production activities when done without care can cause a great deal of pollution.
+Many production activities when done without care can detrimental to our environment.
 
 A management of scarce resources that doesn't consider a sustainable cycle of production and consumption is a short-sighted and self-destructive one. Such carelessness is what brought upon us the global climate crisis, which could potentially wipe-out humanity from Earth.
 
@@ -84,13 +84,11 @@ This is why creating a [circular economy](https://en.wikipedia.org/wiki/Circular
 
 It is important to keep an eye on the ability to repair and recycle each product as much as possible. This is inline with the understanding that resources are limited, hence we want to make the most out of what we have available.
 
-**Recovering materials is crucial.** Think about how many precious resources are wasted, transformed into garbage and hazardous waste, in the name of a senseless technological advancement driven by individualistic greed.
+**Recovering materials is crucial**. Think about how many precious resources are wasted, transformed into garbage and hazardous waste, in the name of a technological advancement driven by individualistic greed.
 
 The distribution of new products must be balanced by its sustainability. Rather than mass-producing every insignificant innovation, it would be more appropriate to focus on research and limit mass production to significant improvements.
 
-We believe that there is little value in switching to a more powerful smartphone if we then use it in the same old way. On the other hand, the generational leap from mobile phones to smartphones has been significant and has brought concrete improvements to everyone's life.
-
-By focusing more on research and innovation rather than mass-production we can have better products in less time, while spending less resources.
+There is little value in switching to a more powerful smartphone if we then use it in the same old way. By focusing on research and innovation rather than mass-production we can have better products in less time, while spending less resources.
 
 # Track & Adapt
 
@@ -98,13 +96,15 @@ Even though market and planned economics are antipodes, there are stark similari
 
 It doesn't matter the chosen economic model, whenever we want to produce something we must choose a production method, which in turn dictates inputs, outputs and final quality of our product.
 
-How to chose depends in part on our environment and the resources available. As we said, our environment will change over time, hence it is essential to **track** how well we are doing, and use these data to **adapt** our production to keep and improve efficiency.
+How to choose depends in part on our environment and the available resources. As we said, our environment changes over time, hence it is essential to **track** how well we are doing, and use these data to **adapt** our production to keep and improve efficiency.
 
-Babel economy wants to declutter this truth from any accidental complexity and maximize its effectiveness.
+Babel economy wants to declutter this truth from any accidental complexity to maximize its effectiveness.
 
-Thanks to our decentralized network infrastructure, we can electronically **track** all the resources produced and consumed by both producers and individual consumers. All data will be organized geographically and freely accessible by anyone.
+We can electronically **track** all the resources produced and consumed by both producers and individual consumers. All data are organized geographically and freely accessible by anyone.
 
 Equipped with this information, individual producers can have a clear understanding of the whole economy at different granularity levels, allowing them to efficiently **adapt** their production line as needed.
+
+We want to be crystal clear that the role of tracking is limited to improving production. Tracking isn't a way to restrict what people can consume, otherwise it wouldn't be a free and fair system.
 
 # Resources allocation
 
@@ -112,13 +112,13 @@ Still the question remains: how do we allocate different resources?
 
 Remember that our main design decision imposes that **an individual's quality of life is strictly bound to society's quality of life**, thus the most natural way to allocate resources is for **everything** to be **shared and freely accessible**, both the means of production and the results of our efforts.
 
-It is important to understand that resources consumption is completely disconnected from one's production and/or effort.
+It is important to understand that resources consumption is completely disconnected from one's production and effort.
 
-If we would follow the old logic of giving different shares of production to different people according to some algorithm, then each individual will work hard to maximize their own gains, to manipulate the algorithm to favor them. Only by making everything freely accessible we can let our intrinsic greed work for the greater-good rather than for our individual good. Once everything is free, every innovation, every improvement, all spent efforts will be to the benefits of everyone else.
+If we would follow the old logic of giving different shares of production to different people according to a set of rules, then each individual will work hard to maximize their own gains, to manipulate the system to favor them. Only by making everything freely accessible we can let our intrinsic greed work for the greater-good rather than for our individual gains. Once everything is free, every innovation, every improvement, all spent efforts will be to the benefits of society as a whole.
 
-Everything must be free for us to attain full freedom.
+Everything must be free for us to attain real freedom.
 
-Times are changing and thanks to technological improvements, we can achieve such a society at large scale. Long gone are the times when a drought would cause an entire village to starve. Today our technology allow us to easily satisfy most of the needs of every person alive.
+Times are changing and thanks to technological improvements, we can achieve such a society at large scale. Long gone are the times when a drought would cause an entire village to starve. Today our technology allow us to easily satisfy the needs of every person alive.
 
 Let us further explain how we organize consumption and production.
 
@@ -138,9 +138,21 @@ Babel emphasizes active involvement. If our desires aren't met by our current pr
 
 For example, suppose that there isn't enough bread in our community due to lack of bakeries. If we perceive it as a big lack, then it would be normal in Babel to join a bakery and learn the trade, or perhaps research how to produce more bread.
 
-How we'll solve the issue depends on our aptitudes, but the point is to act upon a problem we care for, solving it for both ourselves and the community. **By satisfying our personal desire, we have helped satisfy the desire for many more people**.
+How we solve the issue depends on our aptitudes, but the point is to act upon a problem we care for, solving it for both ourselves and the community. **By satisfying our personal desire, we also satisfy that desire for many more people**.
 
-Others will help and follow, but it's up to everyone to improve our community. **Don't wait for others, act!**
+Others will help and follow, but it's up to each of us to improve our community. **Don't wait for others, act!**
+
+### Mindful consumption
+
+In a society committed to consumerism, where having luxurious products is a status symbol, a way to put yourself above others, to feel as if we were better than others, universal free consumption can't exist because it is in stark contrast with its exclusiveness principle. The main characteristic of luxury is in fact that very few people can afford it, otherwise it will just be mundane.
+
+However consumerism main reason to exists is the need to sell as much as possible. Selling products in a market economy is the only way to get money, and through money we improve our lives. By removing profits from the picture, we eliminate the whole issue of consumerism. There is no reasons for a person to sell many more products than necessary, thus there is no reason to trick people in consuming more than they need.
+
+Thanks to these fundamental changes we create a system that naturally foster mindful consumption, where we take all that we need to live a meaningful life but no more.
+
+More importantly, if everyone consume what they need, we minimize the risk of artificial shortages caused by hoarding and wasting of resources.
+
+It also have the positive side effect to reduce pollution by both reducing overall amount of goods produced and the related waste. Just think of how much we could save by
 
 ### Prediction
 
@@ -148,11 +160,11 @@ Because we track everything, once we accrue enough data we can statistically pre
 
 It is especially important to track all missed consumption, i.e. all those instances where we couldn't get enough of a product.
 
-Statistics, [linear programming](https://en.wikipedia.org/wiki/Linear_programming), [artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) and all other tools that will come up in the future can greatly help us refine our production lines, but **it is ultimately up to producers to decide on how to do their job**.
+[Statistics](https://en.wikipedia.org/wiki/Statistics), [linear programming](https://en.wikipedia.org/wiki/Linear_programming), [artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) and all other tools that will come up in the future can greatly help us refine our production lines, but **it is ultimately up to producers to decide on how to do their job**.
 
 ### Soft limits
 
-In case it isn't possible to increase production right away, we can limit how much a person consumes.
+In case it isn't possible to increase production right away, we can limit how much a person should consumes.
 
 Thanks to all information available, society can come up with a good limit per person, in accordance with the needs of those interested in a product (demand) and those who produce it (supply).
 
@@ -180,7 +192,7 @@ All orders are fulfilled on a first come, first served manner. Depending on the 
 
 Waiting lists may be prioritized according to some rule to ensure better distribution. For example, in case of a pandemic it is better to give higher priority to the more vulnerable. As always, we rely on our best judgment and tweak the tools available to best solve the issue at hand.
 
-As everything in Babel, waiting lists are transparent, everyone can see their place in it and the system may also estimate how long it will take before we receive the goods.
+As everything in Babel, waiting lists are transparent, everyone can see their place in it and the system should estimate how long it will take before we receive the goods.
 
 This strategy is flexible and can be applied to all products. For example, we can book a table at our preferred restaurant on a given date, as we can reserve 1kg apples for next Thursday, etc...
 
@@ -188,9 +200,11 @@ Preorders and estimated waiting time are important indicators to adjust producti
 
 ### How would it look like?
 
-In practice there will be stores, both physical and online as we are used today, but there will be no money. Every person have its own identification key, similar to today ID cards, that will be used to acquire whatever we desire and track consumption.
+In practice there will be stores, both physical and online as we are used today, but there will be no money. Every person has an identification key, similar to today ID cards, that is used to acquire whatever we desire and help track consumption.
 
 Imagine to enter into a store, get all the groceries you need, scanning each item as you go as already happen in many supermarkets, and then just go back home. No cashier and check-in are needed because everything is free. With the right technology we can even remove the need to manually scan each product, as Amazon already experimented with "[Just Walk Out Shopping](https://justwalkout.com/)".
+
+Forgetting to scan an item is no big deal, tracking is limited to statistical purposes,
 
 Through our smartphone we have easy access to a detailed product page, with all the information necessary to decide which product better fit our preferences. Each product also has a section for people reviews.
 
