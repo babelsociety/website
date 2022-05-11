@@ -6,7 +6,11 @@ description = "A lone master is as powerful as a lone slave"
 date = 2022-04-19
 +++
 
-In this article we analyze the concept of authority, how it works, what it needs, how it relates to manipulation and how it differs from leadership. We have generalized a bit, but what follows holds true for the majority of people.
+We live under constant pressure of authority, and in this world we created there is less and less space for free will and authenticity.
+
+However authority is no natural nor divine law. We can arrange society in a more humane way, we can create a society where our true self can blossom under freedom. But first we must understand all the subtle ways authority influences our lives.
+
+In this article we analyze the concept of authority, what it needs, how it relates to manipulation and how it differs from leadership. We have generalized a bit, but what follows holds true for the majority of people.
 
 We define authority as "the power to command others". There are different degrees of authority: greater it is and more commands we will be able to give. Absolute authority means that we have full control over a person, and that they will execute our commands without doubt. Masters have absolute authority over their slaves.
 
@@ -15,7 +19,7 @@ This definition may be confused with manipulation. Indeed, through perfect manip
 The manipulator's power comes from themselves, from their personal ability to trick other people.  
 **The ruler's power comes from others, from their awake willingness to follow the received commands**.
 
-What brings a person to bow to what another commands? Don't they value freedom and free will?
+What brings a person to bow to what another commands? Don't we all value freedom and free will?
 
 There are several reasons. A common argument is that people don't like to think much and rather prefers to let others decide for them. Even though there may be a *tiny* minority naturally inclined to being commanded, it isn't enough to justify how prevalent it is nowadays.
 
