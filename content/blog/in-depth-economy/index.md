@@ -142,18 +142,6 @@ How we solve the issue depends on our aptitudes, but the point is to act upon a 
 
 Others will help and follow, but it's up to each of us to improve our community. **Don't wait for others, act!**
 
-### Mindful consumption
-
-In a society committed to consumerism, where having luxurious products is a status symbol, a way to put yourself above others, to feel as if we were better than others, universal free consumption can't exist because it is in stark contrast with its exclusiveness principle. The main characteristic of luxury is in fact that very few people can afford it, otherwise it will just be mundane.
-
-However consumerism main reason to exists is the need to sell as much as possible. Selling products in a market economy is the only way to get money, and through money we improve our lives. By removing profits from the picture, we eliminate the whole issue of consumerism. There is no reasons for a person to sell many more products than necessary, thus there is no reason to trick people in consuming more than they need.
-
-Thanks to these fundamental changes we create a system that naturally foster mindful consumption, where we take all that we need to live a meaningful life but no more.
-
-More importantly, if everyone consume what they need, we minimize the risk of artificial shortages caused by hoarding and wasting of resources.
-
-It also have the positive side effect to reduce pollution by both reducing overall amount of goods produced and the related waste. Just think of how much we could save by
-
 ### Prediction
 
 Because we track everything, once we accrue enough data we can statistically predict future consumption for each product and adapt our production accordingly.
