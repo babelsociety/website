@@ -46,13 +46,11 @@ Spoiler alert: the result is nothing new, greatly similar to what [anarchist com
 
 Taking all in consideration, our main design decision is: **an individual's quality of life is strictly bound to society's quality of life**.
 
+Society's quality of life is in turn bound to all the efforts poured in by its members. This setup creates a virtuous positive feedback loop where to improve our life we actively and indirectly improve the life of everyone else. Don't worry if this concept is still unclear, we'll further explain it in the rest of the article.
+
 We believe this formula plays well with the different aspects of human nature, for example both egoism and altruism can be put up to good work in this model.
 
-It means that by improving our life we automatically improve other people's life too, creating a virtuous cycle. Don't worry if this concept is still unclear, we will further explain it in the rest of the article.
-
-We believe every emotion and aspect of human nature is important, every sentiment necessary, worth to have and explore.
-
-**Our job as human beings is to balance and harmonize our multifaceted nature into a beautiful character**. Like in music, a beautiful melody isn't one only composed by high or low notes, but one where all notes have their place and time, skillfully choreographed into a delightful opera.
+Every emotion and aspect of human nature is important, every sentiment necessary, worth to have and explore. **Our job as human beings is to balance and harmonize our multifaceted nature into a beautiful character**. Like in music, a beautiful melody isn't one only composed by high or low notes, but one where all notes have their place and time, skillfully choreographed into a delightful opera.
 
 ## Why not a market economy?
 
