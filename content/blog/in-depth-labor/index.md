@@ -30,6 +30,14 @@ Are you tired of your current job? Just try another venture for some time and se
 
 Did you overwork yourself on the last project out of excitement? Disconnect and get some well-deserved leisure time. It is up to you. It's that easy.
 
+# Full collaboration
+
+Being true to our core values, we reject [authority](@/blog/authority/index.md) at social level as much as we do on the working place. That's why all decisions regarding a particular production line concerns all workers. There is no boss, no small group of people who decide for everyone else.
+
+There may be small groups entrusted to come up with a solution to a specific problem, but the solution must then be agreed by all workers. Small groups have no executive power.
+
+We encourage such groups to be dismantled once the solution is found and to vary the people entrusted to work on the next problem. This will foster a better social knitting between all workers, avoiding soft hierarchies and urge everyone to try different responsibilities.
+
 # Finding a job
 
 Say we are looking for something to do. We connect to the online forum and see what projects are open for help in our area. We find one that piques our interest and join the discussion, asking some question and see if we can be of any help.

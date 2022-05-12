@@ -14,7 +14,7 @@ In the words of French economist and politician Raymond Barre:
 
 > _Economics is the science of managing scarce resources_. It examines the forms taken by human behavior in the management of these resources; analyzes and explains the ways in which an individual or a society _allocates limited means to the satisfaction of multiple and unlimited needs_.
 
-The main goal of any economic system must be to efficiently manage scarce resources and at the same time keep under control our unlimited desires.
+The main goal of any economic system must be to efficiently manage scarce resources and at the same time keep our unlimited desires under control.
 
 Managing is all about making decisions and setting up the right processes. Better the decisions we make, greater would be the efficiency.
 
@@ -30,7 +30,7 @@ Another important factor is that environment influences desires: in Siberia we d
 
 As if all of this wasn't complex enough to balance, our needs and desires are always changing: what's important today may be useless tomorrow. Whatever distribution we find, **it will always be a fleeting approximation**.
 
-The best resource allocation method is one that can be applied often and **gives enough satisfaction to as many people as possible**. Thus, an economic model that satisfies less than 5% of the population is, by definition, a very bad one.
+The best resource allocation method is one that can be applied often and **gives enough satisfaction to as many people as possible**. Thus, an economic model that satisfies 10% of the population is, by definition, a very bad one.
 
 # Main goal
 
@@ -52,7 +52,7 @@ It means that by improving our life we automatically improve other people's life
 
 We believe every emotion and aspect of human nature is important, every sentiment necessary, worth to have and explore.
 
-**Our job as human beings is to balance and harmonize our multifaceted nature into a beautiful character**. Like in music, a beautiful melody isn't one composed by only high or low notes, but one where all notes have their place and time, skillfully choreographed into a delightful opera.
+**Our job as human beings is to balance and harmonize our multifaceted nature into a beautiful character**. Like in music, a beautiful melody isn't one only composed by high or low notes, but one where all notes have their place and time, skillfully choreographed into a delightful opera.
 
 ## Why not a market economy?
 
@@ -76,7 +76,7 @@ As we have explained in [What we deserve](@/blog/what-we-deserve/index.md), we s
 
 ## Sustainability
 
-Many production activities when done without care can detrimental to our environment.
+Many production activities when done without care can be detrimental to our environment.
 
 A management of scarce resources that doesn't consider a sustainable cycle of production and consumption is a short-sighted and self-destructive one. Such carelessness is what brought upon us the global climate crisis, which could potentially wipe-out humanity from Earth.
 
@@ -96,7 +96,7 @@ Even though market and planned economics are antipodes, there are stark similari
 
 It doesn't matter the chosen economic model, whenever we want to produce something we must choose a production method, which in turn dictates inputs, outputs and final quality of our product.
 
-How to choose depends in part on our environment and the available resources. As we said, our environment changes over time, hence it is essential to **track** how well we are doing, and use these data to **adapt** our production to keep and improve efficiency.
+How to choose depends in part on our environment and the available resources. As we said, our environment changes over time, hence it is essential to **track** how well we are doing, and use these data to **adapt** our production to keep and improve efficiency. In capitalism this process is done by each business individually, while in a planned economy the information is shared with everyone else. The point is, this is a fundamental process.
 
 Babel economy wants to declutter this truth from any accidental complexity to maximize its effectiveness.
 
@@ -104,7 +104,7 @@ We can electronically **track** all the resources produced and consumed by both 
 
 Equipped with this information, individual producers can have a clear understanding of the whole economy at different granularity levels, allowing them to efficiently **adapt** their production line as needed.
 
-We want to be crystal clear that the role of tracking is limited to improving production. Tracking isn't a way to restrict what people can consume, otherwise it wouldn't be a free and fair system.
+We want to be crystal clear that the role of tracking is limited to production improvement. Tracking isn't a way to restrict what people can consume, otherwise it wouldn't be a free and fair system.
 
 # Resources allocation
 
@@ -112,11 +112,11 @@ Still the question remains: how do we allocate different resources?
 
 Remember that our main design decision imposes that **an individual's quality of life is strictly bound to society's quality of life**, thus the most natural way to allocate resources is for **everything** to be **shared and freely accessible**, both the means of production and the results of our efforts.
 
-It is important to understand that resources consumption is completely disconnected from one's production and effort.
+It is important to understand that consumption is completely disconnected from one's production and effort.
 
-If we would follow the old logic of giving different shares of production to different people according to a set of rules, then each individual would work hard to maximize their own gains, to manipulate the system to favor them. Only by making everything freely accessible we can let our intrinsic greed work for the greater-good rather than for our individual gains. Once everything is free, every innovation, every improvement, all spent efforts will be to the benefits of society as a whole.
+If we would follow the old logic of giving different economic power to different people according to a set of rules, then each individual would work hard to maximize their own gains, to manipulate the system to favor them. Only by making everything freely accessible we can let our intrinsic greed work for the greater-good rather than for our individual gains. Once everything is free, every innovation, every improvement, all spent efforts will be to the benefits of society as a whole.
 
-Everything must be free for us to attain real freedom.
+Everything must be free for us to attain real freedom and foster mutual aid.
 
 Times are changing and thanks to technological improvements, we can achieve such a society at large scale. Long gone are the times when a drought would starve an entire village. Today technology allow us to easily satisfy the needs of every person alive.
 
@@ -126,9 +126,9 @@ Let us further explain how we organize consumption and production.
 
 We said that one's desires are infinite and yet we allow everyone to consume as they please; isn't this a mad recipe for shortages and bloody conflicts? We need to dig deeper.
 
-It is true that we have infinite desires, however when we look at a single resource, **our desire towards it is finite**. We may crave an apple now, but once we get it our desire is satisfied, we don't need an infinite amount of apples. If we can access apples whenever we want, there is no need to hoard them, actually that would require more effort: we need storage space, to transport them and dispose of those that rot away.
+It is true that we have infinite desires, however when we look at a single product, **our desire towards it is finite**. We may crave an apple now, but once we get it our desire is satisfied, we don't need an infinite amount of apples. If we can access apples whenever we want, there is no need to hoard them, actually that would require more effort: we need storage space, to transport them and dispose of those that rot away.
 
-The real issue is when we *perceive* that there aren't enough apples to satisfy everyone: the *fear* of missing out can bring out our worst behaviors, especially if one our basic needs is threatened, such as sustenance. This is what we need to solve.
+The real issue is when we *perceive* that there aren't enough apples to satisfy everyone: the *fear* of missing out can bring out our worst behaviors, especially when our basic needs are threatened. This is what we need to solve.
 
 In Babel we have several mechanisms to cope with that.
 
@@ -136,9 +136,9 @@ In Babel we have several mechanisms to cope with that.
 
 Babel emphasizes active involvement. If our desires aren't met by our current production, then it is up to us to satisfy them.
 
-For example, suppose that there isn't enough bread in our community due to lack of bakeries. If we perceive it as a big lack, then it would be normal in Babel to join a bakery and learn the trade, or perhaps research how to produce more bread.
+For example, suppose that there isn't enough bread in our community due to lack of bakeries. If we perceive it as a big lack, then it would be normal in Babel to join a bakery and learn the trade, or perhaps research how to produce more bread, or even by getting together the right people for a new bakery.
 
-How we solve the issue depends on our aptitudes, but the point is to act upon a problem we care for, solving it for both ourselves and the community. **By satisfying our personal desire, we also satisfy that desire for many more people**.
+How we solve the issue depends on our aptitudes, but the point is to act upon a problem we care for, solving it for both ourselves and the community. **By satisfying our personal desire, we also satisfy that desire for many more people**. This is the spirit of our main design principle.
 
 Others will help and follow, but it's up to each of us to improve our community. **Don't wait for others, act!**
 
@@ -166,7 +166,7 @@ It is inevitable that some people will consume less than 3kg, while others will 
 
 **The limit should be considered as an indication that we are over-consuming** and that we should adjust our behavior. Given that we all agreed on the limit together, it would be antisocial and even awkward for people to constantly go over it.
 
-Nonetheless everyone has different needs, hence it should be possible to individually adjust limits. For example, children may need to consume more apples to ensure an healthy growth. The reason isn't important, what's important is that the special cases are discussed and agreed upon by all involved.
+Nonetheless everyone has different needs, hence it should be possible to individually adjust limits. For example, children may need to consume more apples to ensure a healthy growth. The reason isn't important, what's important is that the special cases are discussed and agreed upon by all involved.
 
 Not all products need limits, only those that are at risk of shortages.
 
@@ -178,29 +178,29 @@ There may be goods that take time to produce or aren't suited for continuous pro
 
 All orders are fulfilled on a first come, first served manner. Depending on the nature of the goods, orders may be shared across many producers (standard production method) or be specific to a single shop (custom-made products).
 
-Waiting lists may be prioritized according to some rule to ensure better distribution. For example, in case of a pandemic it is better to give higher priority to the more vulnerable. As always, we rely on our best judgment and tweak the tools available to best solve the issue at hand. A more common one could be to give higher priority to people who never got the product.
+In special cases, waiting lists may be prioritized according to some rule to ensure better distribution. For example, in case of a pandemic it is better to give higher priority to the more vulnerable. As always, we rely on our best judgment and tweak the tools available to best solve the issue at hand.
 
 As everything in Babel, waiting lists are transparent, everyone can see their place in it and the system should estimate how long may take before we receive the goods.
 
 This strategy is flexible and can be applied to all products. For example, we can book a table at our preferred restaurant on a given date, as we can reserve 1kg apples for next Thursday, etc...
 
-Preorders and estimated waiting time are important indicators to adjust production.
+Preorders and estimated waiting times are important indicators to adjust production.
 
 ### How would it look like?
 
 In practice there will be stores, both physical and online as we are used today, but there will be no money. Every person has an identification key, similar to today ID cards, that is used to acquire whatever we desire and help track consumption.
 
-Imagine to enter into a store, get all the groceries you need, scanning each item as you go as already happen in many supermarkets, and then just go back home. No cashier and check-in are needed because everything is free. With the right technology we can even remove the need to manually scan each product, as Amazon already experimented with "[Just Walk Out Shopping](https://justwalkout.com/)".
+Imagine to enter in a store, get all the groceries we need, scanning each item as we go as already happen in many supermarkets, and then just go back home. No cashier and check-in are needed because everything is free. With the right technology we can even remove the need to manually scan each product, as Amazon already experimented with "[Just Walk Out Shopping](https://justwalkout.com/)".
 
 Scanning an item is important, but tracking is limited to statistical purposes, hence if we accidentally miss some data point is no big deal on the large scale.
 
-Through our smartphone we have easy access to a detailed product page, with all the information necessary to decide which product better fit our preferences. Each product also has a section for people reviews.
+Through our smartphone we'll have easy access to a detailed product page, with all the information necessary to decide which product better fit our preferences. Each product also has a section for people reviews.
 
 As you can see, it isn't much different than today experience, but we do away with all the stress caused by market economies.
 
 ### Imported products
 
-Consumption in Babel isn't limited to what is produced internally. Even though we have a soft spot for autonomy, the world is vast and resources scattered around, hence importing goods will be always necessary, even once society grows up to a large scale. **International collaboration is as important as local collaboration**.
+Consumption in Babel isn't limited to what is produced internally. Even though we have a soft spot for autonomy, the world is vast and resources scattered around, hence importing goods will always be necessary, even once society grows up to a large scale. **International collaboration is as important as local collaboration**.
 
 No special rules apply to imported products, even though they would be harder to get and therefore subject to greater scarcity.
 
@@ -212,7 +212,7 @@ If society doesn't have enough money, then projects will be prioritized as usual
 
 ### Mindful consumption
 
-One interesting result of this arrangement is that it can foster a mindful consumption, one where people avoid hoarding or obsesses over products.
+One interesting result of this arrangement is that it can foster a mindful consumption, one where people avoid hoarding or obsess over products.
 
 [Consumerism](https://en.wikipedia.org/wiki/Consumerism), typical of capitalism, is the worst consumption arrangement because it incite people to consume without refrains. As you know already, resources *are* limited, hence infinite consumption is unsustainable. Consumerism exists mainly because producers need to sell as much as they can, that's the only way they have to get more money, and money is essential to have better lives in capitalism.
 
@@ -220,13 +220,13 @@ People are therefore transformed into *consumers*, their role is to consume as m
 
 This madness is dismantled in Babel, because we removed its main ingredients by making everything free. This single fundamental change is enough to remove profits, exclusiveness and struggle to acquire a product, rendering consumerism meaningless.
 
-We can go back to a more humane and sustainable mode of consumption, one where products are just a way to achieve a greater goal, rather than the goal itself. Mindful consumption ensures that people get just what they need to live a meaningful life, now life experiences are much more important than mundane objects.
+We can go back to a more humane and sustainable mode of consumption, one where products are just a way to achieve a greater goal, rather than the goal itself. Mindful consumption ensures that people get just what they need to live a meaningful life, making life experiences much more important than mundane objects.
 
 Consumption and production are the face of the same medal, hence mindful consumption ensures that we only need to produce those products that makes sense, reducing waste. It is yet another virtuous cycle.
 
 ## Production
 
-We mentioned that economy main objective is to satisfy the desires of people in the best possible way. **It is always desire that drives production**, and who's better than ourselves to satisfy our own desires?
+We mentioned that economy main objective is to satisfy the desires of people in the best possible way. Indeed, there is no reason to produce something nobody cares for. **It is always desire that drives production**, and who's better than ourselves to satisfy our own desires?
 
 In Babel more than in other societies, there is an emphasis on *acting* upon what we want, while society support us to make it happen. It naturally follows that **all production is in the direct hand of each person**.
 
@@ -240,13 +240,13 @@ In a capitalistic society whenever we want something so expensive that we can't 
 
 The main source of our excitement and satisfaction isn't the product itself, but rather all the sweat and work we have done to acquire it. We enjoyed the journey that brought us there.
 
-However, not all work is the same. Think about intensive animal farming: who sane in mind would like to work in such a cruel environment? We do it only out of sheer necessity.
+However, not all work is the same. Think about intensive animal farming: who sane in mind would like to work in such a cruel environment? We do it only out of sheer necessity, because we have no other alternative but to sell our labor to survive.
 
 On the other hand, a more humane approach to animal husbandry can be a rewarding way of life, which has the positive side-effect of producing much better and genuine products for all.
 
 Intensive animal farming is just a poster-child of a society dedicated to infinite growth, which is in stark contrast with the reality of finite resources. **It is the result of obsessing over production efficiency and profits**.
 
-**We accept that it is better to use less efficient production methodologies if those are more satisfying to work with**.
+We want to invert this trend, and instead **prefer a less efficient production method if it's more satisfying to work with**.
 
 Suppose we are passionate about chairs made in wood, with a nice look & feel, and that we enjoy making each chair by hand. **Both in planned and market economies this would be a hard business to sell** because it doesn't scale and there are more efficient way to produce chairs.
 
@@ -282,14 +282,6 @@ It's up to the initial proponent to promote the idea and gather all the support 
 
 The proponent however isn't the *owner* of the project nor product, everyone interested will have the same stake on it, both during its planning phase and once it is up and running.
 
-### Full collaboration
-
-Being true to our core values, we reject [authority](@/blog/authority/index.md) at social level as much as we do on the working place. That's why all decisions regarding a particular production line concerns all workers. There is no boss, no small group of people who decide for everyone else.
-
-There may be small groups entrusted to come up with a solution to a specific problem, but the solution must then be agreed by all workers. Small groups have no executive power.
-
-We encourage such groups to be dismantled once the solution is found and to vary the people entrusted to work on the next problem. This will foster a better social knitting between all workers, avoiding soft hierarchies and urge everyone to try different responsibilities.
-
 ### Adapting
 
 Let's say the population in our area grows and we need to produce more bread. We can reach out to our flour suppliers and ask them for more. If they have spare capacity, then all good.
@@ -300,7 +292,7 @@ That's how we can choreograph a large scale change starting from individual need
 
 ### How would it look like?
 
-Suppose we are a biologist and finally finished a research on a new type of grain. It is time to start production and reap the fruits of our labor.
+Suppose we finally finished a research on a new type of grain. It is time to start production and reap the fruits of our labor.
 
 We open a production project and soon people involved in agriculture show up, asking further question on how it works, and willing to try the new variety. All together we decide on which fields would be best to run the first crop, then come up with the initial requirements for number of seeds and all other resources needed.
 
@@ -308,7 +300,7 @@ Sadly there isn't enough fertilizer available, but after some inquiry, a couple 
 
 We are thrilled to see how our grains will fare in the world first-hand, hence we join the farm and work together with everyone for a period of time before going back to research.
 
-As you can see, there is a good degree of collaboration involved. The researcher wouldn't be able to setup the whole supply chain and work the field alone, but thanks to others' capabilities, expertise and goodwill, they are able to create something new and improve life for all.
+As you can see, there is a good degree of collaboration involved. The researcher wouldn't be able to setup the whole supply chain and work the field alone, but thanks to others' capabilities, expertise and goodwill, they are able to create something new and improve life for all. Here again we can see how our main design principle applies.
 
 # Economic growth
 
@@ -320,7 +312,7 @@ However theory and reality often diverge. It is hard to predict all the challeng
 
 We accept the fact that we may never reach a level of opulence comparable to capitalism's top 1%, but this is by design rather than a problem.
 
-The purpose of Babel isn't to create a highly productive system, but rather a society where everyone has all they need to search for their own happiness.
+The purpose of Babel isn't to create a highly productive system, but rather a society where everyone has all they need to reach for their own happiness.
 
 **Happiness is a state of the mind**, often fired up by succeeding in our intentions, by finishing something we are proud of or are satisfied with, in perfect line with our crafty nature. Once the basic needs are guaranteed, happiness has very little to do with how many and what kind of products we have.
 
@@ -348,7 +340,7 @@ Tourism is an excellent vector for change, a way to show the world the quality o
 
 Tourists have to register and purchase standard packages that give them limited access to what society has to offer. It is similar to [soft limits](#soft-limits), but it uses a hard limit instead. Guests can always expand their packages for a fee if they exhaust their quotas. This will also help us acquire foreign currency useful for importing resources.
 
-Like everybody else, they will be required to respect the environment and the social agreements: littering and other acts of incivility will be subject to very high fees, and potentially have them expelled in extreme cases.
+The pricing of those packages may be based on prices back in the original countries, so to be more inclusive.
 
 # Conclusions
 
@@ -362,15 +354,12 @@ By applying this economic system we are efficiently coping with our infinite des
 - Economic corruption: there is nothing we could give to somebody else to force them to do what we want.
 - Economic discrimination: everyone will have as much as everyone else, making any discrimination based on wealth impossible.
 - Black markets: there will be no customs or illegal goods, hence no need for black markets.
-- Tax evasions: no money, no taxes, no evasion.
 
 **The most important issue solved is pollution**. The greatest cause of pollution today isn't due to a lack of green technology, but rather people profit more by *not* using them.
 
 Those who decide to poison the river live far, far away from it, and thus don't care the least about it. Notwithstanding the elimination of the profit motive, given that all production in Babel is under the responsibility of local people, **nobody sane in mind would poison the river they use for water**.
 
-Babel creates the perfect environment to reduce and completely eliminate pollution.
-
-**This is the most important contribution and why we should all support this kind of economic systems**.
+Babel creates the perfect environment to reduce and completely eliminate pollution. This alone should bring this kind of economic systems more into discussion.
 
 # Critiques
 
@@ -380,11 +369,9 @@ It is true that technology is well integrated in Babel, we believe it is essenti
 
 We understand that it is easy to over-rely on technology and build a system that locks us away in case of issues, that's why **this is a good concern, and one we need to keep in mind when designing all systems**.
 
-However we track resources as a way to improve our knowledge of the economy, **and not as a way to control people**.
+However, we track resources only to improve our knowledge of the economy. In case of an issue in the system people must still be allowed to get whatever they need, we may lose some data and perhaps some of our statistics will be wrong, but because decision is still in people's hands, it is no big deal, we can compensate for it. The worst thing that may happen would be for some stores to have a delay in their supply, but nothing a good chat can't resolve.
 
-In case of an issue in the system, the worst thing that should happen is that we lose some data and perhaps a store will have a delay on supply.
-
-It is paramount that people are able to get whatever they need even when the whole system is down. Such is the system we have in mind.
+Such is the system we have in mind.
 
 If we exclude the high scale from the picture, a small community can apply this economic system with just pen & paper, by simply discussing in person about what is needed. It will be less efficient, but still better than capitalism.
 
@@ -392,7 +379,7 @@ If we exclude the high scale from the picture, a small community can apply this 
 
 Here *X* is anything with limited availability, such as a house nearby the sea.
 
-This is a legit concern in capitalism, where social status is flaunted through luxurious items. They also wrongly teach us that any emotional void can be filled through materialistic consumption. All of these issues have no place in Babel.
+This is a legit concern in capitalism, where social status is flaunted through luxurious items. They also wrongly teach us that any emotional void can be filled through materialistic consumption. As we already explained in [Mindful consumption](#mindful-consumption), consumerism has no place in Babel.
 
 When it comes to goods of different quality, there is no place for poor quality products because there are no poor people forced to consume it.
 
