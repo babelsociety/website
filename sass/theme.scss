@@ -61,6 +61,12 @@ header {
   flex-grow: 0;
 }
 
+hr {
+  width: 100%;
+  box-sizing: border-box;
+  margin-top: 2rem;
+}
+
 .hide {
   display: none !important;
 }
