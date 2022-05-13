@@ -14,9 +14,9 @@ During the [Middle Ages](https://en.wikipedia.org/wiki/Middle_Ages), aristocracy
 
 Even then people kept searching for a better answer. With the advent of the [Age of Enlightenment](https://en.wikipedia.org/wiki/Age_of_Enlightenment) things started to change once more, and changed even more after the great [French Revolution](https://en.wikipedia.org/wiki/French_Revolution) in 1789, and all that followed.
 
-Some would tell you that true, nobles are no more, but not all people are the same. There is the artisan and the thief, the hard-worker and the lazy, the smart and the dumb, the good and the evil. Thus the idea that a just and fair society have to reward more those with greater merit, greater morality and greater talents.
+Some would tell you that true, nobles are no more, but not all people are the same. There is the artisan and the thief, the hard-worker and the lazy, the smart and the stupid, the good and the evil. Thus the idea that a just and fair society have to reward more those with greater merit, greater morality and greater talents.
 
-They say "See how many dumb people surround us? They must be guided by those who see farther and know better".
+They'll say "Don't you see how many stupid people surround us? They must be guided by those who see farther and know better".
 
 In the last century in particular, we have seen this idea more and more advertised around the world, especially where liberal values are upheld. No matter their political color, all agrees that we must organize our society based on merits and talents, hence the revival of [meritocracy](https://en.wikipedia.org/wiki/Meritocracy).
 
