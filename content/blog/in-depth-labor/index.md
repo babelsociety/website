@@ -3,7 +3,7 @@ weight = 5
 
 title = "Babel In Depth: Labor"
 description = "Let's unleash our full potential"
-date = 2022-04-19
+date = 2022-05-13
 +++
 
 In this article we analyze how labor is organized in Babel, why we believe it's much better than today standards and what problems it solves.
@@ -24,15 +24,15 @@ If I don't like my job, no matter the incentives and punishments, I will always 
 
 By disconnecting quality of life from work done, we liberate our full potential. We are free from our individual limitations, able to harness all that society has to offer to achieve what we want, what society as a whole really needs.
 
-By allowing people to work as much as they want on what they are interested into we ensure the best quality of work with the least amount of stress, nurturing a pleasant work environment.
+By allowing people to work as much as they want on what they are interested, we ensure the best quality of work with the least amount of stress, nurturing a pleasant work environment.
 
 Are you tired of your current job? Just try another venture for some time and see how it goes. There is no need to commit your entire life to a single field. You are free to go as deep and wide as it best suit yourself.
 
 Did you overwork yourself on the last project out of excitement? Disconnect and get some well-deserved leisure time. It is up to you. It's that easy.
 
-# Full collaboration
+# Zero hierarchy
 
-Being true to our core values, we reject [authority](@/blog/authority/index.md) at social level as much as we do on the working place. That's why all decisions regarding a particular production line concerns all workers. There is no boss, no small group of people who decide for everyone else.
+Being true to our core values, we reject [authority](@/blog/authority/index.md) at social level as much as we do on the working place. That's why all decisions regarding a particular production line concerns all workers involved. There are no bosses, no small group of people who decide for everyone else.
 
 There may be small groups entrusted to come up with a solution to a specific problem, but the solution must then be agreed by all workers involved. Small groups have no executive power.
 

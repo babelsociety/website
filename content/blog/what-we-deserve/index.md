@@ -3,7 +3,7 @@ weight = 1
 
 title = "What we deserve"
 description = "Nobody should be slave to either theirs or others talents"
-date = 2022-04-19
+date = 2022-05-13
 +++
 
 In this article we analyze and address meritocracy and the false necessity of ranking people, answering the question "what do we deserve?".

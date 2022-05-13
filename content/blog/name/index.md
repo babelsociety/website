@@ -1,6 +1,6 @@
 +++
 title = "Meaning of the name"
-description = "Why we chose this name"
+description = "Why we chose Babel as a name"
 weight = 7
 
 [extra]

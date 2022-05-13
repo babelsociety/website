@@ -3,7 +3,7 @@ weight = 4
 
 title = "Babel In Depth: Economy"
 description = "Maximize quality of life instead of profits"
-date = 2022-04-19
+date = 2022-05-13
 +++
 
 In this article we analyze Babel economy more in depth. We explain the reason behind this model, how it works and address some critiques.

@@ -429,7 +429,7 @@ If I don't like my job, no matter the incentives and punishments, I will always 
 
 By disconnecting quality of life from work done, we liberate our full potential. We are free from our individual limitations, able to harness all that society has to offer to achieve what we want, what society as a whole really needs.
 
-By allowing people to work as much as they want on what they are interested into we ensure the best quality of work with the least amount of stress, nurturing a pleasant work environment.
+By allowing people to work as much as they want on what they are interested, we ensure the best quality of work with the least amount of stress, nurturing a pleasant work environment.
 
 Are you tired of your current job? Just try another venture for some time and see how it goes. There is no need to commit your entire life to a single career. You are free to go as deep and wide as it best suit yourself.
 

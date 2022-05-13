@@ -3,7 +3,7 @@ weight = 3
 
 title = "Beyond Market Economy"
 description = "How Market Economy encourages bad behaviors and what alternative we have"
-date = 2022-04-19
+date = 2022-05-13
 +++
 
 In this article we want to better understand why we need an alternative to market economies and how it could look like.

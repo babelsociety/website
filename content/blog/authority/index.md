@@ -3,7 +3,7 @@ weight = 0
 
 title = "Authority, enemy of free will"
 description = "A lone master is as powerful as a lone slave"
-date = 2022-04-19
+date = 2022-05-13
 +++
 
 We live under constant pressure of authority, and in this world we created there is less and less space for free will and authenticity.
