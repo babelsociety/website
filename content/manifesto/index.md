@@ -6,6 +6,7 @@ aliases = ["manifest"]
 
 [extra]
 menu = "Manifesto"
+updated_at = "2022-05-13"
 +++
 
 Although the universe is incomprehensibly vast, we know only one planet where life has managed to flourish: the Earth.
