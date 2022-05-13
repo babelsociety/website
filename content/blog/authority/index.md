@@ -81,7 +81,7 @@ One person is powerless, but if many people awaken and come together to protest,
 
 **Organized people are the greatest might of any society**. This is the same power exploited by authority, the one we should regain control over.
 
-Our first goal must be to create a safe-zone, an armor for the ruled that can withstand the backslashes of the masters. Without it, any effort will be quickly stifled by authority's power.
+Our first goal must be to create a safe-zone, an armor for the ruled that can withstand the masters' backlash. Without it, any effort will be quickly stifled by authority's power.
 
 In parallel we must provide good education, one that foster critical thinking, this is the best cure against indoctrination. Instead of obedience, let's hand down free will to our children; that's the only way we can ensure a brighter future.
 
