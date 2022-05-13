@@ -1,5 +1,5 @@
 +++
-weight = 4
+weight = 5
 
 title = "Babel In Depth: Labor"
 description = "Let's unleash our full potential"
