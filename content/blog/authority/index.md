@@ -57,7 +57,7 @@ Rulers are aware of this weakness, that's why compliance is ensured through a so
 
 As we mentioned, indoctrination is the main vehicle, we are taught that those who don't follow the rules must be punished and rejected by society as a whole. The dream of authority is when citizen themselves police each others, informing authority of any transgression. We know how catastrophically well it worked in Nazi Germany.
 
-Indoctrination is further reinforced by authority cunningly presenting itself as benevolent. It will reward us when we comply because it knows that more comfortable are its subjects, stronger will be its grip. Be obedient and I'll buy you that toy. Repeat what we teach and you'll get good grades. Get good grades and I'll put you in a good college. Go to a good college and I'll give you a good job. Get a good job, obey your masters and you'll have a great life. Those who follow the rules are meant for great happiness. Some try to push this as the true reason to be alive, *go figure*.
+Indoctrination is further reinforced by authority cunningly presenting itself as benevolent. It will reward us when we comply because it knows that more comfortable are its subjects, stronger will be its grip. They'll tell us: "Be obedient and I'll buy you that toy", "Repeat what we teach and you'll get good grades", "Get good grades and I'll put you in a good college", "Go to a good college and I'll give you a good job", "Get a good job, obey your masters and you'll have a great life". They'll insist that those who follow their commands are meant for great happiness. Some try to push it as the true reason to be alive, *go figure*.
 
 More you have to lose, greater the fear of losing it. They'll tell you: "Why should you dissent and risk everything?", "Why all the fuss on fabricating this report when you could lose your job and become poor? [Don't you see how much in discomfort they are?](@/blog/systemic-poverty/index.md) Do you *really* want to be part of it?", "Just live in your nice house and obey".
 
@@ -81,7 +81,7 @@ One person is powerless, but if many people awaken and come together to protest,
 
 **Organized people are the greatest might of any society**. This is the same power exploited by authority, the one we should regain control over.
 
-Our first goal must be to create a safe-zone, an armor for the ruled that can withstand the masters' backlash. Without it, any effort will be quickly stifled by authority's power.
+Our first goal must be to create a safe-zone, an armor for the ruled that can withstand the masters' backlash
 
 In parallel we must provide good education, one that foster critical thinking, this is the best cure against indoctrination. Instead of obedience, let's hand down free will to our children; that's the only way we can ensure a brighter future.
 
