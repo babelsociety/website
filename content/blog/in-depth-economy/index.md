@@ -4,11 +4,14 @@ weight = 4
 title = "Babel In Depth: Economy"
 description = "Maximize quality of life instead of profits"
 date = 2022-05-13
+
+[extra]
+updated_at = "2022-05-23"
 +++
 
 In this article we analyze Babel economy more in depth. We explain the reason behind this model, how it works and address some critiques.
 
-# Managing scarce resources
+# Managing scarce resources {#managing}
 
 In the words of French economist and politician Raymond Barre:
 
@@ -360,6 +363,26 @@ Those who decide to poison the river live far, far away from it, and thus don't 
 Babel creates the perfect environment to reduce and completely eliminate pollution. This alone should bring this kind of economic systems more into discussion.
 
 # Critiques
+
+#### It doesn't account for the Economic Calculation Problem.
+
+The [Economic Calculation Problem](https://en.wikipedia.org/wiki/Economic_calculation_problem) states that to be able to efficiently manage resources allocation, and thus provide society with a great life, we must have a market with prices.
+
+When Ludwig von Mises formulated his critique, it was mainly comparing capitalism against the centralized planned economics in vogue in Soviet Union. As we already explained in [Managing scarce resources](#managing), resources allocation is indeed a very tough problem to crack and we agree that it is unfeasible for a small group of people to come up with even a sufficient distribution. This was further demonstrated by the many economic shortcomings in both USSR and China due to lack of transparent and precise information.
+
+The reason however has nothing to do with lack of prices nor markets, but rather with information processing. A small group of people can't possibly account for all the vagaries of the society their are catering for, thus producing sub-optimal decisions.
+
+This issue doesn't apply to Babel, or any other economic model that tends to be decentralized. As we explained in [Track & Adapt](#track-adapt), every economic model is always affected by these two fundamental processes, hence if the economic calculation problem would apply to Babel, it would further apply to any other economic model, capitalism included.
+
+Every business in market economies must gather data and insights on the markets they operate in, and always keep an eye on the metrics specific to their own business, such as customer satisfaction, churned customers, production rates, how and where money are spent, how many people we reach with last advertisement campaign, and so on. As you can see, prices are just a tiny part of all data.
+
+Suppose that there is an increase in prices for one of our essential input resource. According to von Mises, this would be enough to let us change our production, but is it? As we know, it is the chosen production method that dictates input resources, but also the quality and quantity of products we produce. Changing one of the inputs means we have to change the production method, which will then impact quality and quantity, and may even require different technologies and different skills. Even supposing we can easily change production method, is the increase in price stable or will it soon go back? In other terms, *why* the price changed? Even though prices *may* let us reconsider our options, it's just the start of the story: a worthy business will have to consider many other aspects before making a decision.
+
+Once we abstract prices into the "data" bucket, we see that markets operate in very similar manner to how Babel operates. Instead of having to look at prices, these potential changes will be triggered by simple communication. Remember that prices changes due to change in external factors, such as a ruined crop. When this happens in Babel, the affected producers will not be able to fulfill their agreed part of the supply chain and thus promptly contact all the interested people.
+
+This is a more social and effective way of handling the issue, because in markets prices are further subjected to speculation, which makes people take decisions that sometimes are against society well-being. For example, when prices go down, producers are encouraged to store their product away, waiting for a better price to sell, creating an artificial scarcity that help rise the price back. However they may decide to withhold product even when prices are going up. The underlying logical reasoning is the same: why should I sell at $10 today when I could sell at $12 tomorrow? This happens more often than you may expect, and is especially profitable for big corps who have the necessary storage means.
+
+In both cases, markets are worsening consumers' life because they now have to pay more money for something that should cost less, and sometimes products will be even completely inaccessible. Thus, distribution becomes less efficient than in Babel.
 
 #### Excessive reliance on technology. As soon as there is a bug, and there will be, everything will fall apart.
 
