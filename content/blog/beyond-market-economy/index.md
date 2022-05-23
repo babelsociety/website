@@ -4,6 +4,9 @@ weight = 3
 title = "Beyond Market Economy"
 description = "How Market Economy encourages bad behaviors and what alternative we have"
 date = 2022-05-13
+
+[extra]
+updated_at = "2022-05-23"
 +++
 
 In this article we want to better understand why we need an alternative to market economies and how it could look like.
@@ -13,6 +16,8 @@ We aim for a broad audience, if you are unfamiliar or don't have clear what a ma
 # Issues
 
 The best way to see why we need a better economic model is to explore what issues Market Economy creates when applied to real life.
+
+If you want to see this problem from the point of view of a well-read economist, you may enjoy "[What's wrong with Markets?](https://participatoryeconomy.org/whats-wrong-with-markets/)" by [Robin Hahnel](https://en.wikipedia.org/wiki/Robin_Hahnel). 
 
 ## Killing competition
 
@@ -30,7 +35,7 @@ One infamous example is the [Phoebus Cartel](https://en.wikipedia.org/wiki/Phoeb
 
 Monopolies tend to be strictly regulated in many countries, however big businesses often find loopholes or ignore it until they are busted. See [Amazon hit with record US$1.3 billion fine for abuse of supply chain monopoly](https://techhq.com/2021/12/amazon-hit-with-record-us1-3-billion-fine-for-abuse-of-supply-chain-monopoly/) for a quick example.
 
-The problem this creates is that most wealth with time will naturally flow towards the hands of the few people who owns those massive corporations, and because wealth is power in every market economy, they become the new aristocracy of their time. Even worse, wealth sticks, it is forwarded to future generations. When few people seize most of the wealth, then the majority of the population is forced into poverty. After World War II, each new generation could enjoy a better life than previous one, with more wealth and education, however since the Millennials (born between 1980 and 1996) the trend inverted and since then each new generation live in worst conditions than previous one. Incidentally, [greater and greater wealth is concentrating in the hands of the few](https://www.theguardian.com/inequality/2017/dec/14/world-richest-increased-wealth-same-amount-as-poorest-half).
+The problem this creates is that most wealth with time will naturally flow towards the hands of the few people who owns those massive corporations, and because wealth is power in every market economy, they become the new aristocracy of their time. Even worse, wealth sticks, it is forwarded to future generations. When few people seize most of the wealth, then the majority of the population is forced into poverty. After World War II, each new generation could enjoy a better life than previous one, with more wealth and education, however since the 1970 the trend inverted and each new generation lives in worst conditions than previous one. This is well demonstrated by the [widening gap between productivity and pay](https://www.epi.org/productivity-pay-gap/). Incidentally, [greater and greater wealth is concentrating in the hands of the few](https://www.theguardian.com/inequality/2017/dec/14/world-richest-increased-wealth-same-amount-as-poorest-half).
 
 One peculiarity it reflects is the limits of fierce competition. Even in an environment as strictly competitive as markets, **those who actually win the game**, raking in the greatest profits, **do so through collaboration rather than competition**. Toxic competition however brews toxic collaboration, in fact these agreements are often unstable and aimed at brutally drive out of market as many competitors as they can.
 
@@ -38,9 +43,9 @@ One peculiarity it reflects is the limits of fierce competition. Even in an envi
 
 We deem as successful a business that is capable of conquering a big market share and produce hefty profits for its owners.
 
-This economic success doesn't equate to a business that is morally just, nor even ethical. Indeed, many economically successful businesses are also unethical and infamous for their exploitative malpractices.
+This economic success doesn't equate to a business that is morally just, nor even ethical. Indeed, many economically successful businesses are also unethical and infamous for their exploitative malpractices. [Nestlé and its boycott going on since 1977 is just one example](https://en.wikipedia.org/wiki/1977_Nestl%C3%A9_boycott); [even in the eyes of much controversy](https://en.wikipedia.org/wiki/Nestl%C3%A9#Controversy_and_criticisms), it still continues to operate with very little issues.
 
-Another classic example is the hedge-fund manager who earn hundreds times more than a teacher. We could debate on which job provide greater benefits to society, but we should all agree that the value provided by the manager will never be hundreds times more than the teacher.
+Another classic example is the hedge-fund manager who earns hundreds times more than a teacher. We could debate on which job provide greater benefits to society, but we should all agree that the value provided by the manager will never be hundreds times more than the teacher, thus this suffice to see how profits in market economies do not equate to social value.
 
 Markets are simple tools limited to the economic realm and that's it. Price in a market isn't synonym of societal value, only of market value, but we often conflate the two.
 
@@ -70,9 +75,11 @@ This issue isn't only limited to physical goods, think for example about all sof
 
 ## Manipulation
 
-Humans have a great record when it comes to exploit things, including ourselves. It is only natural that when our quality of life is at stake, people will nudge and push, trying to find the best way to exploit markets.
+Humans have a great record when it comes to exploiting things, including ourselves. It is only natural that when our quality of life is at stake, people will nudge and push, trying to find the best way to exploit markets.
 
-What follows is in no way an exhaustive list, we only give some examples to get an idea around it.
+The issue with market manipulations is that they move us further and further away from the [economic equilibrium](https://en.wikipedia.org/wiki/Economic_equilibrium). A well-known economics fact is that more we diverge from economic equilibrium, and worse will be the resources distribution, making market economies increasingly inefficient.
+
+What follows is in no way an exhaustive list of how markets can be manipulated, we only give some examples to get an idea around it.
 
 ### Demand manipulation
 
@@ -112,7 +119,7 @@ The whole financial market is one of the most unstable and prone to manipulation
 
 The stock market increases mostly due to speculation rather than creation of real value. We should always remember the [Wall Street Crash of 1929](https://en.wikipedia.org/wiki/Wall_Street_Crash_of_1929) and the [Financial crisis of 2008](https://en.wikipedia.org/wiki/Financial_crisis_of_2007%E2%80%932008).
 
-Many of those manipulation are being revamped in the more recent crypto-currency market, such as the "pump & dump": a wealthy, organized group of buyers start buying lots of crypto and generate transactions to artificially increase the coin value (pump); once the price is high enough, it will attract more naïve people and allow the initial buyers to sell their cryptos for a big profit (dump). Those people who buy high may even be tricked to believe they are part of the "pump" scheme, while in all effect being victim of the dump.
+Many of these manipulations are being revamped in the more recent crypto-currency market, such as the "pump & dump": a wealthy, organized group of buyers start buying lots of crypto and generate transactions to artificially increase the coin value (pump); once the price is high enough, it will attract more naïve people and allow the initial buyers to sell their cryptos for a big profit (dump). Those people who buy high may even be tricked to believe they are part of the "pump" scheme, while in all effect being victim of the dump.
 
 When "[pump & dump](https://en.wikipedia.org/wiki/Pump_and_dump)" is combined with "[short selling](https://en.wikipedia.org/wiki/Short_%28finance%29)" we have the "[short squeeze](https://en.wikipedia.org/wiki/Short_squeeze)", which recently caused quite some trouble to hedge-funds during the [Gamestop short squeeze](https://en.wikipedia.org/wiki/GameStop_short_squeeze).
 
@@ -164,13 +171,13 @@ However the worst effect is that research follows the interested of the business
 
 # Root cause
 
-All the issues so far discussed stems from the design decision that all variations of Market Economy abide to: **an individual's quality of life is strictly bound to how good of a seller they are**.
+All the issues so far discussed stems from the fundamental design decision that all variations of Market Economy abide to: **an individual's quality of life is strictly bound to how good of a seller they are**.
 
 Let's analyze what it means.
 
 Remember that in a market economy the main way to earn money is through selling products in the market. For the majority of people it's their own labor and time, while for others can be what their factories produce, what their shop sell, etc...
 
-More we manage to profit from the products we sell, greater will be the amount of money we can spend. Further consider that as a buyer our main limitation is the amount of money owned, hence greater the amount, higher the quality and quantity of products we have access to. Ultimately, better access to products translate to a better life overall, both at material and social level.
+More we manage to profit from the products we sell, greater will be the amount of money we can spend. Further consider that as a buyer our main limitation is the amount of money owned, hence greater the amount, higher the quality and quantity of products we have access to. Ultimately, better access to products translates to a better life overall, both at material and social level.
 
 Most human beings (if not all) strive hard to maximize their quality of life and their survival. That's one of the innate trait we have, hence it is by this design that competition arise as the king of markets, further exacerbating our egoism and individualism. Indeed, there is no incentive in helping a complete stranger doing better in life, but rather it is the opposite: by penalizing others we have a greater chance of succeeding.
 
@@ -178,7 +185,7 @@ It is, in our opinion, a ruthless design choice that gave birth to the ruthless 
 
 # An alternative: Babel Economy
 
-We have already discussed at length how Babel Economy looks like in the article "[Babel In Depth: Economy](@/blog/in-depth-economy/index.md)".
+We have already discussed at length how Babel Economy looks like in the article "[Babel in depth: Economy](@/blog/in-depth-economy/index.md)".
 
 As a quick reminder, Babel Economy is strictly decentralized, but it doesn't use markets to distribute products, there is no money and consumption is free under certain limits, depending on each product and environment constraints.
 
